@@ -24,7 +24,7 @@ export function MicrosoftIcon({ size = 18 }: { size?: number }) {
     </svg>
   );
 }
-export function AppleIcon({ size = 18, color = "#000" }: { size?: number; color?: string }) {
+export function AppleIcon({ size = 18, color = "currentColor" }: { size?: number; color?: string }) {
   return (
     <svg viewBox="0 0 24 24" style={S(size)} aria-hidden>
       <path fill={color} d="M16.365 1.43c0 1.14-.417 2.2-1.11 2.98-.79.9-2.08 1.6-3.13 1.52-.13-1.1.44-2.27 1.13-3 .78-.83 2.14-1.46 3.11-1.5zM20.5 17.2c-.55 1.27-.82 1.84-1.53 2.96-.99 1.57-2.39 3.52-4.12 3.53-1.54.02-1.93-1-4.02-.99-2.09.01-2.52 1.01-4.06.99-1.73-.02-3.05-1.79-4.04-3.35-2.77-4.37-3.06-9.5-1.35-12.22C2.6 6.19 4.5 5.1 6.28 5.1c1.81 0 2.95 1 4.45 1 1.45 0 2.34-1 4.44-1 1.58 0 3.26.86 4.45 2.35-3.91 2.14-3.27 7.72.88 9.75z" />
@@ -38,7 +38,7 @@ export function FacebookIcon({ size = 18 }: { size?: number }) {
     </svg>
   );
 }
-export function XIcon({ size = 18, color = "#000" }: { size?: number; color?: string }) {
+export function XIcon({ size = 18, color = "currentColor" }: { size?: number; color?: string }) {
   return (
     <svg viewBox="0 0 24 24" style={S(size)} aria-hidden>
       <path fill={color} d="M18.24 2.25h3.31l-7.23 8.26 8.5 11.24h-6.66l-5.21-6.82-5.97 6.82H1.67l7.73-8.84L1.25 2.25h6.83l4.71 6.23 5.45-6.23zm-1.16 17.52h1.83L7.01 4.13H5.05l12.03 15.64z" />

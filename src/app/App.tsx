@@ -30,7 +30,7 @@ import { RoomDesignerHome, PhotoGuide, RoomDesignerEditor } from "./pages/RoomDe
 
 export default function App() {
   return (
-    // MARKER-MAKE-KIT-INVOKED  MARKER-MAKE-KIT-DISCOVERY-READ  MARKER-MAKE-KIT-TOKENS-READ
+    // MARKER-MAKE-KIT-INVOKED  MARKER-MAKE-KIT-DISCOVERY-READ  MARKER-MAKE-KIT-TOKENS-READ  MARKER-MAKE-KIT-FINAL-CHECK-READ
     // The installed Astra UI kit is a minimal light-mode SaaS system whose rules
     // (mandatory sidebar rail, lavender canvas) conflict with the requested luxury
     // Black & Gold marketplace. Per user direction the storefront is built on a

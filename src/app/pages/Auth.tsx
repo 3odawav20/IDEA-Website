@@ -17,7 +17,7 @@ function ProviderButtons({ onPick }: { onPick: (key: string) => void }) {
           background: "var(--idea-surface-2)", border: "var(--idea-hairline)", borderRadius: "var(--idea-radius-full)",
           color: "var(--idea-text)", fontFamily: "var(--idea-font-body)", fontSize: "var(--idea-text-sm)",
         }}>
-          <span style={{ width: 26, height: 26, borderRadius: 999, background: "#fff", display: "grid", placeItems: "center", flexShrink: 0 }}><p.Icon /></span>
+          <span style={{ width: "calc(var(--idea-space-4) + var(--idea-space-3))", height: "calc(var(--idea-space-4) + var(--idea-space-3))", borderRadius: "var(--idea-radius-full)", background: "var(--idea-bg)", border: "var(--idea-hairline)", color: "var(--idea-text)", display: "grid", placeItems: "center", flexShrink: 0 }}><p.Icon /></span>
           <span>{p[locale]}</span>
         </button>
       ))}

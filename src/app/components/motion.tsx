@@ -118,7 +118,7 @@ export function ShimmerText({ children, style, className }: { children: ReactNod
   const reduce = useReducedMotion();
   const base: CSSProperties = {
     backgroundImage:
-      "linear-gradient(100deg, var(--idea-gold-deep) 0%, var(--idea-gold-bright) 45%, #fff6da 50%, var(--idea-gold-bright) 55%, var(--idea-gold-deep) 100%)",
+      "linear-gradient(100deg, var(--idea-gold-deep) 0%, var(--idea-gold-bright) 45%, var(--idea-gold-sheen) 50%, var(--idea-gold-bright) 55%, var(--idea-gold-deep) 100%)",
     backgroundSize: "220% 100%",
     WebkitBackgroundClip: "text",
     backgroundClip: "text",

@@ -11,12 +11,17 @@
   --idea-surface: #1a181d;       /* cards */
   --idea-surface-2: #221f26;     /* elevated cards / inputs */
   --idea-overlay: rgba(6, 6, 8, 0.72);
+  --idea-hero-overlay: linear-gradient(90deg, rgba(6, 6, 8, 0.9) 0%, rgba(6, 6, 8, 0.55) 45%, rgba(6, 6, 8, 0.15) 100%);
+  --idea-hero-copy: rgba(244, 239, 230, 0.78);
+  --idea-hero-control: rgba(244, 239, 230, 0.35);
+  --idea-hero-control-bg: rgba(20, 19, 23, 0.6);
 
   /* ── Color: gold accent scale (richer in dark mode) ── */
   --idea-gold: #d4af37;
   --idea-gold-bright: #f2d47a;
   --idea-gold-deep: #a5801f;
   --idea-gold-soft: rgba(212, 175, 55, 0.14);
+  --idea-gold-sheen: #fff6da;
 
   /* ── Color: text ── */
   --idea-text: #f4efe6;          /* primary warm white */
@@ -83,12 +88,17 @@
   --idea-surface: #ffffff;
   --idea-surface-2: #eef2fa;
   --idea-overlay: rgba(255, 255, 255, 0.82);
+  --idea-hero-overlay: linear-gradient(90deg, rgba(255, 255, 255, 0.94) 0%, rgba(255, 255, 255, 0.72) 45%, rgba(255, 255, 255, 0.2) 100%);
+  --idea-hero-copy: rgba(16, 21, 40, 0.76);
+  --idea-hero-control: rgba(16, 21, 40, 0.25);
+  --idea-hero-control-bg: rgba(255, 255, 255, 0.7);
 
   /* the "gold" accent role is replaced by a deep royal blue */
   --idea-gold: #1e2f66;
   --idea-gold-bright: #2a3f86;
   --idea-gold-deep: #14204a;
   --idea-gold-soft: rgba(30, 47, 102, 0.08);
+  --idea-gold-sheen: #d9e2ff;
 
   --idea-text: #101528;
   --idea-text-muted: #4c567a;

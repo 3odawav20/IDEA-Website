@@ -56,7 +56,7 @@ export function Header() {
       position: "sticky", top: 0, zIndex: 50, background: "var(--idea-overlay)",
       backdropFilter: "blur(14px)", borderBottom: "var(--idea-hairline)",
     }}>
-      <Container style={{ display: "flex", alignItems: "center", gap: "var(--idea-space-5)", height: 72 }}>
+      <Container style={{ display: "flex", alignItems: "center", gap: "var(--idea-space-4)", height: 72 }}>
         {/* Logo */}
         <Link to="/" style={{ display: "flex", flexDirection: "column", lineHeight: 1, textDecoration: "none" }}>
           <span className="idea-display" style={{ fontSize: 30, letterSpacing: "0.28em", color: "var(--idea-gold-bright)", fontWeight: 600 }}>IDEA</span>
@@ -64,11 +64,11 @@ export function Header() {
         </Link>
 
         {/* Desktop nav */}
-        <nav style={{ display: "flex", gap: "var(--idea-space-5)", marginInlineStart: "var(--idea-space-4)" }} className="idea-desktop-nav">
+        <nav style={{ display: "flex", gap: "var(--idea-space-4)", marginInlineStart: "var(--idea-space-3)" }} className="idea-desktop-nav">
           {links.map((l) => (
             <Link key={l.to} to={l.to} className="idea-nav-link" style={{
-              color: "var(--idea-text-muted)", textDecoration: "none", fontSize: "var(--idea-text-sm)",
-              letterSpacing: "0.06em", textTransform: "uppercase", transition: "color .2s", position: "relative",
+              color: "var(--idea-text-muted)", textDecoration: "none", fontSize: "var(--idea-text-xs)",
+              letterSpacing: "0.04em", textTransform: "uppercase", transition: "color .2s", position: "relative", whiteSpace: "nowrap",
             }}>{l.label}</Link>
           ))}
         </nav>

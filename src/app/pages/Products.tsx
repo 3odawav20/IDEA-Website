@@ -22,10 +22,11 @@ export function Products({ fixedCollection }: { fixedCollection?: CollectionSlug
     [products, fixedCollection]
   );
 
-  const [finish, setFinish] = useState<string | null>(null);
-  const [size, setSize] = useState<string | null>(null);
-  const [usage, setUsage] = useState<string | null>(null);
-  const [color, setColor] = useState<string | null>(null);
+  // Seed filters from the hero search panel (?color=&size=&usage=&finish=).
+  const [finish, setFinish] = useState<string | null>(params.get("finish"));
+  const [size, setSize] = useState<string | null>(params.get("size"));
+  const [usage, setUsage] = useState<string | null>(params.get("usage"));
+  const [color, setColor] = useState<string | null>(params.get("color"));
 
   // Only build filter groups from values that actually exist (no empty filters).
   const facets = useMemo(() => ({

@@ -4,6 +4,7 @@ import { useI18n } from "../i18n/i18n";
 import { useStore } from "../store/store";
 import { COLLECTIONS } from "../data/catalog";
 import { HeroCarousel } from "../components/HeroCarousel";
+import { HeroSearchPanel } from "../components/HeroSearchPanel";
 import { ProductCard } from "../components/ProductCard";
 import { Button, Container, Section, SectionHeader } from "../components/ui";
 import { Reveal, Stagger, StaggerItem, ShimmerText, AnimatedWords } from "../components/motion";
@@ -36,6 +37,7 @@ export function Home() {
   return (
     <>
       <HeroCarousel />
+      <HeroSearchPanel />
 
       {/* Ceramic & Porcelain categories */}
       <Section>
