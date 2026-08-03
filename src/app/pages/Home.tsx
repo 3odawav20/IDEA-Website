@@ -14,7 +14,7 @@ function CollectionTile({ slug }: { slug: string }) {
   const c = COLLECTIONS.find((x) => x.slug === slug)!;
   return (
     <Link to={`/collections/${c.slug}`} style={{ position: "relative", display: "block", aspectRatio: "3/4", borderRadius: "var(--idea-radius-lg)", overflow: "hidden", border: "var(--idea-hairline)" }}>
-      <img src={c.image} alt={c.title[locale]} loading="lazy" style={{ width: "100%", height: "100%", objectFit: "cover", transition: "transform .5s" }}
+      <img className="idea-vivid-image" src={c.image} alt={c.title[locale]} loading="lazy" style={{ width: "100%", height: "100%", objectFit: "cover", transition: "transform .5s" }}
         onMouseEnter={(e) => (e.currentTarget.style.transform = "scale(1.06)")} onMouseLeave={(e) => (e.currentTarget.style.transform = "")} />
       <div style={{ position: "absolute", inset: 0, background: "linear-gradient(0deg, rgba(6,6,8,.9), transparent 60%)" }} />
       <div style={{ position: "absolute", insetInline: 0, bottom: 0, padding: "var(--idea-space-4)" }}>
@@ -43,7 +43,7 @@ export function Home() {
       <Section>
         <Container>
           <SectionHeader eyebrow={t("home.shopByCategory")} title={t("home.ceramicPorcelain")} />
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))", gap: "var(--idea-space-4)" }}>
+          <div className="idea-ceramic-grid" style={{ display: "grid", gridTemplateColumns: "repeat(4, minmax(0, 1fr))", gap: "var(--idea-space-4)" }}>
             {ceramicPorcelain.map((s) => <CollectionTile key={s} slug={s} />)}
           </div>
         </Container>
@@ -77,7 +77,7 @@ export function Home() {
               <Link to="/room-designer/new"><Button size="lg">{t("action.startAi")}</Button></Link>
             </div>
             <div style={{ aspectRatio: "4/3", height: "100%" }}>
-              <img src={COLLECTIONS[1].image} alt="AI Room Visualizer" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+              <img className="idea-vivid-image" src={COLLECTIONS[1].image} alt="AI Room Visualizer" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
             </div>
           </div>
         </Container>
@@ -108,7 +108,11 @@ export function Home() {
         </Container>
       </Section>
 
-      <style>{`@media (max-width: 820px){ .idea-split{ grid-template-columns: 1fr !important; } }`}</style>
+      <style>{`
+        @media (max-width: 1000px){ .idea-ceramic-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)) !important; } }
+        @media (max-width: 820px){ .idea-split{ grid-template-columns: 1fr !important; } }
+        @media (max-width: 560px){ .idea-ceramic-grid{ grid-template-columns: 1fr !important; } }
+      `}</style>
     </>
   );
 }

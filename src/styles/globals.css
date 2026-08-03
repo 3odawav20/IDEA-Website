@@ -17,10 +17,10 @@
   --idea-hero-control-bg: rgba(20, 19, 23, 0.6);
 
   /* ── Color: gold accent scale (richer in dark mode) ── */
-  --idea-gold: #d4af37;
-  --idea-gold-bright: #f2d47a;
-  --idea-gold-deep: #a5801f;
-  --idea-gold-soft: rgba(212, 175, 55, 0.14);
+  --idea-gold: #f4c542;
+  --idea-gold-bright: #ffe58a;
+  --idea-gold-deep: #c78c08;
+  --idea-gold-soft: rgba(244, 197, 66, 0.18);
   --idea-gold-sheen: #fff6da;
 
   /* ── Color: text ── */
@@ -94,16 +94,16 @@
   --idea-hero-control-bg: rgba(255, 255, 255, 0.7);
 
   /* the "gold" accent role is replaced by a deep royal blue */
-  --idea-gold: #1e2f66;
-  --idea-gold-bright: #2a3f86;
-  --idea-gold-deep: #14204a;
-  --idea-gold-soft: rgba(30, 47, 102, 0.08);
+  --idea-gold: #d99b00;
+  --idea-gold-bright: #a66d00;
+  --idea-gold-deep: #704700;
+  --idea-gold-soft: rgba(217, 155, 0, 0.12);
   --idea-gold-sheen: #d9e2ff;
 
   --idea-text: #101528;
   --idea-text-muted: #4c567a;
   --idea-text-faint: #8892b0;
-  --idea-on-gold: #ffffff;
+  --idea-on-gold: #1d1300;
 
   --idea-border: rgba(30, 47, 102, 0.16);
   --idea-border-neutral: rgba(16, 21, 40, 0.1);
@@ -189,6 +189,28 @@ body {
 ::-webkit-scrollbar-thumb {
   background: var(--idea-gold-deep);
   border-radius: var(--idea-radius-full);
+}
+
+
+/* Rich photo treatment is controlled here so the catalog can be tuned globally. */
+.idea-vivid-image {
+  filter: saturate(1.16) contrast(1.06) brightness(1.04);
+}
+
+/* Touch-first sizing for iPhone, iPad, and Android viewports. */
+@media (max-width: 1024px) {
+  .idea-container { padding-inline: var(--idea-space-5) !important; }
+}
+
+@media (max-width: 760px) {
+  .idea-container { padding-inline: var(--idea-space-4) !important; }
+  .idea-hero-carousel { height: min(88svh, 680px) !important; }
+  .idea-hero-carousel button { min-height: calc(var(--idea-space-5) + var(--idea-space-4)); }
+}
+
+@media (max-width: 480px) {
+  .idea-container { padding-inline: var(--idea-space-3) !important; }
+  .idea-hero-carousel { height: min(86svh, 640px) !important; }
 }
 
 @media (prefers-reduced-motion: reduce) {

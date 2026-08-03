@@ -4,7 +4,7 @@ import type { ButtonHTMLAttributes, CSSProperties, ReactNode } from "react";
 
 export function Container({ children, style, className }: { children: ReactNode; style?: CSSProperties; className?: string }) {
   return (
-    <div className={className} style={{ width: "100%", maxWidth: 1320, margin: "0 auto", padding: "0 var(--idea-space-5)", ...style }}>
+    <div className={["idea-container", className].filter(Boolean).join(" ")} style={{ width: "100%", maxWidth: 1320, margin: "0 auto", padding: "0 var(--idea-space-5)", ...style }}>
       {children}
     </div>
   );

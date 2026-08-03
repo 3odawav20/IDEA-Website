@@ -76,6 +76,7 @@ export function HeroCarousel() {
           }}
         >
           <img
+            className="idea-vivid-image"
             src={slide.image}
             alt=""
             aria-hidden="true"

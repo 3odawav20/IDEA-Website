@@ -21,7 +21,7 @@ export function ProductCard({ product }: { product: Product }) {
       onMouseLeave={(e) => { e.currentTarget.style.transform = ""; e.currentTarget.style.boxShadow = ""; }}
     >
       <Link to={`/product/${product.slug}`} style={{ position: "relative", display: "block", aspectRatio: "4/3", overflow: "hidden" }}>
-        <img className="idea-product-img" src={product.image} alt={product.name[locale]} loading="lazy" style={{ width: "100%", height: "100%", objectFit: "cover", transition: "transform .6s cubic-bezier(.22,1,.36,1)" }} />
+        <img className="idea-product-img idea-vivid-image" src={product.image} alt={product.name[locale]} loading="lazy" style={{ width: "100%", height: "100%", objectFit: "cover", transition: "transform .6s cubic-bezier(.22,1,.36,1)" }} />
         <div style={{ position: "absolute", top: 12, insetInlineStart: 12, display: "flex", gap: 6 }}>
           {product.type && <span style={badgeStyle}>{product.type}</span>}
         </div>

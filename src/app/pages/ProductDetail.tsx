@@ -47,13 +47,13 @@ export function ProductDetail() {
           {/* Gallery */}
           <div>
             <div style={{ aspectRatio: "4/3", borderRadius: "var(--idea-radius-lg)", overflow: "hidden", border: "var(--idea-hairline)" }}>
-              <img src={gallery[activeImg]} alt={product.name[locale]} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+              <img className="idea-vivid-image" src={gallery[activeImg]} alt={product.name[locale]} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
             </div>
             {gallery.length > 1 && (
               <div style={{ display: "flex", gap: 10, marginTop: 12 }}>
                 {gallery.map((g, i) => (
                   <button key={i} onClick={() => setActiveImg(i)} style={{ width: 80, height: 60, borderRadius: "var(--idea-radius-sm)", overflow: "hidden", border: `1px solid ${i === activeImg ? "var(--idea-gold)" : "var(--idea-border-neutral)"}`, padding: 0, cursor: "pointer" }}>
-                    <img src={g} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                    <img className="idea-vivid-image" src={g} alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
                   </button>
                 ))}
               </div>
