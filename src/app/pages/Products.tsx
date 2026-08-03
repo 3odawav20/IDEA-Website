@@ -6,6 +6,7 @@ import { useStore } from "../store/store";
 import { COLLECTIONS } from "../data/catalog";
 import { ProductCard } from "../components/ProductCard";
 import { Chip, Container, Section } from "../components/ui";
+import { SlidersHorizontal, X } from "lucide-react";
 
 function uniq<T>(arr: (T | undefined)[]): T[] {
   return [...new Set(arr.filter(Boolean) as T[])];
@@ -50,6 +51,8 @@ export function Products({ fixedCollection }: { fixedCollection?: CollectionSlug
   };
 
   const results = scope.filter(matches);
+  const activeCount = [finish, size, usage, color].filter(Boolean).length;
+  const [mobileOpen, setMobileOpen] = useState(false);
   const clear = () => { setFinish(null); setSize(null); setUsage(null); setColor(null); };
 
   const meta = fixedCollection ? COLLECTIONS.find((c) => c.slug === fixedCollection) : null;
@@ -76,9 +79,31 @@ export function Products({ fixedCollection }: { fixedCollection?: CollectionSlug
           {q && <p style={{ color: "var(--idea-text-muted)", marginTop: 8 }}>“{q}”</p>}
         </div>
 
+        {/* Mobile filter toolbar */}
+        <div className="idea-filter-toolbar" style={{ display: "none", justifyContent: "space-between", alignItems: "center", gap: "var(--idea-space-3)", marginBottom: "var(--idea-space-4)" }}>
+          <button onClick={() => setMobileOpen(true)}
+            style={{
+              display: "inline-flex", alignItems: "center", gap: 8, padding: "10px 18px",
+              background: "var(--idea-surface)", border: "var(--idea-hairline)", borderRadius: "var(--idea-radius-full)",
+              color: "var(--idea-text)", cursor: "pointer", fontFamily: "var(--idea-font-body)", fontSize: "var(--idea-text-sm)",
+            }}>
+            <SlidersHorizontal size={16} color="var(--idea-gold)" />
+            {t("filters.title")}
+            {activeCount > 0 && (
+              <span style={{ minWidth: 20, height: 20, display: "inline-grid", placeItems: "center", padding: "0 6px", borderRadius: "var(--idea-radius-full)", background: "var(--idea-gold)", color: "var(--idea-on-gold)", fontSize: "var(--idea-text-xs)", fontWeight: 600 }}>{activeCount}</span>
+            )}
+          </button>
+          <span style={{ color: "var(--idea-text-muted)", fontSize: "var(--idea-text-sm)" }}>{results.length} {t("label.results")}</span>
+        </div>
+
         <div style={{ display: "grid", gridTemplateColumns: "260px 1fr", gap: "var(--idea-space-6)", alignItems: "start" }} className="idea-gallery-grid">
           {/* Filters */}
-          <aside style={{ background: "var(--idea-surface)", border: "var(--idea-hairline)", borderRadius: "var(--idea-radius-lg)", padding: "var(--idea-space-5)", position: "sticky", top: 90 }}>
+          {mobileOpen && <div onClick={() => setMobileOpen(false)} className="idea-filter-scrim" style={{ display: "none", position: "fixed", inset: 0, zIndex: 60, background: "rgba(0,0,0,.6)" }} />}
+          <aside className={`idea-filters-panel${mobileOpen ? " is-open" : ""}`} style={{ background: "var(--idea-surface)", border: "var(--idea-hairline)", borderRadius: "var(--idea-radius-lg)", padding: "var(--idea-space-5)", position: "sticky", top: 90 }}>
+            <button className="idea-filter-close" onClick={() => setMobileOpen(false)}
+              style={{ display: "none", position: "absolute", insetInlineEnd: "var(--idea-space-4)", top: "var(--idea-space-4)", background: "none", border: "none", color: "var(--idea-text-muted)", cursor: "pointer" }}>
+              <X size={20} />
+            </button>
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "var(--idea-space-4)" }}>
               <span className="idea-display" style={{ fontSize: "var(--idea-text-lg)", color: "var(--idea-text)" }}>{t("filters.title")}</span>
               <button onClick={clear} style={{ background: "none", border: "none", color: "var(--idea-gold)", cursor: "pointer", fontSize: "var(--idea-text-xs)" }}>{t("filters.clear")}</button>
@@ -87,6 +112,15 @@ export function Products({ fixedCollection }: { fixedCollection?: CollectionSlug
             {group(t("filters.size"), facets.size, size, setSize)}
             {group(t("label.usage"), facets.usage, usage, setUsage)}
             {group("Color", facets.color, color, setColor)}
+            <button className="idea-filter-show" onClick={() => setMobileOpen(false)}
+              style={{
+                display: "none", width: "100%", marginTop: "var(--idea-space-4)", padding: "12px 20px",
+                background: "linear-gradient(135deg, var(--idea-gold-bright), var(--idea-gold))", color: "var(--idea-on-gold)",
+                border: "none", borderRadius: "var(--idea-radius-md)", cursor: "pointer", fontFamily: "var(--idea-font-body)",
+                fontSize: "var(--idea-text-sm)", fontWeight: 600, letterSpacing: "0.04em", textTransform: "uppercase",
+              }}>
+              {results.length} {t("label.results")}
+            </button>
           </aside>
 
           {/* Results */}
@@ -106,7 +140,23 @@ export function Products({ fixedCollection }: { fixedCollection?: CollectionSlug
           </div>
         </div>
       </Container>
-      <style>{`@media (max-width: 860px){ .idea-gallery-grid{ grid-template-columns: 1fr !important; } }`}</style>
+      <style>{`
+        @media (max-width: 860px){
+          .idea-gallery-grid{ grid-template-columns: 1fr !important; }
+          .idea-filter-toolbar{ display: flex !important; }
+          .idea-filter-scrim{ display: block !important; }
+          .idea-filters-panel{
+            position: fixed !important; inset-block: 0; inset-inline-start: 0; z-index: 61;
+            width: min(88vw, 360px); max-width: 360px; border-radius: 0 !important;
+            overflow-y: auto; top: 0 !important; transform: translateX(-100%);
+            transition: transform .28s ease; box-shadow: 0 0 60px rgba(0,0,0,.6);
+          }
+          [dir="rtl"] .idea-filters-panel{ inset-inline-start: auto; inset-inline-end: 0; transform: translateX(100%); }
+          .idea-filters-panel.is-open{ transform: translateX(0); }
+          .idea-filters-panel:not(.is-open){ pointer-events: none; }
+          .idea-filter-close, .idea-filter-show{ display: block !important; }
+        }
+      `}</style>
     </Section>
   );
 }
