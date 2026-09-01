@@ -2,11 +2,7 @@ type IdeaLogoProps = {
   compact?: boolean;
 };
 
-/**
- * The supplied official IDEA Business Administration lock-up. The source file
- * includes generous white space, so this component frames just the artwork
- * without resampling or redrawing the logo.
- */
+/** The supplied IDEA Business Administration logo, always shown in full. */
 export function IdeaLogo({ compact = false }: IdeaLogoProps) {
   return (
     <span
@@ -14,7 +10,7 @@ export function IdeaLogo({ compact = false }: IdeaLogoProps) {
       aria-label="IDEA Business Administration"
       role="img"
     >
-      <img src="/branding/idea-business-administration.jpg" alt="IDEA Business Administration" />
+      <img src="/branding/idea-logo-full.png" alt="IDEA Business Administration" />
     </span>
   );
 }

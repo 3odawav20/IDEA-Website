@@ -152,7 +152,7 @@ body {
 .idea-hero-title {
   font-family: var(--idea-font-display);
   font-weight: 600;
-  line-height: 0.98;
+  line-height: 1.06;
   text-transform: uppercase;
   letter-spacing: 0.02em;
   color: var(--idea-text);
@@ -212,41 +212,27 @@ body {
 
 .idea-official-logo {
   display: block;
-  width: 235px;
-  height: 72px;
-  overflow: hidden;
-  position: relative;
-  background: #fff;
+  width: min(100%, 340px);
+  background: transparent;
 }
 
 .idea-official-logo img {
-  position: absolute;
-  width: 360px;
-  max-width: none;
+  display: block;
+  width: 100%;
   height: auto;
-  left: -61px;
-  top: -79px;
+  background: transparent;
 }
 
 .idea-official-logo--compact {
-  width: 174px;
-  height: 54px;
-}
-
-.idea-official-logo--compact img {
-  width: 267px;
-  left: -45px;
-  top: -59px;
+  width: 184px;
 }
 
 @media (max-width: 480px) {
-  .idea-official-logo--compact { width: 142px; height: 44px; }
-  .idea-official-logo--compact img { width: 218px; left: -37px; top: -48px; }
+  .idea-official-logo--compact { width: 148px; }
 }
 
 @media (max-width: 640px) {
-  .idea-official-logo--compact { width: 120px; height: 44px; }
-  .idea-official-logo--compact img { width: 200px; left: -34px; top: -45px; }
+  .idea-official-logo--compact { width: 132px; }
 }
 
 /* Touch-first sizing for iPhone, iPad, and Android viewports. */

@@ -3,7 +3,6 @@ import { useNavigate } from "react-router";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useI18n } from "../i18n/i18n";
 import { Button, Container } from "./ui";
-import imgTriptych from "../../imports/Luxurious_modern_interior_triptych_design.png";
 import imgLivingRoom from "../../imports/Modern_luxury_living_room_ambiance.png";
 import imgMarbleGold from "../../imports/Luxurious_modern_interiors_with_marble_and_gold.png";
 
@@ -16,14 +15,14 @@ interface Slide {
 }
 
 const SLIDES: Slide[] = [
-  { id: "premium-bathroom", image: imgTriptych, headline: { en: "Define Your Space With Perfection", ar: "اصنع مساحتك بإتقان", fr: "Définissez votre espace avec perfection" }, text: { en: "Discover premium ceramics, porcelain and complete bathroom solutions created for exceptional interiors.", ar: "اكتشف السيراميك والبورسلين وحلول الحمامات المتكاملة المصممة للديكورات الاستثنائية.", fr: "Découvrez céramiques, porcelaines et solutions complètes de salle de bain pour des intérieurs exceptionnels." }, buttons: [{ label: { en: "Explore Collections", ar: "استكشف المجموعات", fr: "Explorer les collections" }, to: "/collections", variant: "gold" }, { label: { en: "Visualize Your Room", ar: "تصور غرفتك", fr: "Visualisez votre pièce" }, to: "/ai-room-visualizer", variant: "outline" }] },
+  { id: "premium-bathroom", image: imgLivingRoom, headline: { en: "Define Your Space With Perfection", ar: "اصنع مساحتك بإتقان", fr: "Définissez votre espace avec perfection" }, text: { en: "Discover premium ceramics, porcelain and complete bathroom solutions created for exceptional interiors.", ar: "اكتشف السيراميك والبورسلين وحلول الحمامات المتكاملة المصممة للديكورات الاستثنائية.", fr: "Découvrez céramiques, porcelaines et solutions complètes de salle de bain pour des intérieurs exceptionnels." }, buttons: [{ label: { en: "Explore Collections", ar: "استكشف المجموعات", fr: "Explorer les collections" }, to: "/collections", variant: "gold" }, { label: { en: "Visualize Your Room", ar: "تصور غرفتك", fr: "Visualisez votre pièce" }, to: "/ai-room-visualizer", variant: "outline" }] },
   { id: "ai-visualizer", image: imgLivingRoom, headline: { en: "See It Inside Your Space Before You Buy", ar: "شاهدها في مساحتك قبل الشراء", fr: "Visualisez-le chez vous avant d'acheter" }, text: { en: "Upload your bathroom, kitchen or living room, select a real IDEA product and experience the finished result before installation.", ar: "ارفع صورة حمامك أو مطبخك أو غرفتك، اختر منتج IDEA حقيقي، وشاهد النتيجة النهائية قبل التركيب.", fr: "Téléchargez votre salle de bain, cuisine ou salon, choisissez un produit IDEA et découvrez le résultat final avant l'installation." }, buttons: [{ label: { en: "Start AI Visualization", ar: "ابدأ المحاكاة", fr: "Démarrer la visualisation" }, to: "/room-designer/new", variant: "gold" }, { label: { en: "Browse Porcelain", ar: "تصفح البورسلين", fr: "Voir la porcelaine" }, to: "/collections/porcelain", variant: "outline" }] },
   { id: "supplier-offers", image: imgMarbleGold, headline: { en: "One Request. Multiple Qualified Offers.", ar: "طلب واحد. عروض متعددة مؤهلة.", fr: "Une demande. Plusieurs offres qualifiées." }, text: { en: "Select the product and required quantity, then receive private offers from verified matching suppliers.", ar: "اختر المنتج والكمية المطلوبة، ثم احصل على عروض خاصة من موردين معتمدين.", fr: "Sélectionnez le produit et la quantité, puis recevez des offres privées de fournisseurs vérifiés." }, buttons: [{ label: { en: "Request Best Price", ar: "اطلب أفضل سعر", fr: "Demander le meilleur prix" }, to: "/request-quote/new", variant: "gold" }, { label: { en: "How It Works", ar: "كيف يعمل", fr: "Comment ça marche" }, to: "/how-it-works", variant: "outline" }] },
   { id: "complete-collections", image: imgLivingRoom, headline: { en: "Every Surface. Every Detail. One Destination.", ar: "كل سطح. كل تفصيلة. وجهة واحدة.", fr: "Chaque surface. Chaque détail. Une destination." }, text: { en: "Explore ceramic, porcelain, faucets, bathroom sets, units, bathtubs, shower systems and accessories in one curated marketplace.", ar: "استكشف السيراميك والبورسلين والخلاطات وأطقم الحمام والوحدات والأحواض وأنظمة الدش والإكسسوارات في سوق واحد منسق.", fr: "Explorez céramique, porcelaine, robinetterie, ensembles, meubles, baignoires, douches et accessoires dans une seule marketplace." }, buttons: [{ label: { en: "Browse All Products", ar: "تصفح كل المنتجات", fr: "Voir tous les produits" }, to: "/products", variant: "gold" }, { label: { en: "Bathroom Collections", ar: "مجموعات الحمام", fr: "Collections salle de bain" }, to: "/collections/sanitary-ware", variant: "outline" }] },
 ];
 
 const INTERVAL = 6000;
-const FIRST_TRANSITION_DELAY = 1800;
+const FIRST_TRANSITION_DELAY = INTERVAL;
 
 export function HeroCarousel() {
   const { locale } = useI18n();
@@ -35,6 +34,15 @@ export function HeroCarousel() {
   const next = useCallback(() => setIndex((current) => (current + 1) % SLIDES.length), []);
   const prev = useCallback(() => setIndex((current) => (current - 1 + SLIDES.length) % SLIDES.length), []);
   const go = useCallback((nextIndex: number) => setIndex((nextIndex + SLIDES.length) % SLIDES.length), []);
+
+  useEffect(() => {
+    // Fetch every background before it can be selected, preventing a dark
+    // empty frame during the cross-fade on slower connections.
+    SLIDES.forEach((slide) => {
+      const image = new Image();
+      image.src = slide.image;
+    });
+  }, []);
 
   useEffect(() => {
     if (paused) return;
@@ -86,7 +94,7 @@ export function HeroCarousel() {
             src={slide.image}
             alt=""
             aria-hidden="true"
-            loading={slideIndex === 0 ? "eager" : "lazy"}
+            loading="eager"
             style={{
               width: "100%",
               height: "100%",
@@ -96,10 +104,10 @@ export function HeroCarousel() {
             }}
           />
           <div style={{ position: "absolute", inset: 0, background: "var(--idea-hero-overlay)" }} />
-          <Container className="idea-hero-content" style={{ position: "absolute", inset: 0, display: "flex", flexDirection: "column", justifyContent: "center", paddingBlockEnd: "calc(var(--idea-space-9) + var(--idea-space-9))" }}>
+          <Container className="idea-hero-content" style={{ position: "absolute", inset: 0, display: "flex", flexDirection: "column", justifyContent: "center", paddingBlockStart: "var(--idea-space-8)", paddingBlockEnd: "var(--idea-space-8)" }}>
             <div style={{ maxWidth: 640 }}>
               <div className="idea-eyebrow" style={{ marginBottom: "var(--idea-space-4)", color: "var(--idea-gold-bright)" }}>IDEA · Business Administration</div>
-              <h1 className="idea-hero-title" style={{ fontSize: "var(--idea-text-hero)", margin: 0, color: "#fff" }}>{slide.headline[locale]}</h1>
+              <h1 className="idea-hero-title" style={{ fontSize: "clamp(36px, 4.4vw, 64px)", margin: 0, color: "#fff" }}>{slide.headline[locale]}</h1>
               <p style={{ color: "var(--idea-hero-copy)", fontSize: "var(--idea-text-lg)", lineHeight: 1.6, margin: "var(--idea-space-5) 0 var(--idea-space-6)" }}>{slide.text[locale]}</p>
               <div style={{ display: "flex", gap: "var(--idea-space-4)", flexWrap: "wrap" }}>
                 {slide.buttons.map((button) => <Button key={button.to} variant={button.variant} size="lg" onClick={() => nav(button.to)}>{button.label[locale]}</Button>)}
