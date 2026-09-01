@@ -39,8 +39,8 @@ export interface Product {
   collection: CollectionSlug;
   brand: string;
   model: string;
-  code: string;
-  origin: string; // country of origin
+  code?: string; // exact source code only; never generated from an internal ID
+  origin?: string; // country of origin
   texture?: string; // Marble / Wood / Stone …
   finish?: string; // Matte / Glossy / Semi-Matte …
   type?: string; // Ceramic / Porcelain / Laser Cut …
@@ -54,6 +54,12 @@ export interface Product {
   family?: string; // collection/family key linking variants
   sourcePdf?: string;
   sourcePage?: number;
+  source?: {
+    provider: string;
+    recordId: string;
+    reviewStatus: "source-imported" | "needs-human-review";
+    originalSurface?: string;
+  };
   approved: boolean; // only approved products render publicly
   status: "sample" | "imported" | "staged";
 }
