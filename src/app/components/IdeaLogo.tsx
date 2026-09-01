@@ -1,3 +1,5 @@
+import ideaLogo from "../../assets/idea-logo-full.png";
+
 type IdeaLogoProps = {
   compact?: boolean;
 };
@@ -10,7 +12,7 @@ export function IdeaLogo({ compact = false }: IdeaLogoProps) {
       aria-label="IDEA Business Administration"
       role="img"
     >
-      <img src="/branding/idea-logo-full.png" alt="IDEA Business Administration" />
+      <img src={ideaLogo} alt="IDEA Business Administration" />
     </span>
   );
 }
