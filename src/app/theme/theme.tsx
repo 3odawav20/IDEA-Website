@@ -10,7 +10,7 @@ const Ctx = createContext<ThemeCtx | null>(null);
 export function ThemeProvider({ children }: { children: ReactNode }) {
   const [mode, setMode] = useState<Mode>(() => {
     try {
-      return (localStorage.getItem("idea.theme") as Mode) || "dark";
+      return (localStorage.getItem("idea.theme") as Mode) || "light";
     } catch {
       return "dark";
     }

@@ -3,6 +3,7 @@ import { useI18n } from "../i18n/i18n";
 import { COLLECTIONS } from "../data/catalog";
 import { Container } from "./ui";
 import { VisaMark, MastercardMark, MeezaMark, FawryMark } from "./BrandIcons";
+import { IdeaLogo } from "./IdeaLogo";
 
 const payChip: React.CSSProperties = { background: "#fff", borderRadius: 6, padding: "4px 7px", display: "inline-flex", alignItems: "center" };
 
@@ -12,7 +13,7 @@ export function Footer() {
     <footer style={{ borderTop: "var(--idea-hairline)", background: "var(--idea-bg-2)", paddingTop: "var(--idea-space-8)", marginTop: "var(--idea-space-8)" }}>
       <Container style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "var(--idea-space-6)", paddingBottom: "var(--idea-space-7)" }}>
         <div>
-          <div className="idea-display" style={{ fontSize: 32, letterSpacing: "0.28em", color: "var(--idea-gold-bright)" }}>IDEA</div>
+          <IdeaLogo />
           <p style={{ color: "var(--idea-text-muted)", marginTop: "var(--idea-space-3)", fontStyle: "italic", maxWidth: 260 }}>“{t("tagline")}”</p>
         </div>
         <div>

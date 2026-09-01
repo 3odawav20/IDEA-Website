@@ -7,6 +7,7 @@ import { useStore } from "../store/store";
 import { useBackend } from "../backend/db";
 import type { Locale } from "../data/types";
 import { Container } from "./ui";
+import { IdeaLogo } from "./IdeaLogo";
 
 const LOCALES: { code: Locale; label: string }[] = [
   { code: "en", label: "EN" },
@@ -56,11 +57,10 @@ export function Header() {
       position: "sticky", top: 0, zIndex: 50, background: "var(--idea-overlay)",
       backdropFilter: "blur(14px)", borderBottom: "var(--idea-hairline)",
     }}>
-      <Container style={{ display: "flex", alignItems: "center", gap: "var(--idea-space-4)", height: 72 }}>
+      <Container style={{ display: "flex", alignItems: "center", gap: "var(--idea-space-4)", height: 78 }}>
         {/* Logo */}
-        <Link to="/" style={{ display: "flex", flexDirection: "column", lineHeight: 1, textDecoration: "none" }}>
-          <span className="idea-display" style={{ fontSize: 30, letterSpacing: "0.28em", color: "var(--idea-gold-bright)", fontWeight: 600 }}>IDEA</span>
-          <span style={{ fontSize: 8, letterSpacing: "0.32em", color: "var(--idea-text-muted)", textTransform: "uppercase" }}>Luxury Surfaces</span>
+        <Link to="/" aria-label="IDEA Business Administration — Home" style={{ display: "inline-flex", lineHeight: 1, textDecoration: "none", flexShrink: 0 }}>
+          <IdeaLogo compact />
         </Link>
 
         {/* Desktop nav */}
@@ -73,7 +73,7 @@ export function Header() {
           ))}
         </nav>
 
-        <div style={{ marginInlineStart: "auto", display: "flex", alignItems: "center", gap: "var(--idea-space-4)" }}>
+        <div className="idea-header-actions" style={{ marginInlineStart: "auto", display: "flex", alignItems: "center", gap: "var(--idea-space-4)" }}>
           {/* Search (desktop) */}
           <form onSubmit={submit} className="idea-desktop-search" style={{
             display: "flex", alignItems: "center", gap: 8, background: "var(--idea-surface-2)",
@@ -101,8 +101,8 @@ export function Header() {
             {mode === "dark" ? <Sun size={20} /> : <Moon size={20} />}
           </button>
 
-          <IconLink to="/favorites" label={t("fav.title")} count={favorites.length}><Heart size={20} /></IconLink>
-          <IconLink to="/request-quote/new" label={t("quote.title")} count={quote.length}><FileText size={20} /></IconLink>
+          <span className="idea-mobile-optional"><IconLink to="/favorites" label={t("fav.title")} count={favorites.length}><Heart size={20} /></IconLink></span>
+          <span className="idea-mobile-optional"><IconLink to="/request-quote/new" label={t("quote.title")} count={quote.length}><FileText size={20} /></IconLink></span>
           <IconLink to={session ? (session.role === "business" ? "/business" : session.role === "admin" ? "/admin" : "/account") : "/login"} label={session ? t("nav.account") : t("nav.signIn")}><User size={20} /></IconLink>
 
           <button className="idea-menu-btn" onClick={() => setOpen((o) => !o)} aria-label="Menu"
@@ -142,6 +142,10 @@ export function Header() {
         @media (max-width: 960px) {
           .idea-desktop-nav, .idea-desktop-search { display: none !important; }
           .idea-menu-btn { display: inline-flex !important; }
+        }
+        @media (max-width: 640px) {
+          .idea-header-actions { gap: 8px !important; }
+          .idea-mobile-optional { display: none; }
         }
       `}</style>
     </header>

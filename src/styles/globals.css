@@ -6,32 +6,32 @@
 
 :root {
   /* ── Color: surfaces (dark, layered) ── */
-  --idea-bg: #0d0d0f;            /* page canvas */
-  --idea-bg-2: #141317;          /* raised sections */
-  --idea-surface: #1a181d;       /* cards */
-  --idea-surface-2: #221f26;     /* elevated cards / inputs */
-  --idea-overlay: rgba(6, 6, 8, 0.72);
-  --idea-hero-overlay: linear-gradient(90deg, rgba(6, 6, 8, 0.9) 0%, rgba(6, 6, 8, 0.55) 45%, rgba(6, 6, 8, 0.15) 100%);
-  --idea-hero-copy: rgba(244, 239, 230, 0.78);
-  --idea-hero-control: rgba(244, 239, 230, 0.35);
-  --idea-hero-control-bg: rgba(20, 19, 23, 0.6);
+  --idea-bg: #ffffff;
+  --idea-bg-2: #f4f4f4;
+  --idea-surface: #ffffff;
+  --idea-surface-2: #f4f4f4;
+  --idea-overlay: rgba(255, 255, 255, 0.9);
+  --idea-hero-overlay: linear-gradient(90deg, rgba(22, 22, 22, 0.84) 0%, rgba(22, 22, 22, 0.58) 47%, rgba(22, 22, 22, 0.14) 100%);
+  --idea-hero-copy: rgba(255, 255, 255, 0.9);
+  --idea-hero-control: rgba(255, 255, 255, 0.52);
+  --idea-hero-control-bg: rgba(255, 255, 255, 0.86);
 
   /* ── Color: gold accent scale (richer in dark mode) ── */
-  --idea-gold: #f4c542;
-  --idea-gold-bright: #ffe58a;
-  --idea-gold-deep: #c78c08;
-  --idea-gold-soft: rgba(244, 197, 66, 0.18);
-  --idea-gold-sheen: #fff6da;
+  --idea-gold: #ff7200;
+  --idea-gold-bright: #ff7200;
+  --idea-gold-deep: #d85d00;
+  --idea-gold-soft: rgba(255, 114, 0, 0.12);
+  --idea-gold-sheen: #fff0e2;
 
   /* ── Color: text ── */
-  --idea-text: #f4efe6;          /* primary warm white */
-  --idea-text-muted: #a79f92;    /* secondary */
-  --idea-text-faint: #6f685e;    /* tertiary / disabled */
-  --idea-on-gold: #14110a;       /* text on gold fills */
+  --idea-text: #454545;
+  --idea-text-muted: #686868;
+  --idea-text-faint: #8a8a8a;
+  --idea-on-gold: #ffffff;
 
   /* ── Color: lines & feedback ── */
-  --idea-border: rgba(201, 161, 74, 0.18);
-  --idea-border-neutral: rgba(255, 255, 255, 0.08);
+  --idea-border: rgba(69, 69, 69, 0.16);
+  --idea-border-neutral: rgba(69, 69, 69, 0.1);
   --idea-success: #6bbf7b;
   --idea-warning: #e0b64b;
   --idea-danger: #d16a5a;
@@ -57,9 +57,9 @@
 
   /* ── Borders / elevation ── */
   --idea-hairline: 1px solid var(--idea-border);
-  --idea-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
-  --idea-shadow-md: 0 12px 32px rgba(0, 0, 0, 0.5);
-  --idea-shadow-gold: 0 8px 30px rgba(201, 161, 74, 0.18);
+  --idea-shadow-sm: 0 2px 8px rgba(69, 69, 69, 0.12);
+  --idea-shadow-md: 0 12px 32px rgba(69, 69, 69, 0.16);
+  --idea-shadow-gold: 0 8px 30px rgba(255, 114, 0, 0.18);
 
   /* ── Typography families ── */
   --idea-font-display: 'Oswald', 'Jost', system-ui, sans-serif;
@@ -82,41 +82,47 @@
 }
 
 /* ═══ Light mode — white canvas with dark-blue accent ═══════════════════ */
-[data-theme='light'] {
-  --idea-bg: #ffffff;
-  --idea-bg-2: #f3f6fc;
-  --idea-surface: #ffffff;
-  --idea-surface-2: #eef2fa;
-  --idea-overlay: rgba(255, 255, 255, 0.82);
-  --idea-hero-overlay: linear-gradient(90deg, rgba(255, 255, 255, 0.94) 0%, rgba(255, 255, 255, 0.72) 45%, rgba(255, 255, 255, 0.2) 100%);
-  --idea-hero-copy: rgba(16, 21, 40, 0.76);
-  --idea-hero-control: rgba(16, 21, 40, 0.25);
-  --idea-hero-control-bg: rgba(255, 255, 255, 0.7);
+[data-theme='dark'] {
+  --idea-bg: #101010;
+  --idea-bg-2: #191919;
+  --idea-surface: #202020;
+  --idea-surface-2: #292929;
+  --idea-overlay: rgba(16, 16, 16, 0.82);
+  --idea-hero-overlay: linear-gradient(90deg, rgba(16, 16, 16, 0.9) 0%, rgba(16, 16, 16, 0.6) 47%, rgba(16, 16, 16, 0.16) 100%);
+  --idea-hero-copy: rgba(255, 255, 255, 0.84);
+  --idea-hero-control: rgba(255, 255, 255, 0.35);
+  --idea-hero-control-bg: rgba(26, 26, 26, 0.68);
 
   /* the "gold" accent role is replaced by a deep royal blue */
-  --idea-gold: #d99b00;
-  --idea-gold-bright: #a66d00;
-  --idea-gold-deep: #704700;
-  --idea-gold-soft: rgba(217, 155, 0, 0.12);
+  --idea-gold: #ff7200;
+  --idea-gold-bright: #ff8a32;
+  --idea-gold-deep: #cf5b00;
+  --idea-gold-soft: rgba(255, 114, 0, 0.16);
   --idea-gold-sheen: #d9e2ff;
 
-  --idea-text: #101528;
-  --idea-text-muted: #4c567a;
-  --idea-text-faint: #8892b0;
-  --idea-on-gold: #1d1300;
+  --idea-text: #f5f5f5;
+  --idea-text-muted: #b1b1b1;
+  --idea-text-faint: #858585;
+  --idea-on-gold: #ffffff;
 
-  --idea-border: rgba(30, 47, 102, 0.16);
-  --idea-border-neutral: rgba(16, 21, 40, 0.1);
+  --idea-border: rgba(255, 114, 0, 0.18);
+  --idea-border-neutral: rgba(255, 255, 255, 0.1);
 
-  --idea-shadow-sm: 0 2px 8px rgba(30, 47, 102, 0.08);
-  --idea-shadow-md: 0 12px 32px rgba(30, 47, 102, 0.12);
-  --idea-shadow-gold: 0 8px 30px rgba(30, 47, 102, 0.18);
+  --idea-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --idea-shadow-md: 0 12px 32px rgba(0, 0, 0, 0.5);
+  --idea-shadow-gold: 0 8px 30px rgba(255, 114, 0, 0.18);
 }
 
 /* ── Base element styling bound to the tokens ── */
 html {
   background: var(--idea-bg);
   transition: background 0.3s ease;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 body {
@@ -197,6 +203,45 @@ body {
   filter: saturate(1.16) contrast(1.06) brightness(1.04);
 }
 
+.idea-official-logo {
+  display: block;
+  width: 235px;
+  height: 72px;
+  overflow: hidden;
+  position: relative;
+  background: #fff;
+}
+
+.idea-official-logo img {
+  position: absolute;
+  width: 360px;
+  max-width: none;
+  height: auto;
+  left: -61px;
+  top: -79px;
+}
+
+.idea-official-logo--compact {
+  width: 174px;
+  height: 54px;
+}
+
+.idea-official-logo--compact img {
+  width: 267px;
+  left: -45px;
+  top: -59px;
+}
+
+@media (max-width: 480px) {
+  .idea-official-logo--compact { width: 142px; height: 44px; }
+  .idea-official-logo--compact img { width: 218px; left: -37px; top: -48px; }
+}
+
+@media (max-width: 640px) {
+  .idea-official-logo--compact { width: 120px; height: 44px; }
+  .idea-official-logo--compact img { width: 200px; left: -34px; top: -45px; }
+}
+
 /* Touch-first sizing for iPhone, iPad, and Android viewports. */
 @media (max-width: 1024px) {
   .idea-container { padding-inline: var(--idea-space-5) !important; }
@@ -206,6 +251,11 @@ body {
   .idea-container { padding-inline: var(--idea-space-4) !important; }
   .idea-hero-carousel { height: min(88svh, 680px) !important; }
   .idea-hero-carousel button { min-height: calc(var(--idea-space-5) + var(--idea-space-4)); }
+  .idea-hero-carousel .idea-hero-arrow { display: none !important; }
+  .idea-hero-content > div { max-width: none !important; text-align: center; }
+  .idea-hero-content > div > div:last-child { justify-content: center; }
+  .idea-hero-content .idea-hero-title { font-size: 34px !important; line-height: 1.04; }
+  .idea-hero-content p { font-size: 18px !important; max-width: 430px; margin-inline: auto !important; }
 }
 
 @media (max-width: 480px) {
