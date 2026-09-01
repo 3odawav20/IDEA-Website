@@ -1,18 +1,22 @@
 import { useEffect } from "react";
-import { Outlet, useLocation } from "react-router";
+import { Outlet, useLocation, useNavigationType } from "react-router";
 import { motion, useScroll, useSpring, useReducedMotion, AnimatePresence } from "motion/react";
 import { Header } from "./Header";
 import { Footer } from "./Footer";
 
 export function Layout() {
   const { pathname } = useLocation();
+  const navigationType = useNavigationType();
   const reduce = useReducedMotion();
   const { scrollYProgress } = useScroll();
   const progress = useSpring(scrollYProgress, { stiffness: 140, damping: 30, mass: 0.3 });
 
   useEffect(() => {
+    // Do not override the browser's own restored scroll position when the user
+    // returns with Back/Forward (especially important on Safari for iPhone).
+    if (navigationType === "POP") return;
     window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" });
-  }, [pathname, reduce]);
+  }, [pathname, navigationType, reduce]);
 
   return (
     <div style={{ minHeight: "100vh", display: "flex", flexDirection: "column", background: "var(--idea-bg)" }}>

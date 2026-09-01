@@ -29,6 +29,7 @@ export function HeroCarousel() {
   const { locale } = useI18n();
   const nav = useNavigate();
   const [index, setIndex] = useState(0);
+  const [paused, setPaused] = useState(false);
   const touchX = useRef<number | null>(null);
 
   const next = useCallback(() => setIndex((current) => (current + 1) % SLIDES.length), []);
@@ -36,6 +37,7 @@ export function HeroCarousel() {
   const go = useCallback((nextIndex: number) => setIndex((nextIndex + SLIDES.length) % SLIDES.length), []);
 
   useEffect(() => {
+    if (paused) return;
     // Start quickly in the live preview, then continue at the regular cinematic pace.
     const firstTransition = window.setTimeout(next, FIRST_TRANSITION_DELAY);
     const timer = window.setInterval(next, INTERVAL);
@@ -43,7 +45,7 @@ export function HeroCarousel() {
       window.clearTimeout(firstTransition);
       window.clearInterval(timer);
     };
-  }, [next]);
+  }, [next, paused]);
 
   return (
     <section
@@ -52,6 +54,10 @@ export function HeroCarousel() {
       aria-label="IDEA highlights"
       tabIndex={0}
       onKeyDown={(event) => { if (event.key === "ArrowRight") next(); if (event.key === "ArrowLeft") prev(); }}
+      onMouseEnter={() => setPaused(true)}
+      onMouseLeave={() => setPaused(false)}
+      onFocus={() => setPaused(true)}
+      onBlur={(event) => { if (!event.currentTarget.contains(event.relatedTarget)) setPaused(false); }}
       onTouchStart={(event) => { touchX.current = event.touches[0]?.clientX ?? null; }}
       onTouchEnd={(event) => {
         if (touchX.current === null) return;

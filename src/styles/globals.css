@@ -127,6 +127,7 @@ html {
 
 body {
   margin: 0;
+  overflow-x: clip;
   background: var(--idea-bg);
   color: var(--idea-text);
   font-family: var(--idea-font-body);
@@ -201,6 +202,12 @@ body {
 /* Rich photo treatment is controlled here so the catalog can be tuned globally. */
 .idea-vivid-image {
   filter: saturate(1.16) contrast(1.06) brightness(1.04);
+}
+
+/* Keep controls clear of the iPhone notch and home indicator. */
+@supports (padding: max(0px)) {
+  header { padding-top: env(safe-area-inset-top); }
+  footer { padding-bottom: env(safe-area-inset-bottom); }
 }
 
 .idea-official-logo {
