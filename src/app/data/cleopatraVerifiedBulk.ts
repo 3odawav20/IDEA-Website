@@ -9,13 +9,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sevilla 60x60 cm Marble Glossy",
       "fr": "Sevilla 60x60 cm Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sevilla",
     "code": "1010014910",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -240,13 +240,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Daisy 60x60 cm Light Grey Marble Matt",
       "fr": "Daisy 60x60 cm Light Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Daisy",
     "code": "1010014760",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -435,13 +435,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Evelyn 60.5x121 cm grey marble Rectified Matt",
       "fr": "Evelyn 60.5x121 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Evelyn",
     "code": "1010014735",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -474,13 +474,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "rover 20x121 cm Honey Wooden Matt",
       "fr": "rover 20x121 cm Honey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "rover",
     "code": "1010014725",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Honey"
@@ -513,13 +513,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Ankara 60.5x121 cm IVORY marble Rectified Glossy",
       "fr": "Ankara 60.5x121 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Ankara",
     "code": "1010014724",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -552,13 +552,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dream 60.5x121 cm Grey Marble Glossy",
       "fr": "Dream 60.5x121 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dream",
     "code": "1010014723",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -591,12 +591,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Alabaster 30x60 cm BEIGE mix Rectified Glossy",
       "fr": "Alabaster 30x60 cm BEIGE mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Alabaster",
     "code": "1010014722",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -629,13 +629,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Alabaster 30x60 cm BEIGE marble Rectified Glossy",
       "fr": "Alabaster 30x60 cm BEIGE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Alabaster",
     "code": "1010014721",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -668,13 +668,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Frazino 20x121 cm BEIGE Wooden Matt",
       "fr": "Frazino 20x121 cm BEIGE Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Frazino",
     "code": "1010014720",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -707,13 +707,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Frazino 20x121 cm ASH Wooden Matt",
       "fr": "Frazino 20x121 cm ASH Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Frazino",
     "code": "1010014719",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "ASH"
@@ -746,13 +746,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "rover 20x121 cm Brown Wooden Matt",
       "fr": "rover 20x121 cm Brown Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "rover",
     "code": "1010014717",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Brown"
@@ -785,13 +785,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Cedar 20x121 cm BEIGE Wooden Matt",
       "fr": "Cedar 20x121 cm BEIGE Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Cedar",
     "code": "1010014716",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -824,13 +824,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Cedar 20x121 cm BROWN Wooden Matt",
       "fr": "Cedar 20x121 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Cedar",
     "code": "1010014715",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -1331,13 +1331,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Laila 30x60 cm grey Geometric Rectified Glossy",
       "fr": "Laila 30x60 cm grey Geometric Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Laila",
     "code": "1010014679",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -1370,12 +1370,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Laila 30x60 cm grey farma Rectified Glossy",
       "fr": "Laila 30x60 cm grey farma Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Laila",
     "code": "1010014678",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey farma Rectified"
@@ -1408,13 +1408,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Laila 30x60 cm grey marble Rectified Glossy",
       "fr": "Laila 30x60 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Laila",
     "code": "1010014677",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -1447,12 +1447,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Leaf 24.5x74.5 cm IVORY mix Rectified Matt",
       "fr": "Leaf 24.5x74.5 cm IVORY mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Leaf",
     "code": "1010014672",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY mix Rectified"
@@ -1485,13 +1485,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Trani 31.5x96 cm IVORY Geometric second grade Rectified Matt",
       "fr": "Trani 31.5x96 cm IVORY Geometric second grade Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Trani",
     "code": "1010014665",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -1915,13 +1915,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "melody 20x121 cm Honey Wooden Matt",
       "fr": "melody 20x121 cm Honey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "melody",
     "code": "1010014579",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Honey"
@@ -1993,13 +1993,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sun Light 60x120 cm light beige marble Rectified Glossy",
       "fr": "Sun Light 60x120 cm light beige marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sun Light",
     "code": "1010014545",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "light beige"
@@ -2305,13 +2305,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lucy 30x60 cm grey marble Rectified Matt",
       "fr": "Lucy 30x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lucy",
     "code": "1010014467",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -2344,13 +2344,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Daisy 30x60 cm grey marble Rectified Matt",
       "fr": "Daisy 30x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Daisy",
     "code": "1010014456",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -2383,12 +2383,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Daisy 30x60 cm grey farma Rectified Matt",
       "fr": "Daisy 30x60 cm grey farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Daisy",
     "code": "1010014455",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey farma Rectified"
@@ -2421,13 +2421,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Margot 30x60 cm CARRARA stripe Rectified Matt",
       "fr": "Margot 30x60 cm CARRARA stripe Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Margot",
     "code": "1010014454",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -2457,13 +2457,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Margot 30x60 cm CARRARA farma Rectified Matt",
       "fr": "Margot 30x60 cm CARRARA farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Margot",
     "code": "1010014453",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -2493,13 +2493,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Margot 30x60 cm CARRARA marble Rectified Matt",
       "fr": "Margot 30x60 cm CARRARA marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Margot",
     "code": "1010014452",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -2529,13 +2529,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Daisy 60x60 cm Grey Marble Matt",
       "fr": "Daisy 60x60 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Daisy",
     "code": "1010014451",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -2568,13 +2568,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Daisy 30x60 cm Light Grey marble Rectified Matt",
       "fr": "Daisy 30x60 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Daisy",
     "code": "1010014450",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -2607,12 +2607,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Daisy 30x60 cm Light Grey farma Rectified Matt",
       "fr": "Daisy 30x60 cm Light Grey farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Daisy",
     "code": "1010014449",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey farma Rectified"
@@ -2645,13 +2645,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lola 60x60 cm CARRARA marble Rectified Glossy",
       "fr": "Lola 60x60 cm CARRARA marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lola",
     "code": "1010014448",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -2681,13 +2681,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lola 30x60 cm CARRARA marble Rectified Glossy",
       "fr": "Lola 30x60 cm CARRARA marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lola",
     "code": "1010014447",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -2717,13 +2717,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lola 30x60 cm CARRARA farma Rectified Glossy",
       "fr": "Lola 30x60 cm CARRARA farma Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lola",
     "code": "1010014446",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -2753,13 +2753,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Gloria 60x60 cm BEIGE marble Rectified Glossy",
       "fr": "Gloria 60x60 cm BEIGE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Gloria",
     "code": "1010014445",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -2792,13 +2792,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Gloria 30x60 cm BEIGE marble Rectified Glossy",
       "fr": "Gloria 30x60 cm BEIGE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Gloria",
     "code": "1010014444",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -2831,13 +2831,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Gloria 30x60 cm BEIGE Geometric Rectified Glossy",
       "fr": "Gloria 30x60 cm BEIGE Geometric Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Gloria",
     "code": "1010014443",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -2870,12 +2870,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lucy 30x60 cm BEIGE mix Rectified Matt",
       "fr": "Lucy 30x60 cm BEIGE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lucy",
     "code": "1010014442",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -2908,12 +2908,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lucy 30x60 cm Beige x Blue mix Rectified Matt",
       "fr": "Lucy 30x60 cm Beige x Blue mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lucy",
     "code": "1010014441",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige x Blue mix Rectified"
@@ -2946,12 +2946,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lucy 30x60 cm grey farma Rectified Matt",
       "fr": "Lucy 30x60 cm grey farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lucy",
     "code": "1010014440",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey farma Rectified"
@@ -2984,13 +2984,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lucy 60x60 cm grey marble Rectified Matt",
       "fr": "Lucy 60x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lucy",
     "code": "1010014439",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -3023,13 +3023,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lavica 60x60 cm BLACK marble Rectified Glossy",
       "fr": "Lavica 60x60 cm BLACK marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lavica",
     "code": "1010014437",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BLACK"
@@ -3062,13 +3062,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pavis 60x60 cm BEIGE marble Rectified Glossy",
       "fr": "Pavis 60x60 cm BEIGE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pavis",
     "code": "1010014436",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -3101,13 +3101,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Alabaster 60x60 cm Beige Marble Glossy",
       "fr": "Alabaster 60x60 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Alabaster",
     "code": "1010014434",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -3140,13 +3140,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Alabaster 30x60 cm BEIGE marble Rectified Matt",
       "fr": "Alabaster 30x60 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Alabaster",
     "code": "1010014428",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -3257,13 +3257,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Leaf 60x60 cm Marble Glossy",
       "fr": "Leaf 60x60 cm Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Leaf",
     "code": "1010014381",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -3293,13 +3293,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nantes 30x60 cm IVORY marble Rectified Matt",
       "fr": "Nantes 30x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nantes",
     "code": "1010014380",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -3332,13 +3332,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Martina 60x60 cm Light Beige Marble Matt",
       "fr": "Martina 60x60 cm Light Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Martina",
     "code": "1010014377",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Beige"
@@ -3683,13 +3683,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "alma 45x45 cm Light Grey Plain Matt",
       "fr": "alma 45x45 cm Light Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "alma",
     "code": "1010014319",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -3722,13 +3722,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "selfa 45x45 cm Grey Marble Glossy",
       "fr": "selfa 45x45 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "selfa",
     "code": "1010014318",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -3761,13 +3761,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "sorio 45x45 cm Grey Plain Matt",
       "fr": "sorio 45x45 cm Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "sorio",
     "code": "1010014317",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -3800,13 +3800,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "taylor 45x45 cm Light Grey Plain Matt",
       "fr": "taylor 45x45 cm Light Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "taylor",
     "code": "1010014316",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -3839,13 +3839,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "abha 45x45 cm Grey Plain Matt",
       "fr": "abha 45x45 cm Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "abha",
     "code": "1010014315",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -3878,13 +3878,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "abha 45x45 cm Beige Plain Matt",
       "fr": "abha 45x45 cm Beige Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "abha",
     "code": "1010014314",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -3917,13 +3917,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Icarus 60x60 cm grey marble Rectified Glossy",
       "fr": "Icarus 60x60 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Icarus",
     "code": "1010014313",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -3956,13 +3956,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Oasis 60x60 cm grey marble Rectified Glossy",
       "fr": "Oasis 60x60 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Oasis",
     "code": "1010014312",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -3995,12 +3995,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Icarus 24.5x74.5 cm grey forma Rectified Glossy",
       "fr": "Icarus 24.5x74.5 cm grey forma Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Icarus",
     "code": "1010014311",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey forma Rectified"
@@ -4033,13 +4033,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Icarus 24.5x74.5 cm grey marble Rectified Glossy",
       "fr": "Icarus 24.5x74.5 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Icarus",
     "code": "1010014310",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4072,13 +4072,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "CE Oasis 24.5x74.5 cm grey marble Rectified Glossy",
       "fr": "CE Oasis 24.5x74.5 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "CE Oasis",
     "code": "1010014309",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4111,13 +4111,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Oasis 24.5x74.5 cm grey marble Rectified Glossy",
       "fr": "Oasis 24.5x74.5 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Oasis",
     "code": "1010014308",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4150,12 +4150,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Abha 30x60 cm BEIGE mix Rectified Matt",
       "fr": "Abha 30x60 cm BEIGE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Abha",
     "code": "1010014307",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -4188,12 +4188,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Abha 30x60 cm BEIGE farma Rectified Matt",
       "fr": "Abha 30x60 cm BEIGE farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Abha",
     "code": "1010014306",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE farma Rectified"
@@ -4226,13 +4226,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Abha 30x60 cm BEIGE marble Rectified Matt",
       "fr": "Abha 30x60 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Abha",
     "code": "1010014305",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -4265,12 +4265,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Abha 30x60 cm grey mix Rectified Matt",
       "fr": "Abha 30x60 cm grey mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Abha",
     "code": "1010014304",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix Rectified"
@@ -4303,12 +4303,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Abha 30x60 cm grey farma Rectified Matt",
       "fr": "Abha 30x60 cm grey farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Abha",
     "code": "1010014303",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey farma Rectified"
@@ -4341,13 +4341,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Abha 30x60 cm grey marble Rectified Matt",
       "fr": "Abha 30x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Abha",
     "code": "1010014302",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4380,12 +4380,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sorio 30x60 cm grey mix Rectified Matt",
       "fr": "Sorio 30x60 cm grey mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sorio",
     "code": "1010014301",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix Rectified"
@@ -4418,12 +4418,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sorio 30x60 cm grey farma Rectified Matt",
       "fr": "Sorio 30x60 cm grey farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sorio",
     "code": "1010014300",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey farma Rectified"
@@ -4456,13 +4456,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sorio 30x60 cm grey marble Rectified Matt",
       "fr": "Sorio 30x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sorio",
     "code": "1010014299",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4495,12 +4495,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Taylor 30x60 cm Light Grey farma Rectified Matt",
       "fr": "Taylor 30x60 cm Light Grey farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Taylor",
     "code": "1010014298",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey farma Rectified"
@@ -4533,12 +4533,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Taylor 30x60 cm Light Grey mix Rectified Matt",
       "fr": "Taylor 30x60 cm Light Grey mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Taylor",
     "code": "1010014297",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey mix Rectified"
@@ -4571,13 +4571,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Taylor 30x60 cm Light Grey marble Rectified Matt",
       "fr": "Taylor 30x60 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Taylor",
     "code": "1010014296",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -4610,12 +4610,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aira 30x60 cm BLACK mix Rectified Matt",
       "fr": "Aira 30x60 cm BLACK mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aira",
     "code": "1010014295",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLACK mix Rectified"
@@ -4648,12 +4648,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aira 30x60 cm WHITE mix Rectified Matt",
       "fr": "Aira 30x60 cm WHITE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aira",
     "code": "1010014294",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE mix Rectified"
@@ -4686,12 +4686,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aira 30x60 cm WHITE Rectified Glossy",
       "fr": "Aira 30x60 cm WHITE Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aira",
     "code": "1010014293",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE Rectified"
@@ -4724,12 +4724,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aira 30x60 cm WHITE Rectified Matt",
       "fr": "Aira 30x60 cm WHITE Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aira",
     "code": "1010014292",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE Rectified"
@@ -4762,13 +4762,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aira 30x60 cm WHITE marble Rectified Matt",
       "fr": "Aira 30x60 cm WHITE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aira",
     "code": "1010014291",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -4801,12 +4801,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nantes 30x60 cm Light Grey mix Rectified Matt",
       "fr": "Nantes 30x60 cm Light Grey mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nantes",
     "code": "1010014290",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey mix Rectified"
@@ -4839,12 +4839,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nantes 30x60 cm BLACK mix Rectified Matt",
       "fr": "Nantes 30x60 cm BLACK mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nantes",
     "code": "1010014289",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLACK mix Rectified"
@@ -4877,12 +4877,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Arlon 30x60 cm BEIGE mix Rectified Matt",
       "fr": "Arlon 30x60 cm BEIGE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Arlon",
     "code": "1010014288",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -4915,12 +4915,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Arlon 30x60 cm BEIGE farma Rectified Matt",
       "fr": "Arlon 30x60 cm BEIGE farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Arlon",
     "code": "1010014287",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE farma Rectified"
@@ -4953,13 +4953,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Arlon 30x60 cm BEIGE marble Rectified Matt",
       "fr": "Arlon 30x60 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Arlon",
     "code": "1010014286",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -4992,12 +4992,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Alma 30x60 cm Light Grey farma Rectified Matt",
       "fr": "Alma 30x60 cm Light Grey farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Alma",
     "code": "1010014285",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey farma Rectified"
@@ -5030,12 +5030,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Alma 30x60 cm Light Grey mix Rectified Matt",
       "fr": "Alma 30x60 cm Light Grey mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Alma",
     "code": "1010014284",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey mix Rectified"
@@ -5068,13 +5068,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Abha 30x60 cm Light Grey marble Rectified Matt",
       "fr": "Abha 30x60 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Abha",
     "code": "1010014283",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -5107,12 +5107,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Silva 30x60 cm grey mix Rectified Glossy",
       "fr": "Silva 30x60 cm grey mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Silva",
     "code": "1010014282",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix Rectified"
@@ -5145,13 +5145,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Silva 30x60 cm grey Mosaic Rectified Glossy",
       "fr": "Silva 30x60 cm grey Mosaic Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Silva",
     "code": "1010014281",
     "texture": "Mosaic",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5184,12 +5184,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Silva 30x60 cm grey Rectified Glossy",
       "fr": "Silva 30x60 cm grey Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Silva",
     "code": "1010014280",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey Rectified"
@@ -5222,13 +5222,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Silva 30x60 cm grey marble Rectified Glossy",
       "fr": "Silva 30x60 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Silva",
     "code": "1010014279",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5261,12 +5261,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Ivory 30x60 cm IVORY mix Glossy",
       "fr": "Ivory 30x60 cm IVORY mix Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Ivory",
     "code": "1010014278",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY mix"
@@ -5299,13 +5299,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Ivory 30x60 cm IVORY marble Glossy",
       "fr": "Ivory 30x60 cm IVORY marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Ivory",
     "code": "1010014277",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -5338,13 +5338,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "arket 45x45 cm Ivory Plain Glossy",
       "fr": "arket 45x45 cm Ivory Plain Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "arket",
     "code": "1010014276",
     "texture": "Plain",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -5377,13 +5377,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Arkit 30x60 cm IVORY marble Glossy",
       "fr": "Arkit 30x60 cm IVORY marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Arkit",
     "code": "1010014275",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -5416,13 +5416,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "tablet 59.5x59.5 cm Grey Marble Glossy",
       "fr": "tablet 59.5x59.5 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "tablet",
     "code": "1010014271",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -5455,13 +5455,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Arctic 60x60 cm Marble Glossy",
       "fr": "Arctic 60x60 cm Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Arctic",
     "code": "1010014265",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -5530,12 +5530,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Mira 1 30x60 cm IVORY second grade Rectified Glossy",
       "fr": "Mira 1 30x60 cm IVORY second grade Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Mira 1",
     "code": "1010014253",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -5569,12 +5569,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Mira 2 30x60 cm IVORY second grade Rectified Glossy",
       "fr": "Mira 2 30x60 cm IVORY second grade Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Mira 2",
     "code": "1010014252",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -5608,12 +5608,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Myka 30x60 cm IVORY second grade Rectified Glossy",
       "fr": "Myka 30x60 cm IVORY second grade Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Myka",
     "code": "1010014250",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -5647,13 +5647,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Paloma 30x60 cm WHITE stripe second grad Rectified Glossy",
       "fr": "Paloma 30x60 cm WHITE stripe second grad Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Paloma",
     "code": "1010014216",
     "texture": "Stripe",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -5686,12 +5686,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm Light Grey second grade Glossy",
       "fr": "Karen 30x60 cm Light Grey second grade Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010014191",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -5725,13 +5725,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm grey second grade Decor Glossy",
       "fr": "Karen 30x60 cm grey second grade Decor Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010014190",
     "texture": "Decor",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -5765,12 +5765,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm grey second grade Glossy",
       "fr": "Karen 30x60 cm grey second grade Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010014189",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -6266,12 +6266,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Leaf 24.5x74.5 cm IVORY mix Rectified Glossy",
       "fr": "Leaf 24.5x74.5 cm IVORY mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Leaf",
     "code": "1010013941",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY mix Rectified"
@@ -6304,12 +6304,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Leaf 24.5x74.5 cm IVORY farma Rectified Glossy",
       "fr": "Leaf 24.5x74.5 cm IVORY farma Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Leaf",
     "code": "1010013940",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY farma Rectified"
@@ -6342,13 +6342,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Leaf 24.5x74.5 cm IVORY marble Rectified Glossy",
       "fr": "Leaf 24.5x74.5 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Leaf",
     "code": "1010013939",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -6531,13 +6531,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aswan 60.5x121 cm grey marble Rectified Glossy",
       "fr": "Aswan 60.5x121 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aswan",
     "code": "1010013916",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -6570,13 +6570,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lima 60.5x121 cm IVORY marble Rectified Glossy",
       "fr": "Lima 60.5x121 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lima",
     "code": "1010013915",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -6609,13 +6609,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Istanbul 60.5x121 cm IVORY marble Rectified Glossy",
       "fr": "Istanbul 60.5x121 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Istanbul",
     "code": "1010013914",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -6648,13 +6648,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sage 60.5x121 cm WHITE marble Rectified Matt",
       "fr": "Sage 60.5x121 cm WHITE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sage",
     "code": "1010013899",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -6726,13 +6726,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "alma 45x45 cm Ivory Plain Matt",
       "fr": "alma 45x45 cm Ivory Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "alma",
     "code": "1010013893",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -6765,13 +6765,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Isedra 60x60 cm IVORY marble Rectified Matt",
       "fr": "Isedra 60x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Isedra",
     "code": "1010013881",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -6804,13 +6804,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Isedra 30x60 cm IVORY marble Rectified Matt",
       "fr": "Isedra 30x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Isedra",
     "code": "1010013880",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -6843,13 +6843,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Isedra 30x60 cm IVORY Geometric Rectified Matt",
       "fr": "Isedra 30x60 cm IVORY Geometric Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Isedra",
     "code": "1010013879",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -6882,13 +6882,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Antique 60x60 cm IVORY marble Rectified Matt",
       "fr": "Antique 60x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Antique",
     "code": "1010013878",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -6921,13 +6921,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Antique 30x60 cm IVORY marble Rectified Matt",
       "fr": "Antique 30x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Antique",
     "code": "1010013877",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -6960,13 +6960,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Forma 30x60 cm IVORY marble Rectified Matt",
       "fr": "Forma 30x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Forma",
     "code": "1010013876",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -6999,13 +6999,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Fairmont 60.5x121 cm WHITE marble Rectified Glossy",
       "fr": "Fairmont 60.5x121 cm WHITE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Fairmont",
     "code": "1010013875",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -7038,13 +7038,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Remus 60.5x121 cm IVORY marble Rectified Glossy",
       "fr": "Remus 60.5x121 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Remus",
     "code": "1010013874",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -7077,13 +7077,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Galaxy 60.5x121 cm COFFEE marble Rectified Glossy",
       "fr": "Galaxy 60.5x121 cm COFFEE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Galaxy",
     "code": "1010013873",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "COFFEE"
@@ -7116,13 +7116,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Berlin 60.5x121 cm grey marble Rectified Glossy",
       "fr": "Berlin 60.5x121 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Berlin",
     "code": "1010013872",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -7155,13 +7155,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Shade 60.5x121 cm grey marble Rectified Glossy",
       "fr": "Shade 60.5x121 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Shade",
     "code": "1010013871",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -7194,13 +7194,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Fossil 60.5x121 cm IVORY marble Rectified Glossy",
       "fr": "Fossil 60.5x121 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Fossil",
     "code": "1010013870",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -7233,13 +7233,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pisa 60x60 cm grey marble Rectified Matt",
       "fr": "Pisa 60x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pisa",
     "code": "1010013866",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -7272,13 +7272,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Woody 60x60 cm BEIGE marble Rectified Matt",
       "fr": "Woody 60x60 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Woody",
     "code": "1010013857",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -7389,13 +7389,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Arlon 60x60 cm Beige Marble Matt",
       "fr": "Arlon 60x60 cm Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Arlon",
     "code": "1010013832",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -7428,13 +7428,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sorio 60.5x121 cm grey marble Rectified Matt",
       "fr": "Sorio 60.5x121 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sorio",
     "code": "1010013831",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -7467,13 +7467,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Arlon 60.5x121 cm BEIGE marble Rectified Matt",
       "fr": "Arlon 60.5x121 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Arlon",
     "code": "1010013830",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -7506,13 +7506,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Myka 30x60 cm IVORY marble Rectified Matt",
       "fr": "Myka 30x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Myka",
     "code": "1010013727",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -7545,13 +7545,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dover 30x60 cm Light Grey marble Rectified Matt",
       "fr": "Dover 30x60 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dover",
     "code": "1010013726",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -7584,12 +7584,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dover 30x60 cm Light Grey strip Rectified Matt",
       "fr": "Dover 30x60 cm Light Grey strip Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dover",
     "code": "1010013725",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey strip Rectified"
@@ -7622,13 +7622,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "dover 45x45 cm Light Grey Plain Matt",
       "fr": "dover 45x45 cm Light Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "dover",
     "code": "1010013724",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -7661,13 +7661,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dover 30x60 cm IVORY marble Rectified Matt",
       "fr": "Dover 30x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dover",
     "code": "1010013723",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -7700,12 +7700,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dover 30x60 cm IVORY strip Rectified Matt",
       "fr": "Dover 30x60 cm IVORY strip Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dover",
     "code": "1010013722",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY strip Rectified"
@@ -7738,13 +7738,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "dover 45x45 cm Ivory Plain Matt",
       "fr": "dover 45x45 cm Ivory Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "dover",
     "code": "1010013721",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -7777,13 +7777,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dover 30x60 cm BLACK marble Rectified Matt",
       "fr": "Dover 30x60 cm BLACK marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dover",
     "code": "1010013720",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLACK"
@@ -7816,12 +7816,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dover 30x60 cm BLACK strip Rectified Matt",
       "fr": "Dover 30x60 cm BLACK strip Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dover",
     "code": "1010013719",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLACK strip Rectified"
@@ -7854,13 +7854,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "dover 45x45 cm Black Plain Matt",
       "fr": "dover 45x45 cm Black Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "dover",
     "code": "1010013718",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Black"
@@ -7893,13 +7893,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nantes 30x60 cm BLACK marble Rectified Matt",
       "fr": "Nantes 30x60 cm BLACK marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nantes",
     "code": "1010013717",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLACK"
@@ -7932,12 +7932,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nantes 30x60 cm BLACK forma Rectified Matt",
       "fr": "Nantes 30x60 cm BLACK forma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nantes",
     "code": "1010013716",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLACK forma Rectified"
@@ -8009,12 +8009,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Judy 60.5x121 cm BEIGE farma Rectified Matt",
       "fr": "Judy 60.5x121 cm BEIGE farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Judy",
     "code": "1010013707",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE farma Rectified"
@@ -8047,13 +8047,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Judy 60.5x121 cm BEIGE marble Rectified Matt",
       "fr": "Judy 60.5x121 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Judy",
     "code": "1010013706",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -8086,13 +8086,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Caldia 60x60 cm White Marble Glossy",
       "fr": "Caldia 60x60 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Caldia",
     "code": "1010013696",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -8125,13 +8125,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Davos 60x60 cm Carrara Marble Glossy",
       "fr": "Davos 60x60 cm Carrara Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Davos",
     "code": "1010013678",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -8161,13 +8161,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Astra 60x60 cm White Marble Glossy",
       "fr": "Astra 60x60 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Astra",
     "code": "1010013674",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -8200,13 +8200,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Normac 60x60 cm White Marble Glossy",
       "fr": "Normac 60x60 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Normac",
     "code": "1010013673",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -8239,12 +8239,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nantes 30x60 cm Light Grey forma Rectified Matt",
       "fr": "Nantes 30x60 cm Light Grey forma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nantes",
     "code": "1010013668",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey forma Rectified"
@@ -8316,13 +8316,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Grace London 60x60 cm Black Marble Matt",
       "fr": "Grace London 60x60 cm Black Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Grace London",
     "code": "1010013662",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Black"
@@ -8355,13 +8355,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Grace Street 60x60 cm Grey Marble Matt",
       "fr": "Grace Street 60x60 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Grace Street",
     "code": "1010013661",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -8394,13 +8394,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Grace Street 60x60 cm Beige Marble Matt",
       "fr": "Grace Street 60x60 cm Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Grace Street",
     "code": "1010013660",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -8433,13 +8433,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Grace Terrazzo 60x60 cm White Marble Matt",
       "fr": "Grace Terrazzo 60x60 cm White Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Grace Terrazzo",
     "code": "1010013659",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -8472,13 +8472,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Grace Pala 60x60 cm Beige Marble Matt",
       "fr": "Grace Pala 60x60 cm Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Grace Pala",
     "code": "1010013658",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -8511,13 +8511,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Grace Pala 60x60 cm Grey Marble Matt",
       "fr": "Grace Pala 60x60 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Grace Pala",
     "code": "1010013657",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -8550,13 +8550,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Grace Arena 60x60 cm Grey Marble Matt",
       "fr": "Grace Arena 60x60 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Grace Arena",
     "code": "1010013656",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -8589,13 +8589,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Grace Arena 60x60 cm Beige Marble Matt",
       "fr": "Grace Arena 60x60 cm Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Grace Arena",
     "code": "1010013655",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -8628,13 +8628,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nantes 30x60 cm Light Grey marble Rectified Matt",
       "fr": "Nantes 30x60 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nantes",
     "code": "1010013631",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -8745,13 +8745,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Kenroku 60.5x121 cm BEIGE marble Rectified Matt",
       "fr": "Kenroku 60.5x121 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Kenroku",
     "code": "1010013581",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -9057,13 +9057,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Musa 60.5x121 cm CARRARA marble Rectified Matt",
       "fr": "Musa 60.5x121 cm CARRARA marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Musa",
     "code": "1010013503",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -9093,13 +9093,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Laila 60.5x121 cm WHITE marble Rectified Matt",
       "fr": "Laila 60.5x121 cm WHITE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Laila",
     "code": "1010013502",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -9171,13 +9171,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "melody 20x121 cm Ash Wooden Matt",
       "fr": "melody 20x121 cm Ash Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "melody",
     "code": "1010013493",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ash"
@@ -9210,13 +9210,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sky 60x60 cm Ivory Marble Glossy",
       "fr": "Sky 60x60 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sky",
     "code": "1010013489",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -9249,13 +9249,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Super Zahira 24.5x74.5 cm Light Grey marble Rectified Glossy",
       "fr": "Super Zahira 24.5x74.5 cm Light Grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Super Zahira",
     "code": "1010013444",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -9288,13 +9288,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Paloma 30x60 cm WHITE stripe Rectified Matt",
       "fr": "Paloma 30x60 cm WHITE stripe Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Paloma",
     "code": "1010013443",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -9327,13 +9327,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Paloma 30x60 cm WHITE marble Rectified Glossy",
       "fr": "Paloma 30x60 cm WHITE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Paloma",
     "code": "1010013442",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -9366,12 +9366,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lisa 30x60 cm WHITE mix Rectified Matt",
       "fr": "Lisa 30x60 cm WHITE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lisa",
     "code": "1010013441",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE mix Rectified"
@@ -9404,12 +9404,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lisa 30x60 cm WHITE Rectified Matt",
       "fr": "Lisa 30x60 cm WHITE Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lisa",
     "code": "1010013440",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE Rectified"
@@ -9559,12 +9559,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brenda 24.5x74.5 cm grey farma Rectified Matt",
       "fr": "Brenda 24.5x74.5 cm grey farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brenda",
     "code": "1010013424",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey farma Rectified"
@@ -9597,13 +9597,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brenda 24.5x74.5 cm CARRARA farma Rectified Matt",
       "fr": "Brenda 24.5x74.5 cm CARRARA farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brenda",
     "code": "1010013423",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -9633,13 +9633,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brenda 24.5x74.5 cm CARRARA marble Rectified Matt",
       "fr": "Brenda 24.5x74.5 cm CARRARA marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brenda",
     "code": "1010013422",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -9669,12 +9669,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Gardenia 30x60 cm IVORY farma Rectified Matt",
       "fr": "Gardenia 30x60 cm IVORY farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Gardenia",
     "code": "1010013421",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY farma Rectified"
@@ -9707,13 +9707,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Gardenia 30x60 cm IVORY marble Rectified Matt",
       "fr": "Gardenia 30x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Gardenia",
     "code": "1010013420",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -9746,13 +9746,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Iris 30x60 cm IVORY stripe Rectified Matt",
       "fr": "Iris 30x60 cm IVORY stripe Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Iris",
     "code": "1010013419",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -9785,13 +9785,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Iris 30x60 cm IVORY marble Rectified Matt",
       "fr": "Iris 30x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Iris",
     "code": "1010013418",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -9824,13 +9824,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brenda 60x60 cm WHITE marble Rectified Matt",
       "fr": "Brenda 60x60 cm WHITE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brenda",
     "code": "1010013417",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -9863,13 +9863,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Iris 60x60 cm Ivory Marble Matt",
       "fr": "Iris 60x60 cm Ivory Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Iris",
     "code": "1010013416",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -9902,13 +9902,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Gardenia 60x60 cm Grey Marble Matt",
       "fr": "Gardenia 60x60 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Gardenia",
     "code": "1010013415",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -9941,13 +9941,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "mousa 59.5x59.5 cm White Marble Glossy",
       "fr": "mousa 59.5x59.5 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "mousa",
     "code": "1010013413",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -9980,13 +9980,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Volax 59.5x59.5 cm grey marble Rectified Glossy",
       "fr": "Volax 59.5x59.5 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Volax",
     "code": "1010013412",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -10019,13 +10019,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Paloma 60x60 cm Ivory Marble Glossy",
       "fr": "Paloma 60x60 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Paloma",
     "code": "1010013409",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -10058,13 +10058,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Paloma 60x60 cm Grey Marble Glossy",
       "fr": "Paloma 60x60 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Paloma",
     "code": "1010013407",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -10097,13 +10097,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Volcan 59.5x59.5 cm ivory marble Rectified Glossy",
       "fr": "Volcan 59.5x59.5 cm ivory marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Volcan",
     "code": "1010013406",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "ivory"
@@ -10136,13 +10136,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Volcan 59.5x59.5 cm WHITE marble Rectified Glossy",
       "fr": "Volcan 59.5x59.5 cm WHITE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Volcan",
     "code": "1010013405",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -10175,13 +10175,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "gala 59.5x59.5 cm Grey Marble Glossy",
       "fr": "gala 59.5x59.5 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "gala",
     "code": "1010013404",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -10214,13 +10214,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Paloma 60x60 cm Ivory Marble Matt",
       "fr": "Paloma 60x60 cm Ivory Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Paloma",
     "code": "1010013403",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -10253,13 +10253,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nubi 60x60 cm Grey Marble Glossy",
       "fr": "Nubi 60x60 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nubi",
     "code": "1010013402",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -10292,13 +10292,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Ford 60.5x121 cm IVORY marble Rectified Matt",
       "fr": "Ford 60.5x121 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Ford",
     "code": "1010013400",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -10331,13 +10331,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "CE Boss 60.5x121 cm Light Grey marble Rectified Matt",
       "fr": "CE Boss 60.5x121 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "CE Boss",
     "code": "1010013399",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -10370,12 +10370,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Farma 60.5x121 cm WHITE farma Rectified Matt",
       "fr": "Farma 60.5x121 cm WHITE farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Farma",
     "code": "1010013398",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE farma Rectified"
@@ -10408,12 +10408,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Luna 60.5x121 cm WHITE farma Rectified Matt",
       "fr": "Luna 60.5x121 cm WHITE farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Luna",
     "code": "1010013396",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE farma Rectified"
@@ -10446,13 +10446,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Luna 60.5x121 cm WHITE marble Rectified Matt",
       "fr": "Luna 60.5x121 cm WHITE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Luna",
     "code": "1010013395",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -10485,13 +10485,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "sky gold 60x60 cm Grey Marble Matt",
       "fr": "sky gold 60x60 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "sky gold",
     "code": "1010013394",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -10524,13 +10524,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "zohira 59.5x59.5 cm Light Grey Marble Glossy",
       "fr": "zohira 59.5x59.5 cm Light Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "zohira",
     "code": "1010013341",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -10602,13 +10602,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Urbino 60.5x121 cm BEIGE marble Rectified Matt",
       "fr": "Urbino 60.5x121 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Urbino",
     "code": "1010013324",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -10641,13 +10641,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Urbino 60.5x121 cm grey marble Rectified Matt",
       "fr": "Urbino 60.5x121 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Urbino",
     "code": "1010013323",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -10680,13 +10680,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Gala 60.5x121 cm grey marble Rectified Matt",
       "fr": "Gala 60.5x121 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Gala",
     "code": "1010013322",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -10719,13 +10719,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tivoli 60.5x121 cm IVORY marble Rectified Matt",
       "fr": "Tivoli 60.5x121 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tivoli",
     "code": "1010013321",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -10758,13 +10758,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tivoli 60.5x121 cm Light Grey marble Rectified Matt",
       "fr": "Tivoli 60.5x121 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tivoli",
     "code": "1010013320",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -10797,13 +10797,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Nobi 60.5x121 cm IVORY marble Rectified Matt",
       "fr": "Nobi 60.5x121 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Nobi",
     "code": "1010013319",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -10836,13 +10836,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aura 60.5x121 cm CARRARA marble Rectified Matt",
       "fr": "Aura 60.5x121 cm CARRARA marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aura",
     "code": "1010013318",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -10872,13 +10872,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "royalty 59.5x59.5 cm Beige Marble Glossy",
       "fr": "royalty 59.5x59.5 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "royalty",
     "code": "1010013314",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -10911,13 +10911,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Urban 60x60 cm IVORY marble Rectified Matt",
       "fr": "Urban 60x60 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Urban",
     "code": "1010013301",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -10950,13 +10950,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Boss 60.5x121 cm grey marble Rectified Matt",
       "fr": "Boss 60.5x121 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Boss",
     "code": "1010013296",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -10989,13 +10989,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Moon Light 60x60 cm Carrara Marble Matt",
       "fr": "Moon Light 60x60 cm Carrara Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Moon Light",
     "code": "1010013293",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -11025,12 +11025,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Super Astred 24.5x74.5 cm grey mix Rectified Glossy",
       "fr": "Super Astred 24.5x74.5 cm grey mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Super Astred",
     "code": "1010013162",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix Rectified"
@@ -11063,13 +11063,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Super Astred 24.5x74.5 cm Light Grey marble Rectified Glossy",
       "fr": "Super Astred 24.5x74.5 cm Light Grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Super Astred",
     "code": "1010013161",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -11102,13 +11102,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Super Astred 24.5x74.5 cm grey marble Rectified Glossy",
       "fr": "Super Astred 24.5x74.5 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Super Astred",
     "code": "1010013160",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -11141,13 +11141,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Colombia 60x60 cm Light Grey Marble Matt",
       "fr": "Colombia 60x60 cm Light Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Colombia",
     "code": "1010013057",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -11180,13 +11180,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "melody 20x121 cm Grey Wooden Matt",
       "fr": "melody 20x121 cm Grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "melody",
     "code": "1010013055",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -11219,13 +11219,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "El Dorado 60x60 cm Ivory Marble Glossy",
       "fr": "El Dorado 60x60 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "El Dorado",
     "code": "1010012965",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -11258,13 +11258,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "ebony 20x121 cm Natural Wooden Matt",
       "fr": "ebony 20x121 cm Natural Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "ebony",
     "code": "1010012916",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Natural"
@@ -11297,13 +11297,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo 30x60 cm WHITE Geometric Matt",
       "fr": "Romeo 30x60 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo",
     "code": "1010012902",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -11336,13 +11336,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Silva 60x60 cm Grey Marble Glossy",
       "fr": "Silva 60x60 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Silva",
     "code": "1010012901",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -11375,13 +11375,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tacos 60x60 cm Marble Glossy",
       "fr": "Tacos 60x60 cm Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tacos",
     "code": "1010012846",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -11411,13 +11411,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tempo 60x60 cm Grey Marble Glossy",
       "fr": "Tempo 60x60 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tempo",
     "code": "1010012842",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -11450,13 +11450,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 60x60 cm Green Marble Glossy",
       "fr": "Brera 60x60 cm Green Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012838",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Green"
@@ -11489,13 +11489,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Melissa 60x60 cm BEIGE marble Rectified Matt",
       "fr": "Melissa 60x60 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Melissa",
     "code": "1010012835",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -11528,13 +11528,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Melissa 60x60 cm grey marble Rectified Matt",
       "fr": "Melissa 60x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Melissa",
     "code": "1010012834",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -11567,13 +11567,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "stonia 59.5x59.5 cm White Marble Glossy",
       "fr": "stonia 59.5x59.5 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "stonia",
     "code": "1010012811",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -11606,13 +11606,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "El Dorado 60x60 cm Beige Marble Glossy",
       "fr": "El Dorado 60x60 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "El Dorado",
     "code": "1010012810",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -11645,13 +11645,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "El Dorado 60x60 cm White Marble Glossy",
       "fr": "El Dorado 60x60 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "El Dorado",
     "code": "1010012804",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -11684,13 +11684,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "balteks 59.5x59.5 cm Beige Marble Glossy",
       "fr": "balteks 59.5x59.5 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "balteks",
     "code": "1010012792",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -11762,13 +11762,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "lee 20x121 cm Brown Wooden Matt",
       "fr": "lee 20x121 cm Brown Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "lee",
     "code": "1010012640",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Brown"
@@ -11801,13 +11801,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "lee 20x121 cm Natural Wooden Matt",
       "fr": "lee 20x121 cm Natural Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "lee",
     "code": "1010012639",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Natural"
@@ -11840,13 +11840,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "zein 20x121 cm Topo Wooden Matt",
       "fr": "zein 20x121 cm Topo Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "zein",
     "code": "1010012638",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Topo"
@@ -11879,13 +11879,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "zein 20x121 cm Brown Wooden Matt",
       "fr": "zein 20x121 cm Brown Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "zein",
     "code": "1010012637",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Brown"
@@ -11918,13 +11918,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "alba 20x121 cm Brown Wooden Matt",
       "fr": "alba 20x121 cm Brown Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "alba",
     "code": "1010012636",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Brown"
@@ -11957,13 +11957,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "alba 20x121 cm Ash Wooden Matt",
       "fr": "alba 20x121 cm Ash Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "alba",
     "code": "1010012635",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ash"
@@ -11996,13 +11996,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "ebony 20x121 cm Grey Wooden Matt",
       "fr": "ebony 20x121 cm Grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "ebony",
     "code": "1010012634",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -12035,13 +12035,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "ebony 20x121 cm White Wooden Matt",
       "fr": "ebony 20x121 cm White Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "ebony",
     "code": "1010012633",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -12074,13 +12074,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "ebony 20x121 cm Beige Wooden Matt",
       "fr": "ebony 20x121 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "ebony",
     "code": "1010012632",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -12113,13 +12113,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "ebony 20x121 cm Ivory Wooden Matt",
       "fr": "ebony 20x121 cm Ivory Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "ebony",
     "code": "1010012631",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -12152,12 +12152,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Kobe 30x60 cm BEIGE mix Rectified Matt",
       "fr": "Kobe 30x60 cm BEIGE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Kobe",
     "code": "1010012575",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -12190,13 +12190,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Kobe 30x60 cm BEIGE marble Rectified Matt",
       "fr": "Kobe 30x60 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Kobe",
     "code": "1010012574",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -12229,12 +12229,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Albino 30x60 cm WHITE mix Rectified Matt",
       "fr": "Albino 30x60 cm WHITE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Albino",
     "code": "1010012573",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE mix Rectified"
@@ -12267,13 +12267,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Albino 30x60 cm WHITE marble Rectified Matt",
       "fr": "Albino 30x60 cm WHITE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Albino",
     "code": "1010012572",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -12306,12 +12306,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Albino 30x60 cm WHITE Rectified Matt",
       "fr": "Albino 30x60 cm WHITE Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Albino",
     "code": "1010012570",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE Rectified"
@@ -12344,13 +12344,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Albino 30x60 cm WHITE Carrara Rectified Matt",
       "fr": "Albino 30x60 cm WHITE Carrara Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Albino",
     "code": "1010012569",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -12383,13 +12383,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Windy 30x60 cm BEIGE stripe Rectified Matt",
       "fr": "Windy 30x60 cm BEIGE stripe Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Windy",
     "code": "1010012568",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -12422,12 +12422,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Windy 30x60 cm BLUE mix Rectified Glossy",
       "fr": "Windy 30x60 cm BLUE mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Windy",
     "code": "1010012567",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE mix Rectified"
@@ -12460,12 +12460,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Windy 30x60 cm BEIGE mix Rectified Glossy",
       "fr": "Windy 30x60 cm BEIGE mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Windy",
     "code": "1010012566",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -12498,13 +12498,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Windy 30x60 cm BEIGE marble Rectified Glossy",
       "fr": "Windy 30x60 cm BEIGE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Windy",
     "code": "1010012565",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -12537,12 +12537,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 30x60 cm GREEN mix Rectified Matt",
       "fr": "Brera 30x60 cm GREEN mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012564",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN mix Rectified"
@@ -12575,13 +12575,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 30x60 cm GREEN marble Rectified Matt",
       "fr": "Brera 30x60 cm GREEN marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012563",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -12614,12 +12614,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Isola 30x60 cm grey mix Matt",
       "fr": "Isola 30x60 cm grey mix Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Isola",
     "code": "1010012562",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix"
@@ -12652,13 +12652,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Isola 30x60 cm Light Grey stripe Matt",
       "fr": "Isola 30x60 cm Light Grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Isola",
     "code": "1010012561",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -12691,13 +12691,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Isola 30x60 cm grey marble Matt",
       "fr": "Isola 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Isola",
     "code": "1010012560",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -12730,13 +12730,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Isola 30x60 cm Light Grey marble Matt",
       "fr": "Isola 30x60 cm Light Grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Isola",
     "code": "1010012559",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -12769,13 +12769,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Diva 60x60 cm Silver Marble Matt",
       "fr": "Diva 60x60 cm Silver Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Diva",
     "code": "1010012557",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Silver"
@@ -12808,13 +12808,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Albino 60x60 cm White Marble Glossy",
       "fr": "Albino 60x60 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Albino",
     "code": "1010012554",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -12847,13 +12847,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Windy 60x60 cm Beige Marble Glossy",
       "fr": "Windy 60x60 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Windy",
     "code": "1010012553",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -12886,13 +12886,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Isola 60x60 cm grey marble Rectified Matt",
       "fr": "Isola 60x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Isola",
     "code": "1010012552",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -12925,13 +12925,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dina 60x60 cm White Marble Glossy",
       "fr": "Dina 60x60 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dina",
     "code": "1010012551",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -12964,13 +12964,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dina 60x60 cm Grey Marble Glossy",
       "fr": "Dina 60x60 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dina",
     "code": "1010012550",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -13003,13 +13003,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Dina 60x60 cm Ivory Marble Glossy",
       "fr": "Dina 60x60 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Dina",
     "code": "1010012549",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -13042,13 +13042,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Laila 60x60 cm Beige Marble Glossy",
       "fr": "Laila 60x60 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Laila",
     "code": "1010012548",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -13081,13 +13081,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Laila 60x60 cm White Marble Matt",
       "fr": "Laila 60x60 cm White Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Laila",
     "code": "1010012547",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -13120,13 +13120,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Laila 60x60 cm Light Grey Marble Glossy",
       "fr": "Laila 60x60 cm Light Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Laila",
     "code": "1010012546",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -13159,13 +13159,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Laila 60x60 cm Grey Marble Glossy",
       "fr": "Laila 60x60 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Laila",
     "code": "1010012545",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -13312,12 +13312,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Melissa 30x60 cm grey mix Rectified Matt",
       "fr": "Melissa 30x60 cm grey mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Melissa",
     "code": "1010012509",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix Rectified"
@@ -13350,13 +13350,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Melissa forma 30x60 cm grey marble Rectified Matt",
       "fr": "Melissa forma 30x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Melissa forma",
     "code": "1010012508",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -13389,13 +13389,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Melissa flat 30x60 cm grey marble Rectified Matt",
       "fr": "Melissa flat 30x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Melissa flat",
     "code": "1010012507",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -13428,12 +13428,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Melissa 30x60 cm BEIGE mix Rectified Matt",
       "fr": "Melissa 30x60 cm BEIGE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Melissa",
     "code": "1010012506",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -13466,13 +13466,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Melissa forma 30x60 cm BEIGE marble Rectified Matt",
       "fr": "Melissa forma 30x60 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Melissa forma",
     "code": "1010012505",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -13505,13 +13505,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Melissa flat 30x60 cm BEIGE marble Rectified Matt",
       "fr": "Melissa flat 30x60 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Melissa flat",
     "code": "1010012504",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -13544,13 +13544,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Caprice 60x60 cm Ivory Marble Glossy",
       "fr": "Caprice 60x60 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Caprice",
     "code": "1010012445",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -13622,13 +13622,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lumi 60x60 cm Marble Matt",
       "fr": "Lumi 60x60 cm Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lumi",
     "code": "1010012344",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -13658,13 +13658,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Ford 60x60 cm grey marble Rectified Matt",
       "fr": "Ford 60x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Ford",
     "code": "1010012343",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -13697,13 +13697,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Boss 60x60 cm Marble Matt",
       "fr": "Boss 60x60 cm Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Boss",
     "code": "1010012342",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -13733,13 +13733,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Boss 60x60 cm Beige Marble Matt",
       "fr": "Boss 60x60 cm Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Boss",
     "code": "1010012341",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -13772,12 +13772,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Caprice 24.5x74.5 cm IVORY mix Rectified Glossy",
       "fr": "Caprice 24.5x74.5 cm IVORY mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Caprice",
     "code": "1010012340",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY mix Rectified"
@@ -13810,13 +13810,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Caprice 24.5x74.5 cm IVORY marble Rectified Glossy",
       "fr": "Caprice 24.5x74.5 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Caprice",
     "code": "1010012339",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -13849,13 +13849,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 60x60 cm Light Beige Marble Matt",
       "fr": "Brera 60x60 cm Light Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012335",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Beige"
@@ -13888,13 +13888,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 60x60 cm Light Grey Marble Matt",
       "fr": "Brera 60x60 cm Light Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012334",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -13927,13 +13927,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "stonia 45x45 cm White Marble Glossy",
       "fr": "stonia 45x45 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "stonia",
     "code": "1010012331",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -13966,12 +13966,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Stonia 30x60 cm WHITE Glossy",
       "fr": "Stonia 30x60 cm WHITE Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Stonia",
     "code": "1010012330",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -14004,13 +14004,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Stonia 30x60 cm WHITE marble Glossy",
       "fr": "Stonia 30x60 cm WHITE marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Stonia",
     "code": "1010012329",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -14043,13 +14043,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 60x60 cm Light Blue marble Rectified Glossy",
       "fr": "Savana 60x60 cm Light Blue marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012299",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Blue"
@@ -14082,13 +14082,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 60x60 cm light green marble Rectified Glossy",
       "fr": "Savana 60x60 cm light green marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012298",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "light green"
@@ -14121,13 +14121,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savanna 60x60 cm Light Grey Marble Glossy",
       "fr": "Savanna 60x60 cm Light Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savanna",
     "code": "1010012297",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -14160,13 +14160,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm GREEN marble Glossy",
       "fr": "Savana 30x60 cm GREEN marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012290",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -14199,12 +14199,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm GREEN mix Glossy",
       "fr": "Savana 30x60 cm GREEN mix Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012289",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN mix"
@@ -14237,13 +14237,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm light green marble Glossy",
       "fr": "Savana 30x60 cm light green marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012288",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "light green"
@@ -14276,13 +14276,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm grey marble Glossy",
       "fr": "Savana 30x60 cm grey marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012287",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -14315,12 +14315,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm grey mix Glossy",
       "fr": "Savana 30x60 cm grey mix Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012286",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix"
@@ -14353,13 +14353,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm Light Grey marble Glossy",
       "fr": "Savana 30x60 cm Light Grey marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012285",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -14392,13 +14392,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm BLUE marble Glossy",
       "fr": "Savana 30x60 cm BLUE marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012284",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -14431,12 +14431,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm BLUE mix Glossy",
       "fr": "Savana 30x60 cm BLUE mix Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012283",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE mix"
@@ -14469,13 +14469,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Savana 30x60 cm Light Blue marble Glossy",
       "fr": "Savana 30x60 cm Light Blue marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Savana",
     "code": "1010012282",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Blue"
@@ -14508,13 +14508,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lumi Grafito 60.5x121 cm grey marble Rectified Matt",
       "fr": "Lumi Grafito 60.5x121 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lumi Grafito",
     "code": "1010012270",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -14547,12 +14547,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 30x60 cm grey mix Rectified Matt",
       "fr": "Brera 30x60 cm grey mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012268",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix Rectified"
@@ -14585,12 +14585,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 30x60 cm grey Rectified Matt",
       "fr": "Brera 30x60 cm grey Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012267",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey Rectified"
@@ -14623,12 +14623,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 30x60 cm BEIGE mix Rectified Matt",
       "fr": "Brera 30x60 cm BEIGE mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012266",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -14661,12 +14661,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 30x60 cm BEIGE Rectified Matt",
       "fr": "Brera 30x60 cm BEIGE Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012265",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE Rectified"
@@ -14699,12 +14699,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brera 30x60 cm WHITE Rectified Matt",
       "fr": "Brera 30x60 cm WHITE Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brera",
     "code": "1010012264",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE Rectified"
@@ -14737,13 +14737,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sky Light 60x60 cm Carrara Marble Glossy",
       "fr": "Sky Light 60x60 cm Carrara Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sky Light",
     "code": "1010012263",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -14773,13 +14773,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Stone 60x60 cm Beige Marble Glossy",
       "fr": "Stone 60x60 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Stone",
     "code": "1010012262",
     "texture": "Stone",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -14812,13 +14812,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Boss 60.5x121 cm dark grey marble Rectified Matt",
       "fr": "Boss 60.5x121 cm dark grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Boss",
     "code": "1010012261",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "dark grey"
@@ -14851,13 +14851,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Boss 60.5x121 cm BEIGE marble Rectified Matt",
       "fr": "Boss 60.5x121 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Boss",
     "code": "1010012260",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -14890,13 +14890,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Ford 60.5x121 cm grey marble Rectified Matt",
       "fr": "Ford 60.5x121 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Ford",
     "code": "1010012259",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -14929,13 +14929,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sky Light 60.5x121 cm Carrara Marble Matt",
       "fr": "Sky Light 60.5x121 cm Carrara Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sky Light",
     "code": "1010012258",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -14965,13 +14965,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "lorenzo 45x45 cm White Marble Glossy",
       "fr": "lorenzo 45x45 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "lorenzo",
     "code": "1010012254",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -15004,13 +15004,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lorenzo 30x60 cm WHITE stripe Glossy",
       "fr": "Lorenzo 30x60 cm WHITE stripe Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lorenzo",
     "code": "1010012253",
     "texture": "Stripe",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -15043,13 +15043,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "candy 20x121 cm Grey Wooden Matt",
       "fr": "candy 20x121 cm Grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "candy",
     "code": "1010012210",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -15082,12 +15082,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Mirah 30x60 cm IVORY mix Rectified Glossy",
       "fr": "Mirah 30x60 cm IVORY mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Mirah",
     "code": "1010012209",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY mix Rectified"
@@ -15120,13 +15120,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Mira 30x60 cm IVORY marble 2 Rectified Glossy",
       "fr": "Mira 30x60 cm IVORY marble 2 Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Mira",
     "code": "1010012208",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -15159,13 +15159,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Mira 30x60 cm IVORY marble 1 Rectified Glossy",
       "fr": "Mira 30x60 cm IVORY marble 1 Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Mira",
     "code": "1010012207",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -15198,13 +15198,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catalina 30x60 cm CARRARA mix Rectified Glossy",
       "fr": "Catalina 30x60 cm CARRARA mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catalina",
     "code": "1010012206",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -15234,13 +15234,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catalina 30x60 cm GREEN marble Rectified Glossy",
       "fr": "Catalina 30x60 cm GREEN marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catalina",
     "code": "1010012205",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -15273,13 +15273,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catalina 30x60 cm GREEN Geometric Rectified Glossy",
       "fr": "Catalina 30x60 cm GREEN Geometric Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catalina",
     "code": "1010012204",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -15312,13 +15312,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catalina 30x60 cm CARRARA marble Rectified Glossy",
       "fr": "Catalina 30x60 cm CARRARA marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catalina",
     "code": "1010012203",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -15348,13 +15348,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Siwa Light 60x60 cm grey marble Rectified Matt",
       "fr": "Siwa Light 60x60 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Siwa Light",
     "code": "1010012202",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -15387,13 +15387,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Mira 60x60 cm Ivory Marble Glossy",
       "fr": "Mira 60x60 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Mira",
     "code": "1010012200",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -15426,13 +15426,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catalina 60x60 cm Carrara Marble Glossy",
       "fr": "Catalina 60x60 cm Carrara Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catalina",
     "code": "1010012199",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -15462,13 +15462,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Davos 60x60 cm Grey Marble Glossy",
       "fr": "Davos 60x60 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Davos",
     "code": "1010012198",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -15501,13 +15501,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Space Light 60x60 cm Carrara Marble Glossy",
       "fr": "Space Light 60x60 cm Carrara Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Space Light",
     "code": "1010012196",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -15537,13 +15537,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Infinity 60x60 cm Grey Marble Glossy",
       "fr": "Infinity 60x60 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Infinity",
     "code": "1010012156",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -15576,13 +15576,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Castle 60x60 cm White Marble Glossy",
       "fr": "Castle 60x60 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Castle",
     "code": "1010012152",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -15615,12 +15615,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Castle 30x60 cm WHITE mix Rectified Glossy",
       "fr": "Castle 30x60 cm WHITE mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Castle",
     "code": "1010012151",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE mix Rectified"
@@ -15653,12 +15653,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Castle 30x60 cm dark grey mix Rectified Glossy",
       "fr": "Castle 30x60 cm dark grey mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Castle",
     "code": "1010012150",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey mix Rectified"
@@ -15691,13 +15691,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Castle 30x60 cm dark grey marble Rectified Glossy",
       "fr": "Castle 30x60 cm dark grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Castle",
     "code": "1010012149",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -15730,13 +15730,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Castle 30x60 cm WHITE marble Rectified Glossy",
       "fr": "Castle 30x60 cm WHITE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Castle",
     "code": "1010012148",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -15769,12 +15769,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Infinity 24.5x74.5 cm grey mix Rectified Glossy",
       "fr": "Infinity 24.5x74.5 cm grey mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Infinity",
     "code": "1010012147",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix Rectified"
@@ -15807,12 +15807,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Infinity 24.5x74.5 cm grey flower Rectified Glossy",
       "fr": "Infinity 24.5x74.5 cm grey flower Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Infinity",
     "code": "1010012146",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey flower Rectified"
@@ -15845,13 +15845,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Infinity 24.5x74.5 cm grey Geometric Rectified Glossy",
       "fr": "Infinity 24.5x74.5 cm grey Geometric Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Infinity",
     "code": "1010012145",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -15884,13 +15884,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Infinity 24.5x74.5 cm grey marble Rectified Glossy",
       "fr": "Infinity 24.5x74.5 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Infinity",
     "code": "1010012144",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -15923,13 +15923,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "nelson 59.5x59.5 cm Grey Marble Glossy",
       "fr": "nelson 59.5x59.5 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "nelson",
     "code": "1010012136",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -15962,13 +15962,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "agatha 59.5x59.5 cm Gold Marble Glossy",
       "fr": "agatha 59.5x59.5 cm Gold Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "agatha",
     "code": "1010012135",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Gold"
@@ -16001,13 +16001,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lorenzo 30x60 cm WHITE marble Glossy",
       "fr": "Lorenzo 30x60 cm WHITE marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lorenzo",
     "code": "1010012082",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -16040,12 +16040,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Super Agatha 24.5x74.5 cm BEIGE mix Rectified Glossy",
       "fr": "Super Agatha 24.5x74.5 cm BEIGE mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Super Agatha",
     "code": "1010011965",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix Rectified"
@@ -16078,13 +16078,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Super Agatha 24.5x74.5 cm BROWN marble Rectified Glossy",
       "fr": "Super Agatha 24.5x74.5 cm BROWN marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Super Agatha",
     "code": "1010011964",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -16117,13 +16117,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Super Agatha 24.5x74.5 cm GOLD marble Rectified Glossy",
       "fr": "Super Agatha 24.5x74.5 cm GOLD marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Super Agatha",
     "code": "1010011963",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GOLD"
@@ -16156,13 +16156,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Admiral 60x60 cm Ivory Marble Glossy",
       "fr": "Admiral 60x60 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Admiral",
     "code": "1010011952",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -16195,13 +16195,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Zimar 60x60 cm Ivory Marble Glossy",
       "fr": "Zimar 60x60 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Zimar",
     "code": "1010011951",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -16234,13 +16234,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Lorenzo 30x60 cm CARRARA Glossy",
       "fr": "Lorenzo 30x60 cm CARRARA Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Lorenzo",
     "code": "1010011946",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -16270,12 +16270,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tropicana 24.5x74.5 cm IVORY mix Rectified Matt",
       "fr": "Tropicana 24.5x74.5 cm IVORY mix Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tropicana",
     "code": "1010011944",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY mix Rectified"
@@ -16308,12 +16308,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tropicana 2 24.5x74.5 cm Ivory x Brown farma Rectified Matt",
       "fr": "Tropicana 2 24.5x74.5 cm Ivory x Brown farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tropicana 2",
     "code": "1010011943",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory x Brown farma Rectified"
@@ -16346,12 +16346,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tropicana 3 24.5x74.5 cm IVORY farma Rectified Matt",
       "fr": "Tropicana 3 24.5x74.5 cm IVORY farma Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tropicana 3",
     "code": "1010011942",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY farma Rectified"
@@ -16384,13 +16384,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tropicana 1 24.5x74.5 cm IVORY marble Rectified Matt",
       "fr": "Tropicana 1 24.5x74.5 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tropicana 1",
     "code": "1010011941",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -16423,13 +16423,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "New Space 24.5x74.5 cm BLACK marble Rectified Glossy",
       "fr": "New Space 24.5x74.5 cm BLACK marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "New Space",
     "code": "1010011940",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLACK"
@@ -16462,13 +16462,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "New Space 24.5x74.5 cm CARRARA mix Rectified Glossy",
       "fr": "New Space 24.5x74.5 cm CARRARA mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "New Space",
     "code": "1010011939",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -16498,13 +16498,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "New Space 24.5x74.5 cm CARRARA marble Rectified Glossy",
       "fr": "New Space 24.5x74.5 cm CARRARA marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "New Space",
     "code": "1010011938",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -16534,13 +16534,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Malibu 60x60 cm Carrara Marble Glossy",
       "fr": "Malibu 60x60 cm Carrara Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Malibu",
     "code": "1010011937",
     "texture": "Carrara",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -16570,13 +16570,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tropicana 60x60 cm Ivory Marble Matt",
       "fr": "Tropicana 60x60 cm Ivory Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tropicana",
     "code": "1010011936",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -16609,13 +16609,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Fortuna 60x60 cm Light Grey Marble Matt",
       "fr": "Fortuna 60x60 cm Light Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Fortuna",
     "code": "1010011935",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -16687,13 +16687,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "glasgow 59.5x59.5 cm Beige Marble Glossy",
       "fr": "glasgow 59.5x59.5 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "glasgow",
     "code": "1010011911",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -16726,12 +16726,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Glasgow 24.5x74.5 cm light beige mix Rectified Glossy",
       "fr": "Glasgow 24.5x74.5 cm light beige mix Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Glasgow",
     "code": "1010011909",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "light beige mix Rectified"
@@ -16764,13 +16764,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Glasgow 24.5x74.5 cm BEIGE marble Rectified Glossy",
       "fr": "Glasgow 24.5x74.5 cm BEIGE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Glasgow",
     "code": "1010011908",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -16803,13 +16803,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Glasgow 24.5x74.5 cm IVORY marble Rectified Glossy",
       "fr": "Glasgow 24.5x74.5 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Glasgow",
     "code": "1010011907",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -16842,13 +16842,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Azalea 24.5x74.5 cm grey marble Rectified Glossy",
       "fr": "Azalea 24.5x74.5 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Azalea",
     "code": "1010011894",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -16881,13 +16881,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Azalea 24.5x74.5 cm ASH marble Rectified Glossy",
       "fr": "Azalea 24.5x74.5 cm ASH marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Azalea",
     "code": "1010011893",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "ASH"
@@ -16920,13 +16920,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Fortuna 24.5x74.5 cm WHITE marble Rectified Matt",
       "fr": "Fortuna 24.5x74.5 cm WHITE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Fortuna",
     "code": "1010011884",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -16959,13 +16959,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Avanza 24.5x74.5 cm blue marble Rectified Glossy",
       "fr": "Avanza 24.5x74.5 cm blue marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Avanza",
     "code": "1010011883",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "blue"
@@ -16998,13 +16998,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "avanza 59.5x59.5 cm Grey Decor Glossy",
       "fr": "avanza 59.5x59.5 cm Grey Decor Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "avanza",
     "code": "1010011877",
     "texture": "Decor",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -17037,13 +17037,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Avanza 24.5x74.5 cm grey marble Rectified Matt",
       "fr": "Avanza 24.5x74.5 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Avanza",
     "code": "1010011875",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -17076,13 +17076,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Chic 59.5x59.5 cm BEIGE marble Rectified Matt",
       "fr": "Chic 59.5x59.5 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Chic",
     "code": "1010011874",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -17115,13 +17115,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Mirand 59.5x59.5 cm grey marble Rectified Matt",
       "fr": "Mirand 59.5x59.5 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Mirand",
     "code": "1010011871",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -17232,13 +17232,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brazil 60.5x121 cm Light Grey marble Rectified Matt",
       "fr": "Brazil 60.5x121 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brazil",
     "code": "1010011832",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -17271,13 +17271,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brazil 60.5x121 cm grey marble Rectified Matt",
       "fr": "Brazil 60.5x121 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brazil",
     "code": "1010011831",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -17466,13 +17466,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "romeo 45x45 cm White Plain Matt",
       "fr": "romeo 45x45 cm White Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "romeo",
     "code": "1010011700",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -17505,13 +17505,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "romeo 45x45 cm Grey Plain Matt",
       "fr": "romeo 45x45 cm Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "romeo",
     "code": "1010011699",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -17544,13 +17544,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "romeo 45x45 cm Beige Plain Matt",
       "fr": "romeo 45x45 cm Beige Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "romeo",
     "code": "1010011698",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -17583,13 +17583,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "tomy 45x45 cm Grey Plain Matt",
       "fr": "tomy 45x45 cm Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "tomy",
     "code": "1010011697",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -17622,13 +17622,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "tomy 45x45 cm Beige Plain Matt",
       "fr": "tomy 45x45 cm Beige Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "tomy",
     "code": "1010011696",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -17661,13 +17661,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "pino 45x45 cm Cream Plain Matt",
       "fr": "pino 45x45 cm Cream Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "pino",
     "code": "1010011694",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Cream"
@@ -17700,13 +17700,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "pino 45x45 cm Grey Plain Matt",
       "fr": "pino 45x45 cm Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "pino",
     "code": "1010011693",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -17739,13 +17739,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "pino 45x45 cm Beige Plain Matt",
       "fr": "pino 45x45 cm Beige Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "pino",
     "code": "1010011692",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -17778,13 +17778,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Meridiana 60.5x121 cm grey marble Rectified Glossy",
       "fr": "Meridiana 60.5x121 cm grey marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Meridiana",
     "code": "1010011670",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -17817,13 +17817,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Meridiana 60.5x121 cm BEIGE marble Rectified Glossy",
       "fr": "Meridiana 60.5x121 cm BEIGE marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Meridiana",
     "code": "1010011669",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -17856,13 +17856,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tommy 30x60 cm grey Geometric Matt",
       "fr": "Tommy 30x60 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tommy",
     "code": "1010011666",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -17895,13 +17895,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tommy 30x60 cm grey marble Matt",
       "fr": "Tommy 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tommy",
     "code": "1010011665",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -17934,13 +17934,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tommy 30x60 cm BEIGE Geometric Matt",
       "fr": "Tommy 30x60 cm BEIGE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tommy",
     "code": "1010011664",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -17973,13 +17973,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Tommy 30x60 cm BEIGE marble Matt",
       "fr": "Tommy 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Tommy",
     "code": "1010011663",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -18012,12 +18012,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm grey Matt",
       "fr": "Pino 30x60 cm grey Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011662",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -18050,13 +18050,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm grey stripe Matt",
       "fr": "Pino 30x60 cm grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011661",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -18089,13 +18089,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm grey marble Matt",
       "fr": "Pino 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011660",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -18128,12 +18128,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm ivory Matt",
       "fr": "Pino 30x60 cm ivory Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011659",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "ivory"
@@ -18166,13 +18166,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm ivory stripe Matt",
       "fr": "Pino 30x60 cm ivory stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011658",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "ivory"
@@ -18205,13 +18205,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm ivory marble Matt",
       "fr": "Pino 30x60 cm ivory marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011657",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "ivory"
@@ -18244,12 +18244,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm BEIGE Matt",
       "fr": "Pino 30x60 cm BEIGE Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011656",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -18282,13 +18282,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm BEIGE stripe Matt",
       "fr": "Pino 30x60 cm BEIGE stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011655",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -18321,13 +18321,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Pino 30x60 cm BEIGE marble Matt",
       "fr": "Pino 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Pino",
     "code": "1010011654",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -18360,13 +18360,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo 30x60 cm WHITE marble Matt",
       "fr": "Romeo 30x60 cm WHITE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo",
     "code": "1010011653",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -18399,13 +18399,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo Blade 30x60 cm WHITE marble Matt",
       "fr": "Romeo Blade 30x60 cm WHITE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo Blade",
     "code": "1010011652",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -18438,13 +18438,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo Border 30x60 cm WHITE marble Matt",
       "fr": "Romeo Border 30x60 cm WHITE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo Border",
     "code": "1010011651",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -18477,13 +18477,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo 30x60 cm grey marble Matt",
       "fr": "Romeo 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo",
     "code": "1010011650",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -18516,13 +18516,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo bled 30x60 cm grey marble Matt",
       "fr": "Romeo bled 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo bled",
     "code": "1010011649",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -18555,13 +18555,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo border 30x60 cm grey marble Matt",
       "fr": "Romeo border 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo border",
     "code": "1010011648",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -18594,13 +18594,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo 30x60 cm BEIGE marble Matt",
       "fr": "Romeo 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo",
     "code": "1010011647",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -18633,13 +18633,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo bled 30x60 cm BEIGE marble Matt",
       "fr": "Romeo bled 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo bled",
     "code": "1010011646",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -18672,13 +18672,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romeo border 30x60 cm BEIGE marble Matt",
       "fr": "Romeo border 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romeo border",
     "code": "1010011645",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -18711,13 +18711,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Azalea 24.5x74.5 cm IVORY marble Rectified Glossy",
       "fr": "Azalea 24.5x74.5 cm IVORY marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Azalea",
     "code": "1010011642",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -18750,13 +18750,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Azalea 24.5x74.5 cm BROWN marble Rectified Glossy",
       "fr": "Azalea 24.5x74.5 cm BROWN marble Rectified Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Azalea",
     "code": "1010011641",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -18789,13 +18789,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "catania 59.5x59.5 cm Grey Marble Glossy",
       "fr": "catania 59.5x59.5 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "catania",
     "code": "1010011575",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -18828,13 +18828,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "catania 59.5x59.5 cm Ivory Marble Glossy",
       "fr": "catania 59.5x59.5 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "catania",
     "code": "1010011574",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -18867,13 +18867,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Corini 1 59.5x59.5 cm IVORY marble Rectified Matt",
       "fr": "Corini 1 59.5x59.5 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Corini 1",
     "code": "1010011570",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -18906,13 +18906,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "twentz 59.5x59.5 cm Beige Marble Glossy",
       "fr": "twentz 59.5x59.5 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "twentz",
     "code": "1010011569",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -18945,13 +18945,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Rogida 1 59.5x59.5 cm BEIGE marble Rectified Matt",
       "fr": "Rogida 1 59.5x59.5 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Rogida 1",
     "code": "1010011531",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -18984,13 +18984,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "sumatra 59.5x59.5 cm Beige Marble Glossy",
       "fr": "sumatra 59.5x59.5 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "sumatra",
     "code": "1010011366",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -19023,13 +19023,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Ronda 60.5x121 cm Black Marble Matt",
       "fr": "Ronda 60.5x121 cm Black Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Ronda",
     "code": "1010011365",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Black"
@@ -19062,13 +19062,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Ronda 60.5x121 cm Grey Marble Matt",
       "fr": "Ronda 60.5x121 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Ronda",
     "code": "1010011364",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -19140,13 +19140,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Carvel 60.5x121 cm Grey Marble Matt",
       "fr": "Carvel 60.5x121 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Carvel",
     "code": "1010011362",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -19179,13 +19179,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Canyon 60.5x121 cm Grey Marble Matt",
       "fr": "Canyon 60.5x121 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Canyon",
     "code": "1010011361",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -19218,13 +19218,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Marmo 60.5x121 cm Carrara Marble Matt",
       "fr": "Marmo 60.5x121 cm Carrara Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Marmo",
     "code": "1010011360",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -19449,12 +19449,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Persia 30x60 cm grey wave Matt",
       "fr": "Persia 30x60 cm grey wave Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Persia",
     "code": "1010011321",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey wave"
@@ -19487,13 +19487,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Persia 30x60 cm grey marble Matt",
       "fr": "Persia 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Persia",
     "code": "1010011320",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -19526,12 +19526,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Persia 50x50 cm BEIGE موجة Matt",
       "fr": "Persia 50x50 cm BEIGE موجة Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Persia",
     "code": "1010011319",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE موجة"
@@ -19564,12 +19564,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Persia 30x60 cm BEIGE wave Matt",
       "fr": "Persia 30x60 cm BEIGE wave Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Persia",
     "code": "1010011318",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE wave"
@@ -19602,13 +19602,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Persia 30x60 cm BEIGE marble Matt",
       "fr": "Persia 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Persia",
     "code": "1010011317",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -19641,13 +19641,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Opera 3 59.5x59.5 cm BEIGE marble Rectified Matt",
       "fr": "Opera 3 59.5x59.5 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Opera 3",
     "code": "1010011264",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -19680,13 +19680,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Opera 2 59.5x59.5 cm IVORY marble Rectified Matt",
       "fr": "Opera 2 59.5x59.5 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Opera 2",
     "code": "1010011263",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -19719,13 +19719,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Opera 4 59.5x59.5 cm dark grey marble Rectified Matt",
       "fr": "Opera 4 59.5x59.5 cm dark grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Opera 4",
     "code": "1010011262",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "dark grey"
@@ -19758,13 +19758,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Opera 1 59.5x59.5 cm Light Grey marble Rectified Matt",
       "fr": "Opera 1 59.5x59.5 cm Light Grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Opera 1",
     "code": "1010011261",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -19797,13 +19797,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "sleen 59.5x59.5 cm Grey Marble Glossy",
       "fr": "sleen 59.5x59.5 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "sleen",
     "code": "1010011222",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -19836,13 +19836,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Regina 15x70 cm BEIGE Wooden Matt",
       "fr": "Regina 15x70 cm BEIGE Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Regina",
     "code": "1010011194",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -19875,13 +19875,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Gaia 1 59.5x59.5 cm grey marble Rectified Matt",
       "fr": "Gaia 1 59.5x59.5 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Gaia 1",
     "code": "1010011193",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -19914,13 +19914,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Trani 4 59.5x59.5 cm IVORY marble Rectified Matt",
       "fr": "Trani 4 59.5x59.5 cm IVORY marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Trani 4",
     "code": "1010011190",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -19953,13 +19953,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Trani 1 59.5x59.5 cm grey marble Rectified Matt",
       "fr": "Trani 1 59.5x59.5 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Trani 1",
     "code": "1010011189",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -19992,13 +19992,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "jamaica 1 59.5x59.5 cm Ivory Marble Glossy",
       "fr": "jamaica 1 59.5x59.5 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "jamaica 1",
     "code": "1010011182",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -20031,13 +20031,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Bottega 59.5x59.5 cm NOCE marble Rectified Matt",
       "fr": "Bottega 59.5x59.5 cm NOCE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Bottega",
     "code": "1010011178",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "NOCE"
@@ -20070,13 +20070,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "albania 59.5x59.5 cm Beige Marble Matt",
       "fr": "albania 59.5x59.5 cm Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "albania",
     "code": "1010011172",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -20109,13 +20109,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 30x60 cm grey Decor Glossy",
       "fr": "Catania 30x60 cm grey Decor Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catania",
     "code": "1010011118",
     "texture": "Decor",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -20148,12 +20148,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 30x60 cm grey Glossy",
       "fr": "Catania 30x60 cm grey Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catania",
     "code": "1010011117",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -20186,13 +20186,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 30x60 cm grey marble Glossy",
       "fr": "Catania 30x60 cm grey marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catania",
     "code": "1010011115",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -20225,13 +20225,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Oman Flat 30x60 cm BEIGE marble Matt",
       "fr": "Oman Flat 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Oman Flat",
     "code": "1010010935",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -20264,13 +20264,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Oman Border 30x60 cm BEIGE marble Matt",
       "fr": "Oman Border 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Oman Border",
     "code": "1010010934",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -20303,13 +20303,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Adua 50x50 cm grey marble Glossy",
       "fr": "Adua 50x50 cm grey marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Adua",
     "code": "1010010926",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -20342,13 +20342,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Adua 50x50 cm IVORY marble Glossy",
       "fr": "Adua 50x50 cm IVORY marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Adua",
     "code": "1010010914",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "IVORY"
@@ -20381,13 +20381,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "shester 59.5x59.5 cm Beige Marble Glossy",
       "fr": "shester 59.5x59.5 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "shester",
     "code": "1010010895",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -20420,13 +20420,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sunny 30x60 cm BEIGE marble Matt",
       "fr": "Sunny 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sunny",
     "code": "1010010879",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -20459,13 +20459,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sunny 30x60 cm dark beige marble Matt",
       "fr": "Sunny 30x60 cm dark beige marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sunny",
     "code": "1010010878",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark beige"
@@ -20498,13 +20498,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sunny 30x60 cm IVORY marble Matt",
       "fr": "Sunny 30x60 cm IVORY marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sunny",
     "code": "1010010877",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -20537,13 +20537,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sunny 30x60 cm grey marble Matt",
       "fr": "Sunny 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sunny",
     "code": "1010010876",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -20576,13 +20576,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sunny 30x60 cm dark grey marble Matt",
       "fr": "Sunny 30x60 cm dark grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sunny",
     "code": "1010010875",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -20615,13 +20615,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Sunny 30x60 cm Light Grey marble Matt",
       "fr": "Sunny 30x60 cm Light Grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Sunny",
     "code": "1010010874",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -20693,13 +20693,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Vidal 30x60 cm BEIGE marble Matt",
       "fr": "Vidal 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Vidal",
     "code": "1010010289",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -20732,13 +20732,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Vidal 30x60 cm IVORY marble Matt",
       "fr": "Vidal 30x60 cm IVORY marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Vidal",
     "code": "1010010288",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -20771,12 +20771,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Quadro 30x60 cm BEIGE mix Matt",
       "fr": "Quadro 30x60 cm BEIGE mix Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Quadro",
     "code": "1010010035",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE mix"
@@ -20809,13 +20809,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Quadro 30x60 cm BEIGE marble Matt",
       "fr": "Quadro 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Quadro",
     "code": "1010010034",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -20848,13 +20848,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Quadro 30x60 cm light beige marble Matt",
       "fr": "Quadro 30x60 cm light beige marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Quadro",
     "code": "1010010033",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "light beige"
@@ -20887,13 +20887,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Brazil 59.5x59.5 cm grey marble Rectified Matt",
       "fr": "Brazil 59.5x59.5 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Brazil",
     "code": "1010010032",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -20926,13 +20926,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "shery-4 20x121 cm Beige Wooden Matt",
       "fr": "shery-4 20x121 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "shery-4",
     "code": "1010010023",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -20965,13 +20965,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "shery-1 20x121 cm Havan Wooden Matt",
       "fr": "shery-1 20x121 cm Havan Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "shery-1",
     "code": "1010010022",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Havan"
@@ -21004,13 +21004,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "shery-3 20x121 cm Brown Wooden Matt",
       "fr": "shery-3 20x121 cm Brown Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "shery-3",
     "code": "1010010021",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Brown"
@@ -21043,12 +21043,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Corini 30x60 cm IVORY Matt",
       "fr": "Corini 30x60 cm IVORY Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Corini",
     "code": "1010009986",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -21081,13 +21081,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Corini 30x60 cm IVORY marble Matt",
       "fr": "Corini 30x60 cm IVORY marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Corini",
     "code": "1010009985",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -21120,13 +21120,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 30x60 cm IVORY Decor Glossy",
       "fr": "Catania 30x60 cm IVORY Decor Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catania",
     "code": "1010009983",
     "texture": "Decor",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -21159,12 +21159,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 30x60 cm IVORY Glossy",
       "fr": "Catania 30x60 cm IVORY Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catania",
     "code": "1010009982",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -21197,13 +21197,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 30x60 cm IVORY stripe Glossy",
       "fr": "Catania 30x60 cm IVORY stripe Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catania",
     "code": "1010009981",
     "texture": "Stripe",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -21236,13 +21236,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 30x60 cm IVORY marble Glossy",
       "fr": "Catania 30x60 cm IVORY marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Catania",
     "code": "1010009980",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "IVORY"
@@ -21275,12 +21275,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Skyros 30x60 cm blue mix Matt",
       "fr": "Skyros 30x60 cm blue mix Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Skyros",
     "code": "1010009968",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "blue mix"
@@ -21313,13 +21313,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Skyros 30x60 cm grey marble Matt",
       "fr": "Skyros 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Skyros",
     "code": "1010009967",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -21352,13 +21352,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Good Morning 30x60 cm ANTHRACITE marble Matt",
       "fr": "Good Morning 30x60 cm ANTHRACITE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Good Morning",
     "code": "1010009945",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "ANTHRACITE"
@@ -21391,13 +21391,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Good Morning 30x60 cm light beige marble Matt",
       "fr": "Good Morning 30x60 cm light beige marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Good Morning",
     "code": "1010009944",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "light beige"
@@ -21430,13 +21430,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Good Morning 30x60 cm dark beige marble Matt",
       "fr": "Good Morning 30x60 cm dark beige marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Good Morning",
     "code": "1010009943",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark beige"
@@ -21625,13 +21625,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Piero 30x60 cm grey Geometric Matt",
       "fr": "Piero 30x60 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Piero",
     "code": "1010009841",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -21664,13 +21664,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Piero 30x60 cm grey stone Matt",
       "fr": "Piero 30x60 cm grey stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Piero",
     "code": "1010009840",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -21703,13 +21703,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "teknos 45x45 cm Grey Plain Matt",
       "fr": "teknos 45x45 cm Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "teknos",
     "code": "1010009839",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -21742,13 +21742,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "peru taupe 45x45 cm Plain Matt",
       "fr": "peru taupe 45x45 cm Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "peru taupe",
     "code": "1010009838",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -21778,13 +21778,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "sunny 45x45 cm Ivory Plain Matt",
       "fr": "sunny 45x45 cm Ivory Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "sunny",
     "code": "1010009837",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -21817,13 +21817,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "sunny 45x45 cm Light Grey Plain Matt",
       "fr": "sunny 45x45 cm Light Grey Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "sunny",
     "code": "1010009836",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -21856,13 +21856,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Cement Lapis 59.5x59.5 cm grey marble Rectified Matt",
       "fr": "Cement Lapis 59.5x59.5 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Cement Lapis",
     "code": "1010009628",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -21895,12 +21895,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Mahgoub Braga 59.5x59.5 cm IVORY second grade Rectified Matt",
       "fr": "Mahgoub Braga 59.5x59.5 cm IVORY second grade Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Mahgoub Braga",
     "code": "1010009581",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Floor",
     "colors": [
@@ -21934,13 +21934,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "medaya 59.5x59.5 cm White Marble Glossy",
       "fr": "medaya 59.5x59.5 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "medaya",
     "code": "1010009549",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -21973,13 +21973,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Maya 30x60 cm Light Grey Marble Matt",
       "fr": "Maya 30x60 cm Light Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Maya",
     "code": "1010009469",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -22012,13 +22012,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "marmo 59.5x59.5 cm White Marble Matt",
       "fr": "marmo 59.5x59.5 cm White Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "marmo",
     "code": "1010009261",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -22051,13 +22051,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Amazon 59.5x59.5 cm BEIGE marble Rectified Matt",
       "fr": "Amazon 59.5x59.5 cm BEIGE marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Amazon",
     "code": "1010009188",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -22090,13 +22090,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "macau wing 15x70 cm Wooden Matt",
       "fr": "macau wing 15x70 cm Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "macau wing",
     "code": "1010009184",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "sizes": [
       {
@@ -22126,13 +22126,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "praga 59.5x59.5 cm Ivory Marble Matt",
       "fr": "praga 59.5x59.5 cm Ivory Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "praga",
     "code": "1010009181",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -22165,13 +22165,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "praga 59.5x59.5 cm Grey Marble Matt",
       "fr": "praga 59.5x59.5 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "praga",
     "code": "1010009180",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -22204,13 +22204,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "magic 59.5x59.5 cm Ivory Marble Matt",
       "fr": "magic 59.5x59.5 cm Ivory Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "magic",
     "code": "1010009179",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -22243,13 +22243,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "magic 59.5x59.5 cm Grey Marble Matt",
       "fr": "magic 59.5x59.5 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "magic",
     "code": "1010009178",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -22282,13 +22282,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "bosco 59.5x59.5 cm Grey Marble Glossy",
       "fr": "bosco 59.5x59.5 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "bosco",
     "code": "1010009176",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -22321,13 +22321,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "oriental 59.5x59.5 cm Grey Marble Matt",
       "fr": "oriental 59.5x59.5 cm Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "oriental",
     "code": "1010008975",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -22360,13 +22360,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "macau beach 15x70 cm Maroon Wooden Matt",
       "fr": "macau beach 15x70 cm Maroon Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "macau beach",
     "code": "1010008857",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Maroon"
@@ -22399,13 +22399,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "storm 3 59.5x59.5 cm Beige Marble Glossy",
       "fr": "storm 3 59.5x59.5 cm Beige Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "storm 3",
     "code": "1010008747",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -22438,12 +22438,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Victor 30x60 cm grey Matt",
       "fr": "Victor 30x60 cm grey Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Victor",
     "code": "1010008729",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -22476,13 +22476,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Victor 30x60 cm grey marble Matt",
       "fr": "Victor 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Victor",
     "code": "1010008728",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -22515,13 +22515,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "12x24 cm Blue Plain Matt",
       "fr": "12x24 cm Blue Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "12x24",
     "code": "1010008690",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Blue"
@@ -22554,12 +22554,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Milo 30x60 cm grey mix Matt",
       "fr": "Milo 30x60 cm grey mix Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Milo",
     "code": "1010008671",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey mix"
@@ -22592,13 +22592,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Milo 30x60 cm grey marble Matt",
       "fr": "Milo 30x60 cm grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Milo",
     "code": "1010008670",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -22631,13 +22631,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "azalia 59.5x59.5 cm Ivory Marble Glossy",
       "fr": "azalia 59.5x59.5 cm Ivory Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "azalia",
     "code": "1010008641",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -22670,13 +22670,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Diana 59.5x59.5 cm grey marble Rectified Matt",
       "fr": "Diana 59.5x59.5 cm grey marble Rectified Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Diana",
     "code": "1010008635",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -22709,13 +22709,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Swing 50x50 cm grey Wooden Matt",
       "fr": "Swing 50x50 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Swing",
     "code": "1010008478",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -22826,13 +22826,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "ashly 59.5x59.5 cm White Marble Matt",
       "fr": "ashly 59.5x59.5 cm White Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "ashly",
     "code": "1010007927",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -22865,13 +22865,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm BEIGE marble Glossy",
       "fr": "Karen 30x60 cm BEIGE marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010007924",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -22904,13 +22904,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm light beige marble Glossy",
       "fr": "Karen 30x60 cm light beige marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010007923",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "light beige"
@@ -22943,13 +22943,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm BEIGE Decor Glossy",
       "fr": "Karen 30x60 cm BEIGE Decor Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010007922",
     "texture": "Decor",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -22982,13 +22982,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm grey Decor Glossy",
       "fr": "Karen 30x60 cm grey Decor Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010007921",
     "texture": "Decor",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -23021,13 +23021,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm Light Grey marble Glossy",
       "fr": "Karen 30x60 cm Light Grey marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010007920",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -23060,13 +23060,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Karen 30x60 cm grey marble Glossy",
       "fr": "Karen 30x60 cm grey marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Karen",
     "code": "1010007919",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -23099,13 +23099,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "astrad 59.5x59.5 cm Grey Marble Glossy",
       "fr": "astrad 59.5x59.5 cm Grey Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "astrad",
     "code": "1010007797",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -23138,13 +23138,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "fancy 59.5x59.5 cm White Marble Glossy",
       "fr": "fancy 59.5x59.5 cm White Marble Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "fancy",
     "code": "1010007792",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -23177,13 +23177,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Orly 50x50 cm BEIGE marble Matt",
       "fr": "Orly 50x50 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Orly",
     "code": "1010007790",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BEIGE"
@@ -23216,13 +23216,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Milo 30x60 cm BEIGE marble Matt",
       "fr": "Milo 30x60 cm BEIGE marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Milo",
     "code": "1010007780",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BEIGE"
@@ -23255,13 +23255,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Romivaldo Notte 15x70 cm Noce Wooden Matt",
       "fr": "Romivaldo Notte 15x70 cm Noce Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Romivaldo Notte",
     "code": "1010006550",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Noce"
@@ -23294,13 +23294,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Good Morning 50x50 cm Light Grey marble Matt",
       "fr": "Good Morning 50x50 cm Light Grey marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Good Morning",
     "code": "1010006541",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -23333,13 +23333,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "plant rover 15x70 cm Beige x Brown Wooden Matt",
       "fr": "plant rover 15x70 cm Beige x Brown Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "plant rover",
     "code": "1010001984",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige x Brown"
@@ -23372,13 +23372,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "plant oak 15x70 cm Oak Wooden Matt",
       "fr": "plant oak 15x70 cm Oak Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "plant oak",
     "code": "1010001983",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Oak"
@@ -23411,13 +23411,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "aspen ash 15x70 cm Ash Wooden Matt",
       "fr": "aspen ash 15x70 cm Ash Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "aspen ash",
     "code": "1010001878",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ash"
@@ -23450,13 +23450,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aspen Nos 15x70 cm BROWN Wooden Matt",
       "fr": "Aspen Nos 15x70 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aspen Nos",
     "code": "1010001877",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -23489,13 +23489,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Aspen 15x70 cm WHITE Wooden Matt",
       "fr": "Aspen 15x70 cm WHITE Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Aspen",
     "code": "1010001876",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -23528,13 +23528,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "season 5 15x70 cm Coffee Wooden Matt",
       "fr": "season 5 15x70 cm Coffee Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "season 5",
     "code": "1010001852",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Coffee"
@@ -23567,13 +23567,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "rocks 2 40x40 cm Beige x Brown Stone Matt",
       "fr": "rocks 2 40x40 cm Beige x Brown Stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "rocks 2",
     "code": "1010001810",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige x Brown"
@@ -23606,13 +23606,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "rocks 1 40x40 cm Ivory x Brown Stone Matt",
       "fr": "rocks 1 40x40 cm Ivory x Brown Stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "rocks 1",
     "code": "1010001809",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory x Brown"
@@ -23645,13 +23645,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "40x40 cm White Plain Glossy",
       "fr": "40x40 cm White Plain Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "40x40",
     "code": "1010001795",
     "texture": "Plain",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -23684,13 +23684,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Rustic 40x40 cm Havan Stone Matt",
       "fr": "Rustic 40x40 cm Havan Stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Rustic",
     "code": "1010001791",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Havan"
@@ -23723,13 +23723,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Rustic 40x40 cm Havan Geometric Matt",
       "fr": "Rustic 40x40 cm Havan Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Rustic",
     "code": "1010001790",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Havan"
@@ -23762,13 +23762,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Opera 40x40 cm Ivory Plain Matt",
       "fr": "Opera 40x40 cm Ivory Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Opera",
     "code": "1010001777",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -23801,13 +23801,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Kiowa 40x40 cm Hazel Plain Matt",
       "fr": "Kiowa 40x40 cm Hazel Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Kiowa",
     "code": "1010001775",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Hazel"
@@ -23840,13 +23840,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Kiowa 40x40 cm Beige Plain Matt",
       "fr": "Kiowa 40x40 cm Beige Plain Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Kiowa",
     "code": "1010001774",
     "texture": "Plain",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -23879,13 +23879,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Carlos 40x40 cm Ivory Marble Matt",
       "fr": "Carlos 40x40 cm Ivory Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Carlos",
     "code": "1010001770",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -23918,13 +23918,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Cocktail 40x40 cm Beige Marble Matt",
       "fr": "Cocktail 40x40 cm Beige Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Cocktail",
     "code": "1010001747",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -23957,12 +23957,12 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "12x24 cm Light Blue Plain",
       "fr": "12x24 cm Light Blue Plain"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "12x24",
     "code": "1010001657",
     "texture": "Plain",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Blue"
@@ -23994,13 +23994,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "wood smoke 15x70 cm Grey Wooden Matt",
       "fr": "wood smoke 15x70 cm Grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "wood smoke",
     "code": "1010001634",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Grey"
@@ -24033,13 +24033,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "wood ash 15x70 cm Beige Wooden Matt",
       "fr": "wood ash 15x70 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "wood ash",
     "code": "1010001633",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -24072,13 +24072,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "maya 1/4 50x50 cm Light Grey Marble Matt",
       "fr": "maya 1/4 50x50 cm Light Grey Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "maya 1/4",
     "code": "1010001593",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Light Grey"
@@ -24111,13 +24111,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "maya 1/5 50x50 cm Ivory Marble Matt",
       "fr": "maya 1/5 50x50 cm Ivory Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "maya 1/5",
     "code": "1010001590",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -24150,13 +24150,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Carrara 40x40 cm White Marble Matt",
       "fr": "Carrara 40x40 cm White Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Carrara",
     "code": "1010001558",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -24189,13 +24189,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "Carrara 40x40 cm White Marble Matt",
       "fr": "Carrara 40x40 cm White Marble Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "Carrara",
     "code": "1010001557",
     "texture": "Carrara",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "White"
@@ -24228,13 +24228,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "city 15x70 cm Nogal Wooden Matt",
       "fr": "city 15x70 cm Nogal Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "city",
     "code": "1010001465",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Nogal"
@@ -24267,13 +24267,13 @@ export const CLEOPATRA_VERIFIED_BULK: Product[] = [
       "ar": "city 15x70 cm Beige Wooden Matt",
       "fr": "city 15x70 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Cleopatra",
     "model": "city",
     "code": "1010001464",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
