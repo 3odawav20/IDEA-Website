@@ -87,13 +87,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Playa 30x60 cm green stripe second grade Glossy",
       "fr": "Playa 30x60 cm green stripe second grade Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Playa",
     "code": "1010014540",
     "texture": "Stripe",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -127,12 +127,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm Ivory second grade Matt",
       "fr": "Petra 60x180 cm Ivory second grade Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010014464",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Wall",
     "colors": [
@@ -166,13 +166,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Viola 80x80 cm dark grey marbel Matt",
       "fr": "Viola 80x80 cm dark grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Viola",
     "code": "1010014460",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "dark grey"
@@ -2184,13 +2184,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lugano 60x180 cm grey Geometric Matt",
       "fr": "Lugano 60x180 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lugano",
     "code": "1010013963",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -2223,13 +2223,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lugano 60x180 cm grey marbel Matt",
       "fr": "Lugano 60x180 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lugano",
     "code": "1010013962",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -2262,13 +2262,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lugano 60x180 cm Beige Geometric Matt",
       "fr": "Lugano 60x180 cm Beige Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lugano",
     "code": "1010013961",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -2301,13 +2301,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lugano 60x180 cm Beige marbel Matt",
       "fr": "Lugano 60x180 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lugano",
     "code": "1010013960",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -2340,13 +2340,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lugano 60x180 cm WHITE Geometric Matt",
       "fr": "Lugano 60x180 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lugano",
     "code": "1010013959",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -2379,13 +2379,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lugano 60x180 cm WHITE marbel Matt",
       "fr": "Lugano 60x180 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lugano",
     "code": "1010013958",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -2496,13 +2496,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Vegas 60x60 cm grey stone second grade Matt",
       "fr": "Vegas 60x60 cm grey stone second grade Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Vegas",
     "code": "1010013589",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "Second Grade",
     "application": "Floor",
     "colors": [
@@ -3043,13 +3043,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Victoria 15x143 cm BROWN Wooden Matt",
       "fr": "Victoria 15x143 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Victoria",
     "code": "1010013559",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -3082,13 +3082,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Victoria 15x143 cm Beige Wooden Matt",
       "fr": "Victoria 15x143 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Victoria",
     "code": "1010013558",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -3589,13 +3589,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Octavia 18x172 cm BROWN Wooden Matt",
       "fr": "Octavia 18x172 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Octavia",
     "code": "1010013542",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -3628,13 +3628,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Octavia 18x172 cm Beige Wooden Matt",
       "fr": "Octavia 18x172 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Octavia",
     "code": "1010013541",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -3667,13 +3667,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cloud 80x80 cm grey marbel Matt",
       "fr": "Cloud 80x80 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cloud",
     "code": "1010013540",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -3706,13 +3706,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cloud 80x80 cm WHITE marbel Matt",
       "fr": "Cloud 80x80 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cloud",
     "code": "1010013539",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -3745,13 +3745,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Girona 25x75 cm BLUE Geometric Matt",
       "fr": "Girona 25x75 cm BLUE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Girona",
     "code": "1010013538",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -3784,13 +3784,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Girona 25x75 cm Beige Geometric Matt",
       "fr": "Girona 25x75 cm Beige Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Girona",
     "code": "1010013537",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -3823,13 +3823,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Girona 25x75 cm WHITE Geometric Matt",
       "fr": "Girona 25x75 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Girona",
     "code": "1010013536",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -3862,13 +3862,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Girona 25x75 cm Beige marbel Matt",
       "fr": "Girona 25x75 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Girona",
     "code": "1010013535",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -3901,13 +3901,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Girona 25x75 cm WHITE marbel Matt",
       "fr": "Girona 25x75 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Girona",
     "code": "1010013534",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -3940,13 +3940,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Miami 30x90 cm Ivory stripe Glossy",
       "fr": "Miami 30x90 cm Ivory stripe Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Miami",
     "code": "1010013533",
     "texture": "Stripe",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -3979,13 +3979,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Miami 30x90 cm BROWN stripe Glossy",
       "fr": "Miami 30x90 cm BROWN stripe Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Miami",
     "code": "1010013532",
     "texture": "Stripe",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -4018,13 +4018,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Miami 30x90 cm grey stripe Glossy",
       "fr": "Miami 30x90 cm grey stripe Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Miami",
     "code": "1010013531",
     "texture": "Stripe",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4057,13 +4057,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Miami 30x90 cm Ivory marbel Glossy",
       "fr": "Miami 30x90 cm Ivory marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Miami",
     "code": "1010013530",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -4096,13 +4096,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Miami 30x90 cm BROWN marbel Glossy",
       "fr": "Miami 30x90 cm BROWN marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Miami",
     "code": "1010013529",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -4135,13 +4135,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Miami 30x90 cm grey marbel Glossy",
       "fr": "Miami 30x90 cm grey marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Miami",
     "code": "1010013528",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4174,13 +4174,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Everest 50x150 cm BLUE marbel Matt",
       "fr": "Everest 50x150 cm BLUE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Everest",
     "code": "1010013527",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -4213,13 +4213,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Everest 50x150 cm grey Geometric Matt",
       "fr": "Everest 50x150 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Everest",
     "code": "1010013526",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4252,13 +4252,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Everest 50x150 cm grey marbel Matt",
       "fr": "Everest 50x150 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Everest",
     "code": "1010013525",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4291,13 +4291,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bella 60x180 cm grey Geometric Matt",
       "fr": "Bella 60x180 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bella",
     "code": "1010013524",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4330,13 +4330,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bella 60x180 cm Beige Geometric Matt",
       "fr": "Bella 60x180 cm Beige Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bella",
     "code": "1010013523",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -4369,13 +4369,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bella 60x180 cm GREEN marbel Matt",
       "fr": "Bella 60x180 cm GREEN marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bella",
     "code": "1010013522",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -4408,13 +4408,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bella 60x180 cm RED marbel Matt",
       "fr": "Bella 60x180 cm RED marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bella",
     "code": "1010013521",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -4447,13 +4447,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bella 60x180 cm grey marbel Matt",
       "fr": "Bella 60x180 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bella",
     "code": "1010013520",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -4486,13 +4486,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bella 60x180 cm Beige marbel Matt",
       "fr": "Bella 60x180 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bella",
     "code": "1010013519",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -4525,13 +4525,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lotus 60x180 cm aquamarine  mosaic  Matt",
       "fr": "Lotus 60x180 cm aquamarine  mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lotus",
     "code": "1010013518",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -4564,13 +4564,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lotus 60x180 cm BLUE mosaic Matt",
       "fr": "Lotus 60x180 cm BLUE mosaic Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lotus",
     "code": "1010013517",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -4603,13 +4603,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lotus 60x180 cm Ivory Geometric Matt",
       "fr": "Lotus 60x180 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lotus",
     "code": "1010013516",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -4642,13 +4642,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lotus 60x180 cm BLUE Geometric Matt",
       "fr": "Lotus 60x180 cm BLUE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lotus",
     "code": "1010013515",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -4681,13 +4681,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Lotus 60x180 cm grey marbel Matt",
       "fr": "Lotus 60x180 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Lotus",
     "code": "1010013514",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5227,13 +5227,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Capri 25x75 cm aquamarine  mosaic  Matt",
       "fr": "Capri 25x75 cm aquamarine  mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Capri",
     "code": "1010013146",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -5266,13 +5266,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Capri 25x75 cm grey mosaic  Matt",
       "fr": "Capri 25x75 cm grey mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Capri",
     "code": "1010013145",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5305,13 +5305,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Capri 25x75 cm WHITE mosaic  Matt",
       "fr": "Capri 25x75 cm WHITE mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Capri",
     "code": "1010013144",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -5344,13 +5344,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Capri 25x75 cm grey stripe Matt",
       "fr": "Capri 25x75 cm grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Capri",
     "code": "1010013143",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5383,13 +5383,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Capri 25x75 cm WHITE stripe Matt",
       "fr": "Capri 25x75 cm WHITE stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Capri",
     "code": "1010013142",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -5422,13 +5422,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Capri 25x75 cm grey marbel Matt",
       "fr": "Capri 25x75 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Capri",
     "code": "1010013141",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5461,13 +5461,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Capri 25x75 cm WHITE marbel Matt",
       "fr": "Capri 25x75 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Capri",
     "code": "1010013140",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -5500,13 +5500,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Siena 30x90 cm Light Grey stripe Matt",
       "fr": "Siena 30x90 cm Light Grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Siena",
     "code": "1010013139",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -5539,13 +5539,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Siena 30x90 cm Light Grey Geometric Matt",
       "fr": "Siena 30x90 cm Light Grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Siena",
     "code": "1010013138",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -5578,13 +5578,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Siena 30x90 cm Light Grey marbel Matt",
       "fr": "Siena 30x90 cm Light Grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Siena",
     "code": "1010013137",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Light Grey"
@@ -5617,13 +5617,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Matrix 30x120 cm grey Geometric Glossy",
       "fr": "Matrix 30x120 cm grey Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Matrix",
     "code": "1010013136",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5656,13 +5656,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Matrix 30x120 cm BLUE Geometric Glossy",
       "fr": "Matrix 30x120 cm BLUE Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Matrix",
     "code": "1010013135",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -5695,13 +5695,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Matrix 30x120 cm WHITE Geometric Glossy",
       "fr": "Matrix 30x120 cm WHITE Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Matrix",
     "code": "1010013134",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -5734,13 +5734,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Matrix 30x120 cm grey marbel Glossy",
       "fr": "Matrix 30x120 cm grey marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Matrix",
     "code": "1010013133",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5773,13 +5773,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Matrix 30x120 cm BLUE marbel Glossy",
       "fr": "Matrix 30x120 cm BLUE marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Matrix",
     "code": "1010013132",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -5812,13 +5812,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Matrix 30x120 cm WHITE marbel Glossy",
       "fr": "Matrix 30x120 cm WHITE marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Matrix",
     "code": "1010013131",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -5851,13 +5851,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bottega 50x150 cm grey Geometric Matt",
       "fr": "Bottega 50x150 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bottega",
     "code": "1010013130",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -5890,13 +5890,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bottega 50x150 cm BLUE Geometric Matt",
       "fr": "Bottega 50x150 cm BLUE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bottega",
     "code": "1010013129",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -5929,13 +5929,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bottega 50x150 cm RED Geometric Matt",
       "fr": "Bottega 50x150 cm RED Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bottega",
     "code": "1010013128",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -5968,13 +5968,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bottega 50x150 cm Beige Geometric Matt",
       "fr": "Bottega 50x150 cm Beige Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bottega",
     "code": "1010013127",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -6007,13 +6007,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bottega 50x150 cm grey marbel Matt",
       "fr": "Bottega 50x150 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bottega",
     "code": "1010013126",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -6046,13 +6046,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Bottega 50x150 cm Beige marbel Matt",
       "fr": "Bottega 50x150 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Bottega",
     "code": "1010013125",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -6085,13 +6085,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Genova 60x180 cm Ivory mosaic  Matt",
       "fr": "Genova 60x180 cm Ivory mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Genova",
     "code": "1010013124",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -6124,13 +6124,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Genova 60x180 cm grey mosaic  Matt",
       "fr": "Genova 60x180 cm grey mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Genova",
     "code": "1010013123",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -6163,13 +6163,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Genova 60x180 cm Ivory Geometric Matt",
       "fr": "Genova 60x180 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Genova",
     "code": "1010013122",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -6202,13 +6202,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Genova 60x180 cm grey Geometric Matt",
       "fr": "Genova 60x180 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Genova",
     "code": "1010013121",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -6241,13 +6241,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Genova 60x180 cm Ivory marbel Matt",
       "fr": "Genova 60x180 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Genova",
     "code": "1010013120",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -6280,13 +6280,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Genova 60x180 cm grey marbel Matt",
       "fr": "Genova 60x180 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Genova",
     "code": "1010013119",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -6319,13 +6319,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Almeria 18x172 cm grey Wooden Matt",
       "fr": "Almeria 18x172 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Almeria",
     "code": "1010013118",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -6358,13 +6358,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Almeria 18x172 cm Beige Wooden Matt",
       "fr": "Almeria 18x172 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Almeria",
     "code": "1010013117",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -6397,13 +6397,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Toledo 18x172 cm BROWN Wooden Matt",
       "fr": "Toledo 18x172 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Toledo",
     "code": "1010013116",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -6436,13 +6436,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Toledo 18x172 cm grey Wooden Matt",
       "fr": "Toledo 18x172 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Toledo",
     "code": "1010013115",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -6475,13 +6475,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Toledo 18x172 cm Beige Wooden Matt",
       "fr": "Toledo 18x172 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Toledo",
     "code": "1010013114",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -7918,13 +7918,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Universe 60x60 cm WHITE marbel Matt",
       "fr": "Universe 60x60 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Universe",
     "code": "1010012776",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -7957,13 +7957,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Auckland 14x115 cm BROWN Wooden Matt",
       "fr": "Auckland 14x115 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Auckland",
     "code": "1010012775",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -7996,13 +7996,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Auckland 14x115 cm grey Wooden Matt",
       "fr": "Auckland 14x115 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Auckland",
     "code": "1010012774",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -8035,13 +8035,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "California 80x80 cm grey Geometric Matt",
       "fr": "California 80x80 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "California",
     "code": "1010012773",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -8074,13 +8074,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "California 80x80 cm grey marbel Matt",
       "fr": "California 80x80 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "California",
     "code": "1010012772",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -8113,13 +8113,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "California 80x80 cm Beige Geometric Matt",
       "fr": "California 80x80 cm Beige Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "California",
     "code": "1010012771",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -8152,13 +8152,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "California 80x80 cm Beige marbel Matt",
       "fr": "California 80x80 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "California",
     "code": "1010012770",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -8191,13 +8191,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "California 80x80 cm Ivory Geometric Matt",
       "fr": "California 80x80 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "California",
     "code": "1010012769",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -8230,13 +8230,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "California 80x80 cm Ivory marbel Matt",
       "fr": "California 80x80 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "California",
     "code": "1010012768",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -9436,13 +9436,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Symphony 20x60 cm grey stripe Matt",
       "fr": "Symphony 20x60 cm grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Symphony",
     "code": "1010012733",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -9475,13 +9475,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Symphony 20x60 cm grey Geometric Matt",
       "fr": "Symphony 20x60 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Symphony",
     "code": "1010012732",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -9514,13 +9514,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Symphony 20x60 cm grey marbel Matt",
       "fr": "Symphony 20x60 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Symphony",
     "code": "1010012731",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -9553,13 +9553,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Symphony 20x60 cm Beige stripe Matt",
       "fr": "Symphony 20x60 cm Beige stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Symphony",
     "code": "1010012730",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -9592,13 +9592,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Symphony 20x60 cm Beige Geometric Matt",
       "fr": "Symphony 20x60 cm Beige Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Symphony",
     "code": "1010012729",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -9631,13 +9631,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Symphony 20x60 cm Beige marbel Matt",
       "fr": "Symphony 20x60 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Symphony",
     "code": "1010012728",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -9670,13 +9670,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Ibiza 30x60 cm BLUE marbel Glossy",
       "fr": "Ibiza 30x60 cm BLUE marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Ibiza",
     "code": "1010012727",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -9709,13 +9709,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Ibiza 30x60 cm WHITE Geometric Glossy",
       "fr": "Ibiza 30x60 cm WHITE Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Ibiza",
     "code": "1010012726",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -9748,13 +9748,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Ibiza 30x60 cm WHITE marbel Glossy",
       "fr": "Ibiza 30x60 cm WHITE marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Ibiza",
     "code": "1010012725",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -9787,13 +9787,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cadenza 50x150 cm BLUE Geometric Luster Matt",
       "fr": "Cadenza 50x150 cm BLUE Geometric Luster Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cadenza",
     "code": "1010012724",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -9826,13 +9826,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cadenza 50x150 cm aquamarine  Geometric Matt",
       "fr": "Cadenza 50x150 cm aquamarine  Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cadenza",
     "code": "1010012723",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -9865,13 +9865,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cadenza 50x150 cm aquamarine  marbel Matt",
       "fr": "Cadenza 50x150 cm aquamarine  marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cadenza",
     "code": "1010012722",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -9904,13 +9904,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cadenza 50x150 cm grey marbel Matt",
       "fr": "Cadenza 50x150 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cadenza",
     "code": "1010012721",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -9943,13 +9943,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cadenza 50x150 cm Ivory Geometric Matt",
       "fr": "Cadenza 50x150 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cadenza",
     "code": "1010012720",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -9982,13 +9982,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cadenza 50x150 cm Ivory marbel Matt",
       "fr": "Cadenza 50x150 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cadenza",
     "code": "1010012719",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -10021,13 +10021,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Legend 60x180 cm BLUE marbel Matt",
       "fr": "Legend 60x180 cm BLUE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Legend",
     "code": "1010012714",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -10060,13 +10060,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Legend 60x180 cm BROWN marbel Matt",
       "fr": "Legend 60x180 cm BROWN marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Legend",
     "code": "1010012713",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -10099,13 +10099,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Legend 60x180 cm Ivory Geometric Matt",
       "fr": "Legend 60x180 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Legend",
     "code": "1010012712",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -10138,13 +10138,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Legend 60x180 cm Ivory marbel Matt",
       "fr": "Legend 60x180 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Legend",
     "code": "1010012711",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -10177,13 +10177,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Origami 60x180 cm antracita Geometric Matt",
       "fr": "Origami 60x180 cm antracita Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Origami",
     "code": "1010012710",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -10216,13 +10216,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Origami 60x180 cm antracita marbel Matt",
       "fr": "Origami 60x180 cm antracita marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Origami",
     "code": "1010012709",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -10255,13 +10255,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Origami 60x180 cm grey Geometric Matt",
       "fr": "Origami 60x180 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Origami",
     "code": "1010012708",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -10294,13 +10294,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Origami 60x180 cm grey marbel Matt",
       "fr": "Origami 60x180 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Origami",
     "code": "1010012707",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -10333,13 +10333,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Farina 60x180 cm BLUE marbel Matt",
       "fr": "Farina 60x180 cm BLUE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Farina",
     "code": "1010012706",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -10372,13 +10372,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Farina 60x180 cm grey stripe 2 Matt",
       "fr": "Farina 60x180 cm grey stripe 2 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Farina",
     "code": "1010012705",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -10411,13 +10411,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Farina 60x180 cm grey stripe 1 Matt",
       "fr": "Farina 60x180 cm grey stripe 1 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Farina",
     "code": "1010012704",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -10450,13 +10450,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Farina 60x180 cm grey marbel Matt",
       "fr": "Farina 60x180 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Farina",
     "code": "1010012703",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -10489,13 +10489,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Universe 60x180 cm BROWN marbel Matt",
       "fr": "Universe 60x180 cm BROWN marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Universe",
     "code": "1010012702",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -10528,13 +10528,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Universe 60x180 cm aquamarine  marbel Matt",
       "fr": "Universe 60x180 cm aquamarine  marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Universe",
     "code": "1010012701",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -10567,13 +10567,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Universe 60x180 cm grey Wooden Matt",
       "fr": "Universe 60x180 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Universe",
     "code": "1010012700",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -10606,13 +10606,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Universe 60x180 cm grey marbel Matt",
       "fr": "Universe 60x180 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Universe",
     "code": "1010012699",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -10645,13 +10645,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Universe 60x180 cm Beige Wooden Matt",
       "fr": "Universe 60x180 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Universe",
     "code": "1010012698",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -10684,13 +10684,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Universe 60x180 cm Beige marbel Matt",
       "fr": "Universe 60x180 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Universe",
     "code": "1010012697",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -10723,13 +10723,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Universe 60x180 cm WHITE marbel Matt",
       "fr": "Universe 60x180 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Universe",
     "code": "1010012696",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -10762,13 +10762,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm aquamarine  Geometric 2 Matt",
       "fr": "Petra 60x180 cm aquamarine  Geometric 2 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010012695",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -10801,13 +10801,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm aquamarine  Geometric Matt",
       "fr": "Petra 60x180 cm aquamarine  Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010012694",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -10840,13 +10840,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm aquamarine  marbel Matt",
       "fr": "Petra 60x180 cm aquamarine  marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010012692",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -10879,13 +10879,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm dark grey Geometric 2 Matt",
       "fr": "Petra 60x180 cm dark grey Geometric 2 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010012691",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -10918,13 +10918,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm dark grey Geometric 1 Matt",
       "fr": "Petra 60x180 cm dark grey Geometric 1 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010012690",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -10957,13 +10957,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm dark grey marbel Matt",
       "fr": "Petra 60x180 cm dark grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010012689",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -10996,13 +10996,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm grey marbel Matt",
       "fr": "Petra 60x180 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010012688",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -11035,13 +11035,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Petra 60x180 cm Ivory marbel Matt",
       "fr": "Petra 60x180 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Petra",
     "code": "1010012687",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -11074,13 +11074,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Quebec 25x75 cm grey Geometric Matt",
       "fr": "Quebec 25x75 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Quebec",
     "code": "1010012683",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -11113,13 +11113,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Quebec 25x75 cm grey marbel Matt",
       "fr": "Quebec 25x75 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Quebec",
     "code": "1010012682",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -11152,13 +11152,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Quebec 25x75 cm WHITE Geometric Matt",
       "fr": "Quebec 25x75 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Quebec",
     "code": "1010012681",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -11191,13 +11191,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Quebec 25x75 cm WHITE marbel Matt",
       "fr": "Quebec 25x75 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Quebec",
     "code": "1010012680",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -11230,13 +11230,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Blossom 25x75 cm GREEN marbel Matt",
       "fr": "Blossom 25x75 cm GREEN marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Blossom",
     "code": "1010012677",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -11269,12 +11269,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Blossom 25x75 cm BLUE flower Matt",
       "fr": "Blossom 25x75 cm BLUE flower Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Blossom",
     "code": "1010012676",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE flower"
@@ -11307,13 +11307,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Blossom 25x75 cm BLUE marbel Matt",
       "fr": "Blossom 25x75 cm BLUE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Blossom",
     "code": "1010012675",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -11346,13 +11346,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Blossom 25x75 cm Ivory marbel Matt",
       "fr": "Blossom 25x75 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Blossom",
     "code": "1010012674",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -11385,13 +11385,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Star 25x75 cm antracita stripe Matt",
       "fr": "Star 25x75 cm antracita stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Star",
     "code": "1010012664",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -11424,13 +11424,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Star 25x75 cm antracita marbel Matt",
       "fr": "Star 25x75 cm antracita marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Star",
     "code": "1010012662",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -11463,13 +11463,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Star 25x75 cm grey stripe Matt",
       "fr": "Star 25x75 cm grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Star",
     "code": "1010012661",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -11502,13 +11502,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Star 25x75 cm WHITE stripe Matt",
       "fr": "Star 25x75 cm WHITE stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Star",
     "code": "1010012658",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -11541,13 +11541,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Star 25x75 cm WHITE Geometric Matt",
       "fr": "Star 25x75 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Star",
     "code": "1010012657",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -11580,13 +11580,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Star 25x75 cm WHITE marbel Matt",
       "fr": "Star 25x75 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Star",
     "code": "1010012656",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -11619,13 +11619,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Oasis 30x120 cm grey mosaic  Matt",
       "fr": "Oasis 30x120 cm grey mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Oasis",
     "code": "1010012654",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -11658,13 +11658,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Oasis 30x120 cm GREEN Geometric Matt",
       "fr": "Oasis 30x120 cm GREEN Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Oasis",
     "code": "1010012653",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -11697,13 +11697,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Oasis 30x120 cm grey Geometric Matt",
       "fr": "Oasis 30x120 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Oasis",
     "code": "1010012652",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -11736,13 +11736,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Oasis 30x120 cm grey marbel Matt",
       "fr": "Oasis 30x120 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Oasis",
     "code": "1010012651",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -11853,11 +11853,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Encanto 25x75 cm Beige first grade",
       "fr": "Encanto 25x75 cm Beige first grade"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Encanto",
     "code": "1010012353",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "First Grade",
     "application": "Wall",
     "colors": [
@@ -11890,11 +11890,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Encanto 25x75 cm Beige first grade 1",
       "fr": "Encanto 25x75 cm Beige first grade 1"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Encanto",
     "code": "1010012352",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "First Grade",
     "application": "Wall",
     "colors": [
@@ -12200,13 +12200,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Napoli 15x143 cm BROWN Wooden Matt",
       "fr": "Napoli 15x143 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Napoli",
     "code": "1010012117",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -12239,13 +12239,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Napoli 15x143 cm Beige Wooden Matt",
       "fr": "Napoli 15x143 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Napoli",
     "code": "1010012116",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -12278,13 +12278,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Colorado 80x80 cm Beige marbel Matt",
       "fr": "Colorado 80x80 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Colorado",
     "code": "1010012112",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -12317,13 +12317,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 60x60 cm grey marbel Matt",
       "fr": "Fantasy 60x60 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012111",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -12356,13 +12356,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Botanica 30x120 cm grey marbel Matt",
       "fr": "Botanica 30x120 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Botanica",
     "code": "1010012091",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -12395,13 +12395,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 30x90 cm BROWN stripe Matt",
       "fr": "Fantasy 30x90 cm BROWN stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012079",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -12434,13 +12434,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 30x90 cm grey stripe Matt",
       "fr": "Fantasy 30x90 cm grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012078",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -12473,13 +12473,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 30x90 cm Beige stripe Matt",
       "fr": "Fantasy 30x90 cm Beige stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012077",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -12512,13 +12512,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 30x90 cm antracita marbel Matt",
       "fr": "Fantasy 30x90 cm antracita marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012076",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -12551,12 +12551,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 30x90 cm grey Luster Matt",
       "fr": "Fantasy 30x90 cm grey Luster Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012075",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey Luster"
@@ -12589,13 +12589,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 30x90 cm WHITE marbel Matt",
       "fr": "Fantasy 30x90 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012074",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -12628,13 +12628,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 30x90 cm grey marbel Matt",
       "fr": "Fantasy 30x90 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012072",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -12667,13 +12667,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Fantasy 30x90 cm Beige marbel Matt",
       "fr": "Fantasy 30x90 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Fantasy",
     "code": "1010012071",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -12706,13 +12706,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Secret 30x90 cm grey stripe Matt",
       "fr": "Secret 30x90 cm grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Secret",
     "code": "1010012067",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -12745,13 +12745,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Secret 30x90 cm WHITE stripe Matt",
       "fr": "Secret 30x90 cm WHITE stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Secret",
     "code": "1010012066",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -12784,13 +12784,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Secret 30x90 cm dark grey Geometric Matt",
       "fr": "Secret 30x90 cm dark grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Secret",
     "code": "1010012065",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -12823,13 +12823,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Secret 30x90 cm grey Geometric Matt",
       "fr": "Secret 30x90 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Secret",
     "code": "1010012064",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -12862,13 +12862,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Secret 30x90 cm WHITE Geometric Matt",
       "fr": "Secret 30x90 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Secret",
     "code": "1010012063",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -12901,13 +12901,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Secret 30x90 cm grey marbel Matt",
       "fr": "Secret 30x90 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Secret",
     "code": "1010012062",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -12940,13 +12940,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Secret 30x90 cm RED marbel Matt",
       "fr": "Secret 30x90 cm RED marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Secret",
     "code": "1010012061",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -12979,13 +12979,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Secret 30x90 cm WHITE marbel Matt",
       "fr": "Secret 30x90 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Secret",
     "code": "1010012060",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -13018,13 +13018,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Esmeralda 30x90 cm WHITE stripe Glossy",
       "fr": "Esmeralda 30x90 cm WHITE stripe Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Esmeralda",
     "code": "1010012057",
     "texture": "Stripe",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -13057,13 +13057,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Esmeralda 30x90 cm WHITE Geometric Glossy",
       "fr": "Esmeralda 30x90 cm WHITE Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Esmeralda",
     "code": "1010012056",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -13096,12 +13096,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Esmeralda 30x90 cm GREEN Glossy",
       "fr": "Esmeralda 30x90 cm GREEN Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Esmeralda",
     "code": "1010012055",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -13134,13 +13134,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Esmeralda 30x90 cm BLUE marbel Glossy",
       "fr": "Esmeralda 30x90 cm BLUE marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Esmeralda",
     "code": "1010012054",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -13173,13 +13173,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Esmeralda 30x90 cm WHITE marbel Glossy",
       "fr": "Esmeralda 30x90 cm WHITE marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Esmeralda",
     "code": "1010012053",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -13212,11 +13212,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Encanto 25x75 cm grey model 2",
       "fr": "Encanto 25x75 cm grey model 2"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Encanto",
     "code": "1010012050",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -13245,11 +13245,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Encanto 25x75 cm grey model 1",
       "fr": "Encanto 25x75 cm grey model 1"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Encanto",
     "code": "1010012049",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -13278,11 +13278,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Encanto 25x75 cm Beige model 2",
       "fr": "Encanto 25x75 cm Beige model 2"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Encanto",
     "code": "1010012048",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -13311,11 +13311,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Encanto 25x75 cm Beige model 1",
       "fr": "Encanto 25x75 cm Beige model 1"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Encanto",
     "code": "1010012047",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -13344,13 +13344,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Barcelona 20x60 cm Beige Geometric Matt",
       "fr": "Barcelona 20x60 cm Beige Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Barcelona",
     "code": "1010012018",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -14085,13 +14085,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Tango 14x85.6 cm BROWN Wooden Matt",
       "fr": "Tango 14x85.6 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Tango",
     "code": "1010010845",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -14124,13 +14124,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Avenue 30x120 cm antracita marbel Matt",
       "fr": "Avenue 30x120 cm antracita marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Avenue",
     "code": "1010010579",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -14241,13 +14241,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Ardesia 60x60 cm grey Geometric Matt",
       "fr": "Ardesia 60x60 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Ardesia",
     "code": "1010010547",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -14280,13 +14280,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Ardesia 60x60 cm grey stone Matt",
       "fr": "Ardesia 60x60 cm grey stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Ardesia",
     "code": "1010010546",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -14319,13 +14319,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordoba 30x90 cm Stone Matt",
       "fr": "Cordoba 30x90 cm Stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordoba",
     "code": "1010010529",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -14355,13 +14355,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordoba 30x90 cm dark grey Geometric Matt",
       "fr": "Cordoba 30x90 cm dark grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordoba",
     "code": "1010010527",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -14394,13 +14394,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordoba 30x90 cm dark grey marbel Matt",
       "fr": "Cordoba 30x90 cm dark grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordoba",
     "code": "1010010524",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -14433,13 +14433,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordoba 30x90 cm grey mosaic  Matt",
       "fr": "Cordoba 30x90 cm grey mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordoba",
     "code": "1010010523",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -14472,13 +14472,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordoba 30x90 cm grey mosaic Matt",
       "fr": "Cordoba 30x90 cm grey mosaic Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordoba",
     "code": "1010010521",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -14511,13 +14511,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Ardesia 25x75 cm WHITE Geometric Matt",
       "fr": "Ardesia 25x75 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Ardesia",
     "code": "1010010512",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -14976,13 +14976,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Emotion 50x150 cm WHITE Geometric Matt",
       "fr": "Emotion 50x150 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Emotion",
     "code": "1010009729",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -15015,13 +15015,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Image 30x90 cm grey Geometric Matt",
       "fr": "Image 30x90 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Image",
     "code": "1010009708",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -15054,13 +15054,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Image 30x90 cm RED stripe Matt",
       "fr": "Image 30x90 cm RED stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Image",
     "code": "1010009706",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -15093,13 +15093,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 25x75 cm aquamarine  Geometric Glossy",
       "fr": "Catania 25x75 cm aquamarine  Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Catania",
     "code": "1010009693",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -15132,13 +15132,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 25x75 cm aquamarine  marbel Glossy",
       "fr": "Catania 25x75 cm aquamarine  marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Catania",
     "code": "1010009692",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "aquamarine"
@@ -15171,13 +15171,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 25x75 cm Ivory Geometric Glossy",
       "fr": "Catania 25x75 cm Ivory Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Catania",
     "code": "1010009690",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -15210,13 +15210,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Catania 25x75 cm Ivory marbel Glossy",
       "fr": "Catania 25x75 cm Ivory marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Catania",
     "code": "1010009689",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -15249,13 +15249,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Tango 14x85.6 cm Beige Wooden Matt",
       "fr": "Tango 14x85.6 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Tango",
     "code": "1010009688",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -15288,13 +15288,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Azzurro 25x75 cm GREEN mosaic  Matt",
       "fr": "Azzurro 25x75 cm GREEN mosaic  Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Azzurro",
     "code": "1010009683",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -15327,11 +15327,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordia 30x90 cm GREEN",
       "fr": "Cordia 30x90 cm GREEN"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordia",
     "code": "1010009633",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -15363,12 +15363,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordia 30x90 cm BLACK Geometric",
       "fr": "Cordia 30x90 cm BLACK Geometric"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordia",
     "code": "1010009632",
     "texture": "Geometric",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLACK"
@@ -15400,13 +15400,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Tango 14x85.6 cm grey Wooden Matt",
       "fr": "Tango 14x85.6 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Tango",
     "code": "1010009416",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -15439,12 +15439,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordia 30x90 cm Beige marbel",
       "fr": "Cordia 30x90 cm Beige marbel"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordia",
     "code": "1010009407",
     "texture": "Marble",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -15476,13 +15476,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordia 60x60 cm grey marbel Matt",
       "fr": "Cordia 60x60 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordia",
     "code": "1010009110",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -15515,13 +15515,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Cordia 60x60 cm Beige marbel Matt",
       "fr": "Cordia 60x60 cm Beige marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Cordia",
     "code": "1010009109",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -15554,13 +15554,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Positano 50x150 cm WHITE marbel Matt",
       "fr": "Positano 50x150 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Positano",
     "code": "1010009101",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -15593,13 +15593,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Crimson 30x120 cm RED Mosaic Matt",
       "fr": "Crimson 30x120 cm RED Mosaic Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Crimson",
     "code": "1010009098",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -15632,13 +15632,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Crimson 30x120 cm grey stripe Matt",
       "fr": "Crimson 30x120 cm grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Crimson",
     "code": "1010009097",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -15671,13 +15671,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Crimson 30x120 cm GREEN Mosaic Matt",
       "fr": "Crimson 30x120 cm GREEN Mosaic Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Crimson",
     "code": "1010009095",
     "texture": "Mosaic",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "GREEN"
@@ -15710,13 +15710,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Crimson 30x120 cm WHITE stripe Matt",
       "fr": "Crimson 30x120 cm WHITE stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Crimson",
     "code": "1010009094",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -15749,13 +15749,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Crimson 30x120 cm WHITE marbel Matt",
       "fr": "Crimson 30x120 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Crimson",
     "code": "1010009093",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -15788,13 +15788,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Casablanca 30x90 cm BLUE Geometric Matt",
       "fr": "Casablanca 30x90 cm BLUE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Casablanca",
     "code": "1010009085",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -15827,13 +15827,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Shovel 25x75 cm WHITE Geometric Matt",
       "fr": "Shovel 25x75 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Shovel",
     "code": "1010009064",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -15866,13 +15866,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Shovel 25x75 cm WHITE marbel Matt",
       "fr": "Shovel 25x75 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Shovel",
     "code": "1010009062",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -15905,13 +15905,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Momento 30x60 cm Beige marbel Glossy",
       "fr": "Momento 30x60 cm Beige marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Momento",
     "code": "1010008611",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -15983,13 +15983,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Harbor 15x143 cm BROWN Wooden Matt",
       "fr": "Harbor 15x143 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Harbor",
     "code": "1010007625",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -16022,13 +16022,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Mist 42x42 cm grey marbel Glossy",
       "fr": "Mist 42x42 cm grey marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Mist",
     "code": "1010007612",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -16061,13 +16061,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Mist 42x42 cm Ivory marbel Glossy",
       "fr": "Mist 42x42 cm Ivory marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Mist",
     "code": "1010007611",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -16100,13 +16100,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Jungle 50x150 cm dark grey marbel Matt",
       "fr": "Jungle 50x150 cm dark grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Jungle",
     "code": "1010007605",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -16139,13 +16139,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Imperial 30x120 cm Beige Geometric Glossy",
       "fr": "Imperial 30x120 cm Beige Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Imperial",
     "code": "1010007598",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -16178,13 +16178,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Harmony 30x90 cm RED Geometric Matt",
       "fr": "Harmony 30x90 cm RED Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Harmony",
     "code": "1010007585",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -16217,13 +16217,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Harmony 30x90 cm BLUE Geometric Matt",
       "fr": "Harmony 30x90 cm BLUE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Harmony",
     "code": "1010007583",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BLUE"
@@ -16256,13 +16256,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Tribe 25x75 cm RED marbel Glossy",
       "fr": "Tribe 25x75 cm RED marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Tribe",
     "code": "1010007562",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -16295,13 +16295,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Luxor 30x60 cm RED marbel Matt",
       "fr": "Luxor 30x60 cm RED marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Luxor",
     "code": "1010007537",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -16334,13 +16334,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Luxor 30x60 cm WHITE marbel Matt",
       "fr": "Luxor 30x60 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Luxor",
     "code": "1010007533",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -16373,13 +16373,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Pandora 30x90 cm Ivory Geometric Matt",
       "fr": "Pandora 30x90 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Pandora",
     "code": "1010006923",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -16412,13 +16412,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Corfu 15x143 cm grey Wooden Matt",
       "fr": "Corfu 15x143 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Corfu",
     "code": "1010006883",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -16451,13 +16451,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Viola 80x80 cm Ivory marbel Matt",
       "fr": "Viola 80x80 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Viola",
     "code": "1010006860",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -16490,13 +16490,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Alma 30x120 cm Ivory stone Matt",
       "fr": "Alma 30x120 cm Ivory stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Alma",
     "code": "1010006847",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -16529,12 +16529,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Mystery 50x150 cm WHITE marbel",
       "fr": "Mystery 50x150 cm WHITE marbel"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Mystery",
     "code": "1010006309",
     "texture": "Marble",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -16566,12 +16566,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Coral 25x75 cm WHITE stripe",
       "fr": "Coral 25x75 cm WHITE stripe"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Coral",
     "code": "1010006284",
     "texture": "Stripe",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -16603,12 +16603,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Mia 20x60 cm antracita mosaic",
       "fr": "Mia 20x60 cm antracita mosaic"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Mia",
     "code": "1010006211",
     "texture": "Mosaic",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -16640,12 +16640,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Mia 20x60 cm antracita Mosaic",
       "fr": "Mia 20x60 cm antracita Mosaic"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Mia",
     "code": "1010006210",
     "texture": "Mosaic",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -16677,13 +16677,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Megan 60x60 cm BROWN Geometric Matt",
       "fr": "Megan 60x60 cm BROWN Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Megan",
     "code": "1010005748",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -16716,13 +16716,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Megan 25x75 cm antracita stripe Matt",
       "fr": "Megan 25x75 cm antracita stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Megan",
     "code": "1010005746",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -16755,13 +16755,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Megan 25x75 cm antracita Geometric Matt",
       "fr": "Megan 25x75 cm antracita Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Megan",
     "code": "1010005745",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -16794,13 +16794,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Megan 25x75 cm BROWN Geometric Matt",
       "fr": "Megan 25x75 cm BROWN Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Megan",
     "code": "1010005743",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -16833,13 +16833,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Megan 25x75 cm Ivory Geometric Matt",
       "fr": "Megan 25x75 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Megan",
     "code": "1010005739",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -16872,13 +16872,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Megan 60x60 cm antracita Geometric Matt",
       "fr": "Megan 60x60 cm antracita Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Megan",
     "code": "1010005737",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "antracita"
@@ -16911,13 +16911,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Megan 60x60 cm Ivory Geometric Matt",
       "fr": "Megan 60x60 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Megan",
     "code": "1010005734",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -16950,13 +16950,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Blend 15x143 cm Beige Wooden Matt",
       "fr": "Blend 15x143 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Blend",
     "code": "1010005661",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -16989,13 +16989,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Blend 15x143 cm BROWN Wooden Matt",
       "fr": "Blend 15x143 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Blend",
     "code": "1010005660",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -17028,13 +17028,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Blend 15x143 cm grey Wooden Matt",
       "fr": "Blend 15x143 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Blend",
     "code": "1010005659",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -17067,13 +17067,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Vision 50x150 cm Beige stone Matt",
       "fr": "Vision 50x150 cm Beige stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Vision",
     "code": "1010005601",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige"
@@ -17106,13 +17106,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Palazzo 50x150 cm dark grey Geometric Matt",
       "fr": "Palazzo 50x150 cm dark grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Palazzo",
     "code": "1010005509",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -17145,13 +17145,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Palazzo 50x150 cm WHITE Geometric Matt",
       "fr": "Palazzo 50x150 cm WHITE Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Palazzo",
     "code": "1010005487",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -17184,12 +17184,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Passion 20x60 cm Kitchen 3 Matt",
       "fr": "Passion 20x60 cm Kitchen 3 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Passion",
     "code": "1010005461",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Kitchen 3"
@@ -17222,12 +17222,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Passion 20x60 cm Kitchen 2 Matt",
       "fr": "Passion 20x60 cm Kitchen 2 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Passion",
     "code": "1010005460",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Kitchen 2"
@@ -17260,13 +17260,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Magnifique 30x90 cm Ivory Geometric Matt",
       "fr": "Magnifique 30x90 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Magnifique",
     "code": "1010005257",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -17299,11 +17299,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Sicilia 20x60 cm WHITE first grade 4",
       "fr": "Sicilia 20x60 cm WHITE first grade 4"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Sicilia",
     "code": "1010005246",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "First Grade",
     "application": "Wall",
     "colors": [
@@ -17336,11 +17336,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Chateau 25x75 cm YELLOW first grade",
       "fr": "Chateau 25x75 cm YELLOW first grade"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Chateau",
     "code": "1010004306",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "First Grade",
     "application": "Wall",
     "colors": [
@@ -17373,11 +17373,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Chateau 25x75 cm YELLOW",
       "fr": "Chateau 25x75 cm YELLOW"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Chateau",
     "code": "1010004305",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "YELLOW"
@@ -17409,12 +17409,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Horizon 30x120 cm dark grey stripe",
       "fr": "Horizon 30x120 cm dark grey stripe"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Horizon",
     "code": "1010004235",
     "texture": "Stripe",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -17446,12 +17446,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Horizon 30x120 cm Ivory stripe",
       "fr": "Horizon 30x120 cm Ivory stripe"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Horizon",
     "code": "1010004231",
     "texture": "Stripe",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -17483,12 +17483,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Agadir 30x60 cm BROWN Glossy",
       "fr": "Agadir 30x60 cm BROWN Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Agadir",
     "code": "1010004056",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -17521,11 +17521,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm antracita first grade",
       "fr": "Wonder 30x90 cm antracita first grade"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010003801",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "First Grade",
     "application": "Wall",
     "colors": [
@@ -17558,11 +17558,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm antracita model 2",
       "fr": "Wonder 30x90 cm antracita model 2"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010003800",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17591,11 +17591,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm Ivory first grade 2",
       "fr": "Wonder 30x90 cm Ivory first grade 2"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010003799",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "First Grade",
     "application": "Wall",
     "colors": [
@@ -17628,11 +17628,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm Ivory model 2",
       "fr": "Wonder 30x90 cm Ivory model 2"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010003798",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17661,11 +17661,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm antracita model 1",
       "fr": "Wonder 30x90 cm antracita model 1"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010003797",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17694,11 +17694,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm Ivory first grade",
       "fr": "Wonder 30x90 cm Ivory first grade"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010003796",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "First Grade",
     "application": "Wall",
     "colors": [
@@ -17731,11 +17731,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm Ivory model 1",
       "fr": "Wonder 30x90 cm Ivory model 1"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010003795",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17764,11 +17764,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Sicilia 20x60 cm WHITE first grade 5",
       "fr": "Sicilia 20x60 cm WHITE first grade 5"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Sicilia",
     "code": "1010003709",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "variant": "First Grade",
     "application": "Wall",
     "colors": [
@@ -17801,11 +17801,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Sicilia 20x60 cm WHITE model 5",
       "fr": "Sicilia 20x60 cm WHITE model 5"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Sicilia",
     "code": "1010003708",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17834,11 +17834,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Sicilia 20x60 cm WHITE model 4",
       "fr": "Sicilia 20x60 cm WHITE model 4"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Sicilia",
     "code": "1010003707",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17867,11 +17867,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Sicilia 20x60 cm WHITE model 3",
       "fr": "Sicilia 20x60 cm WHITE model 3"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Sicilia",
     "code": "1010003706",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17900,11 +17900,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Sicilia 20x60 cm WHITE model 2",
       "fr": "Sicilia 20x60 cm WHITE model 2"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Sicilia",
     "code": "1010003704",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17933,11 +17933,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Sicilia 20x60 cm WHITE model 1",
       "fr": "Sicilia 20x60 cm WHITE model 1"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Sicilia",
     "code": "1010003699",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -17966,12 +17966,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Nevada 20x60 cm Beige Kitchen 5 Matt",
       "fr": "Nevada 20x60 cm Beige Kitchen 5 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Nevada",
     "code": "1010003534",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige Kitchen 5"
@@ -18004,12 +18004,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Nevada 20x60 cm Beige Kitchen 4 Matt",
       "fr": "Nevada 20x60 cm Beige Kitchen 4 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Nevada",
     "code": "1010003533",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige Kitchen 4"
@@ -18042,12 +18042,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Nevada 20x60 cm Beige Kitchen 3 Matt",
       "fr": "Nevada 20x60 cm Beige Kitchen 3 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Nevada",
     "code": "1010003532",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige Kitchen 3"
@@ -18080,12 +18080,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Nevada 20x60 cm Beige Kitchen 2 Matt",
       "fr": "Nevada 20x60 cm Beige Kitchen 2 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Nevada",
     "code": "1010003531",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige Kitchen 2"
@@ -18118,12 +18118,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Nevada 20x60 cm Beige Kitchen 1 Matt",
       "fr": "Nevada 20x60 cm Beige Kitchen 1 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Nevada",
     "code": "1010003530",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Beige Kitchen 1"
@@ -18156,12 +18156,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 30x60 cm Dark Beige model 2 Matt",
       "fr": "Torino 30x60 cm Dark Beige model 2 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010003010",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -18191,11 +18191,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 30x60 cm dark grey",
       "fr": "Torino 30x60 cm dark grey"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010003009",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
@@ -18227,12 +18227,12 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 30x60 cm Dark Beige model 1 Matt",
       "fr": "Torino 30x60 cm Dark Beige model 1 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010003007",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -18262,11 +18262,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 30x60 cm Ivory model 2",
       "fr": "Torino 30x60 cm Ivory model 2"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010003006",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -18295,11 +18295,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 30x60 cm Ivory model 1",
       "fr": "Torino 30x60 cm Ivory model 1"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010003005",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "sizes": [
       {
@@ -18328,11 +18328,11 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 30x60 cm Ivory",
       "fr": "Torino 30x60 cm Ivory"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010003004",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18364,13 +18364,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Chateau 60x60 cm dark grey marbel Glossy",
       "fr": "Chateau 60x60 cm dark grey marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Chateau",
     "code": "1010000873",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "dark grey"
@@ -18403,13 +18403,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Magnifique 30x90 cm grey Geometric Matt",
       "fr": "Magnifique 30x90 cm grey Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Magnifique",
     "code": "1010000859",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -18442,13 +18442,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Magnifique 30x90 cm RED Geometric Matt",
       "fr": "Magnifique 30x90 cm RED Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Magnifique",
     "code": "1010000858",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "RED"
@@ -18481,13 +18481,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Marida 50x150 cm antracita stripe Matt",
       "fr": "Marida 50x150 cm antracita stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Marida",
     "code": "1010000841",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -18520,13 +18520,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Marida 50x150 cm antracita marbel Matt",
       "fr": "Marida 50x150 cm antracita marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Marida",
     "code": "1010000840",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -18559,13 +18559,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Marida 50x150 cm Ivory stripe Matt",
       "fr": "Marida 50x150 cm Ivory stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Marida",
     "code": "1010000839",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18598,13 +18598,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Marida 50x150 cm Ivory Geometric Matt",
       "fr": "Marida 50x150 cm Ivory Geometric Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Marida",
     "code": "1010000838",
     "texture": "Geometric",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18637,13 +18637,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Marida 50x150 cm Ivory marbel Matt",
       "fr": "Marida 50x150 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Marida",
     "code": "1010000837",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18676,13 +18676,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Folk 25x75 cm Ivory marbel Matt",
       "fr": "Folk 25x75 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Folk",
     "code": "1010000833",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18715,13 +18715,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Horizon 60x60 cm Ivory marbel Matt",
       "fr": "Horizon 60x60 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Horizon",
     "code": "1010000801",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -18754,13 +18754,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Horizon 30x120 cm Ivory stripe Matt",
       "fr": "Horizon 30x120 cm Ivory stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Horizon",
     "code": "1010000789",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18793,13 +18793,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Paloma 30x90 cm Ivory stripe Matt",
       "fr": "Paloma 30x90 cm Ivory stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Paloma",
     "code": "1010000767",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18832,13 +18832,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Estrada 30x90 cm Ivory stone Matt",
       "fr": "Estrada 30x90 cm Ivory stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Estrada",
     "code": "1010000693",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18871,13 +18871,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Estrada 30x90 cm Ivory stripe Matt",
       "fr": "Estrada 30x90 cm Ivory stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Estrada",
     "code": "1010000692",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18910,13 +18910,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Estrada 30x90 cm Ivory marbel Matt",
       "fr": "Estrada 30x90 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Estrada",
     "code": "1010000691",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -18949,13 +18949,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm antracita stripe Matt",
       "fr": "Wonder 30x90 cm antracita stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010000532",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "antracita"
@@ -18988,13 +18988,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm Ivory stripe 3 Matt",
       "fr": "Wonder 30x90 cm Ivory stripe 3 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010000529",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -19027,13 +19027,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm Ivory stripe 2 Matt",
       "fr": "Wonder 30x90 cm Ivory stripe 2 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010000528",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -19066,13 +19066,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Wonder 30x90 cm Ivory stripe 1 Matt",
       "fr": "Wonder 30x90 cm Ivory stripe 1 Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Wonder",
     "code": "1010000527",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Ivory"
@@ -19105,13 +19105,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Glory 25x75 cm BROWN marbel Matt",
       "fr": "Glory 25x75 cm BROWN marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Glory",
     "code": "1010000511",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -19144,13 +19144,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Glory 25x75 cm BROWN stone Matt",
       "fr": "Glory 25x75 cm BROWN stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Glory",
     "code": "1010000510",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -19183,13 +19183,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Alicia 14x115 cm Dark Beige Wooden Matt",
       "fr": "Alicia 14x115 cm Dark Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Alicia",
     "code": "1010000436",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Dark Beige"
@@ -19222,13 +19222,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Alicia 14x115 cm Beige Wooden Matt",
       "fr": "Alicia 14x115 cm Beige Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Alicia",
     "code": "1010000435",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Beige"
@@ -19261,13 +19261,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Marbella 60x60 cm BROWN marbel Glossy",
       "fr": "Marbella 60x60 cm BROWN marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Marbella",
     "code": "1010000424",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -19300,13 +19300,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Oxford 14x115 cm grey Wooden Matt",
       "fr": "Oxford 14x115 cm grey Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Oxford",
     "code": "1010000290",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -19339,13 +19339,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Oxford 14x115 cm BROWN Wooden Matt",
       "fr": "Oxford 14x115 cm BROWN Wooden Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Oxford",
     "code": "1010000289",
     "texture": "Wooden",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -19378,13 +19378,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Style 30x120 cm grey stripe Matt",
       "fr": "Style 30x120 cm grey stripe Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Style",
     "code": "1010000044",
     "texture": "Stripe",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "grey"
@@ -19417,13 +19417,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Style 30x120 cm BROWN marbel Matt",
       "fr": "Style 30x120 cm BROWN marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Style",
     "code": "1010000038",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -19456,13 +19456,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Style 60x60 cm BROWN marbel Matt",
       "fr": "Style 60x60 cm BROWN marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Style",
     "code": "1010000034",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "BROWN"
@@ -19495,13 +19495,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Style 60x60 cm grey marbel Matt",
       "fr": "Style 60x60 cm grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Style",
     "code": "1010000033",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "grey"
@@ -19534,13 +19534,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Style 60x60 cm WHITE marbel Matt",
       "fr": "Style 60x60 cm WHITE marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Style",
     "code": "1010000026",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "WHITE"
@@ -19573,13 +19573,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Melody 50x150 cm BROWN Geometric Glossy",
       "fr": "Melody 50x150 cm BROWN Geometric Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Melody",
     "code": "1010000018",
     "texture": "Geometric",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "BROWN"
@@ -19612,13 +19612,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Melody 50x150 cm WHITE marbel Glossy",
       "fr": "Melody 50x150 cm WHITE marbel Glossy"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Melody",
     "code": "1010000016",
     "texture": "Marble",
     "finish": "Glossy",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "WHITE"
@@ -19651,13 +19651,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 60x60 cm dark grey marbel Matt",
       "fr": "Torino 60x60 cm dark grey marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010000013",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "dark grey"
@@ -19690,13 +19690,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 60x60 cm Ivory marbel Matt",
       "fr": "Torino 60x60 cm Ivory marbel Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010000011",
     "texture": "Marble",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Floor",
     "colors": [
       "Ivory"
@@ -19729,13 +19729,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 30x60 cm Dark Beige stone Matt",
       "fr": "Torino 30x60 cm Dark Beige stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010000009",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "Dark Beige"
@@ -19768,13 +19768,13 @@ export const GEMMA_VERIFIED_BULK: Product[] = [
       "ar": "Torino 30x60 cm dark grey stone Matt",
       "fr": "Torino 30x60 cm dark grey stone Matt"
     },
-    "collection": "porcelain",
+    "collection": "ceramics",
     "brand": "Gemma",
     "model": "Torino",
     "code": "1010000008",
     "texture": "Stone",
     "finish": "Matt",
-    "type": "Porcelain",
+    "type": "Ceramic",
     "application": "Wall",
     "colors": [
       "dark grey"
