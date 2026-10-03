@@ -1,7 +1,10 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
 import type { Product } from "../data/types";
 import { ART_CERAMIC_PRODUCTS } from "../data/artceramicImport";
-import { GEMMA_VERIFIED_BATCH_1 } from "../data/gemmaVerifiedBatch1";
+import { GEMMA_VERIFIED_BULK } from "../data/gemmaVerifiedBulk";
+import { CLEOPATRA_VERIFIED_BULK } from "../data/cleopatraVerifiedBulk";
+import { PLATINO_VERIFIED_BULK } from "../data/platinoVerifiedBulk";
+import { INNOVA_VERIFIED_BULK } from "../data/innovaVerifiedBulk";
 
 export interface QuoteItem {
   productId: string;
@@ -45,8 +48,17 @@ function usePersisted<T>(key: string, initial: T): [T, React.Dispatch<React.SetS
 }
 
 export function StoreProvider({ children }: { children: ReactNode }) {
-  // Canonical storefront dataset: existing Art Ceramic import + verified real-source batches.
-  const [products] = useState<Product[]>(() => [...GEMMA_VERIFIED_BATCH_1, ...ART_CERAMIC_PRODUCTS]);
+  // Canonical storefront dataset: verified ceramic/porcelain sources + existing Art Ceramic import.
+  const [products] = useState<Product[]>(() => {
+    const all = [
+      ...GEMMA_VERIFIED_BULK,
+      ...CLEOPATRA_VERIFIED_BULK,
+      ...PLATINO_VERIFIED_BULK,
+      ...INNOVA_VERIFIED_BULK,
+      ...ART_CERAMIC_PRODUCTS,
+    ];
+    return [...new Map(all.map((product) => [product.id, product])).values()];
+  });
   const [favorites, setFavorites] = usePersisted<string[]>("idea.favorites", []);
   const [quote, setQuote] = usePersisted<QuoteItem[]>("idea.quote", []);
   const [compare, setCompare] = usePersisted<string[]>("idea.compare", []);
