@@ -1,6 +1,7 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
 import type { Product } from "../data/types";
 import { ART_CERAMIC_PRODUCTS } from "../data/artceramicImport";
+import { GEMMA_VERIFIED_BATCH_1 } from "../data/gemmaVerifiedBatch1";
 
 export interface QuoteItem {
   productId: string;
@@ -44,8 +45,8 @@ function usePersisted<T>(key: string, initial: T): [T, React.Dispatch<React.SetS
 }
 
 export function StoreProvider({ children }: { children: ReactNode }) {
-  // Products imported from the source export. Unconfirmed fields stay empty.
-  const [products] = useState<Product[]>(() => ART_CERAMIC_PRODUCTS);
+  // Canonical storefront dataset: existing Art Ceramic import + verified real-source batches.
+  const [products] = useState<Product[]>(() => [...GEMMA_VERIFIED_BATCH_1, ...ART_CERAMIC_PRODUCTS]);
   const [favorites, setFavorites] = usePersisted<string[]>("idea.favorites", []);
   const [quote, setQuote] = usePersisted<QuoteItem[]>("idea.quote", []);
   const [compare, setCompare] = usePersisted<string[]>("idea.compare", []);
