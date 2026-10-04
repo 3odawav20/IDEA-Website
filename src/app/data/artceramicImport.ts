@@ -23,6 +23,16 @@ function finishFromSource(value: string) {
   return value.split("/").map((part) => part.trim()).find((part) => /^(matt|glossy)$/i.test(part));
 }
 
+function textureFromSource(value: string) {
+  const parts = value.split("/").map((part) => part.trim()).filter(Boolean);
+  return parts.find((part) => !/^(matt|glossy)$/i.test(part));
+}
+
+function usageFromSource(types: string[]) {
+  const usage = types.filter((value) => !/^(wall|floor)$/i.test(value.trim()));
+  return usage.length ? [...new Set(usage)] : undefined;
+}
+
 function applicationFromSource(types: string[]) {
   const wall = types.some((value) => /wall/i.test(value));
   const floor = types.some((value) => /floor/i.test(value));
@@ -38,7 +48,7 @@ function applicationFromSource(types: string[]) {
  * translations) remain unset rather than being fabricated for the storefront.
  */
 function mapProduct(source: RawArtCeramicProduct): Product {
-  const colors = [...new Set([source.color, source.colorCategory].filter(Boolean) as string[])];
+  const colors = source.color ? [source.color] : source.colorCategory ? [source.colorCategory] : [];
   const gallery = [...new Set([source.image, ...source.tiles].filter(Boolean).map(originalArtAsset))];
 
   return {
