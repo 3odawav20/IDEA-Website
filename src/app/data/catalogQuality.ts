@@ -23,7 +23,7 @@ function cleanColor(value: string) {
     .replace(/\s+/g, " ")
     .trim();
 
-  if (!result || !COLOR_SIGNAL.test(result) || /^other$/i.test(result)) return undefined;
+  if (!result || !COLOR_SIGNAL.test(result) || /^other$/i.test(result) || /(?:\bx\b|\/|-)\s*$/i.test(result)) return undefined;
 
   return result
     .toLowerCase()
