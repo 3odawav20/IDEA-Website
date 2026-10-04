@@ -59,6 +59,7 @@ export interface Product {
     recordId: string;
     reviewStatus: "source-imported" | "needs-human-review";
     originalSurface?: string;
+    sourceUrl?: string;
   };
   approved: boolean; // only approved products render publicly
   status: "sample" | "imported" | "staged";

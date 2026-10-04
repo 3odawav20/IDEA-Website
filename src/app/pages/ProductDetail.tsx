@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router";
-import { Heart, GitCompare, Sparkles, ChevronRight } from "lucide-react";
+import { Heart, GitCompare, Sparkles, ChevronRight, ExternalLink } from "lucide-react";
 import { useState } from "react";
 import { useI18n } from "../i18n/i18n";
 import { useStore } from "../store/store";
@@ -23,6 +23,10 @@ export function ProductDetail() {
   const unit = product.collection === "ceramics" || product.collection === "porcelain" ? "sqm" : "pieces";
   const related = products.filter((p) => p.family === product.family && p.id !== product.id).slice(0, 4);
   const fav = isFavorite(product.id);
+  const categoryLabel = product.collection === "porcelain" ? "Porcelain" : "Ceramic";
+  const sourceHost = product.source?.sourceUrl
+    ? new URL(product.source.sourceUrl).hostname.replace(/^www\./, "")
+    : undefined;
 
   const spec = (label: string, value?: string) => value && (
     <div style={{ display: "flex", justifyContent: "space-between", padding: "10px 0", borderBottom: "1px solid var(--idea-border-neutral)" }}>
@@ -72,13 +76,32 @@ export function ProductDetail() {
             <p style={{ color: "var(--idea-text-faint)", fontStyle: "italic", marginBottom: "var(--idea-space-5)" }}>{t("price.hidden")}</p>
 
             <div style={{ background: "var(--idea-surface)", border: "var(--idea-hairline)", borderRadius: "var(--idea-radius-md)", padding: "var(--idea-space-4) var(--idea-space-5)", marginBottom: "var(--idea-space-5)" }}>
+              {spec("Category", categoryLabel)}
               {spec(t("label.model"), product.model)}
               {spec(t("label.code"), product.code)}
               {spec(t("label.origin"), product.origin)}
               {spec(t("label.type"), product.type)}
               {spec(t("label.finish"), product.finish)}
               {spec(t("label.texture"), product.texture)}
+              {spec("Application", product.application)}
+              {spec("Color", product.colors?.join(", "))}
+              {spec("Grade", product.variant)}
             </div>
+
+            {product.source?.sourceUrl && sourceHost && (
+              <a
+                href={product.source.sourceUrl}
+                target="_blank"
+                rel="noreferrer"
+                style={{
+                  display: "inline-flex", alignItems: "center", gap: 7,
+                  marginBottom: "var(--idea-space-5)", color: "var(--idea-gold)",
+                  fontSize: "var(--idea-text-sm)", textDecoration: "none",
+                }}
+              >
+                <ExternalLink size={14} /> Source: {sourceHost}
+              </a>
+            )}
 
             <div className="idea-eyebrow" style={{ marginBottom: 10 }}>{t("label.sizes")}</div>
             <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: "var(--idea-space-5)" }}>

@@ -5,6 +5,7 @@ import { GEMMA_VERIFIED_BULK } from "../data/gemmaVerifiedBulk";
 import { CLEOPATRA_VERIFIED_BULK } from "../data/cleopatraVerifiedBulk";
 import { PLATINO_VERIFIED_BULK } from "../data/platinoVerifiedBulk";
 import { INNOVA_VERIFIED_BULK } from "../data/innovaVerifiedBulk";
+import { buildPublicCatalog } from "../data/catalogQuality";
 
 export interface QuoteItem {
   productId: string;
@@ -48,17 +49,16 @@ function usePersisted<T>(key: string, initial: T): [T, React.Dispatch<React.SetS
 }
 
 export function StoreProvider({ children }: { children: ReactNode }) {
-  // Canonical storefront dataset: verified ceramic/porcelain sources + existing Art Ceramic import.
-  const [products] = useState<Product[]>(() => {
-    const all = [
-      ...GEMMA_VERIFIED_BULK,
-      ...CLEOPATRA_VERIFIED_BULK,
-      ...PLATINO_VERIFIED_BULK,
-      ...INNOVA_VERIFIED_BULK,
-      ...ART_CERAMIC_PRODUCTS,
-    ];
-    return [...new Map(all.map((product) => [product.id, product])).values()];
-  });
+  // Canonical public catalog: category-corrected, source-linked, deduplicated and quality-gated.
+  const [products] = useState<Product[]>(() =>
+    buildPublicCatalog([
+      GEMMA_VERIFIED_BULK,
+      CLEOPATRA_VERIFIED_BULK,
+      PLATINO_VERIFIED_BULK,
+      INNOVA_VERIFIED_BULK,
+      ART_CERAMIC_PRODUCTS,
+    ])
+  );
   const [favorites, setFavorites] = usePersisted<string[]>("idea.favorites", []);
   const [quote, setQuote] = usePersisted<QuoteItem[]>("idea.quote", []);
   const [compare, setCompare] = usePersisted<string[]>("idea.compare", []);

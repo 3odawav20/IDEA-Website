@@ -18,7 +18,7 @@ export function Footer() {
           <p style={{ color: "var(--idea-text-muted)", marginTop: "var(--idea-space-3)", fontStyle: "italic", maxWidth: 260 }}>“{t("tagline")}”</p>
           <div style={{ display: "grid", gap: 10, marginTop: "var(--idea-space-4)", color: "var(--idea-text-muted)", fontSize: "var(--idea-text-sm)", lineHeight: 1.5 }}>
             <span style={{ display: "flex", alignItems: "flex-start", gap: 8 }}><MapPin size={16} color="var(--idea-gold)" style={{ marginTop: 2, flexShrink: 0 }} />الحي العائلي، العبور، القليوبية</span>
-            <a href="https://www.idea.com" target="_blank" rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 8, color: "var(--idea-gold-bright)", textDecoration: "none", width: "fit-content" }}><Globe2 size={16} />www.idea.com</a>
+            <a href="https://idea-website-five.vercel.app" target="_blank" rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 8, color: "var(--idea-gold-bright)", textDecoration: "none", width: "fit-content" }}><Globe2 size={16} />idea-website-five.vercel.app</a>
             <div style={{ display: "flex", alignItems: "center", gap: 10, flexWrap: "wrap" }} aria-label="IDEA social accounts">
               <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}><Facebook size={16} color="var(--idea-gold)" />idea-egy</span>
               <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}><Instagram size={16} color="var(--idea-gold)" />idea-egy</span>

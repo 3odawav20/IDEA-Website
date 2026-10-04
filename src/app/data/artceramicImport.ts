@@ -15,8 +15,27 @@ interface RawArtCeramicProduct {
   tiles: string[];
 }
 
+function originalArtAsset(url: string) {
+  return url.replace(/\/uploads\/(?:medium_|small_|thumbnail_)/i, "/uploads/");
+}
+
 function finishFromSource(value: string) {
-  return value.split("/").map((part) => part.trim()).find((part) => /^(matt|glossy)$/i.test(part));
+  return value
+    .split("/")
+    .map((part) => part.trim())
+    .find((part) => /^(matt|glossy)$/i.test(part));
+}
+
+function textureFromSource(value: string) {
+  const parts = value.split("/").map((part) => part.trim()).filter(Boolean);
+  return parts.find((part) => !/^(matt|glossy)$/i.test(part));
+}
+
+function usageFromSource(types: string[]) {
+  const usage = types
+    .map((value) => value.trim())
+    .filter((value) => value && !/^(wall|floor)$/i.test(value));
+  return usage.length ? [...new Set(usage)] : undefined;
 }
 
 function applicationFromSource(types: string[]) {
@@ -29,13 +48,13 @@ function applicationFromSource(types: string[]) {
 }
 
 /**
- * Normalizes only values present in the Art Ceramic source export. Fields the
- * export does not contain (product code, origin, certified material type and
- * translations) remain unset rather than being fabricated for the storefront.
+ * Art Ceramic's official site identifies the company and catalog as ceramic.
+ * We preserve only fields present in the source export and do not invent
+ * product codes, origin, translations or other missing specifications.
  */
 function mapProduct(source: RawArtCeramicProduct): Product {
-  const colors = [...new Set([source.color, source.colorCategory].filter(Boolean) as string[])];
-  const gallery = [source.image, ...source.tiles].filter(Boolean);
+  const colors = source.color ? [source.color] : source.colorCategory ? [source.colorCategory] : [];
+  const gallery = [...new Set([source.image, ...source.tiles].filter(Boolean).map(originalArtAsset))];
 
   return {
     id: source.id,
@@ -44,20 +63,22 @@ function mapProduct(source: RawArtCeramicProduct): Product {
     collection: "ceramics",
     brand: "Ceramica Art",
     model: source.name,
+    type: "Ceramic",
+    texture: textureFromSource(source.texture),
     finish: finishFromSource(source.texture),
-    variant: source.color ?? undefined,
-    usage: source.types,
+    usage: usageFromSource(source.types),
     application: applicationFromSource(source.types),
     colors,
     sizes: [{ id: `${source.id}-size-1`, label: source.size }],
-    image: source.image,
+    image: originalArtAsset(source.image),
     gallery,
     family: source.slug,
     source: {
-      provider: "Art Ceramic source export",
+      provider: "Art Ceramic official catalog",
       recordId: source.id,
-      reviewStatus: "needs-human-review",
+      reviewStatus: "source-imported",
       originalSurface: source.texture,
+      sourceUrl: `https://www.artceramic-egypt.com/products/${source.id}`,
     },
     approved: true,
     status: "imported",
