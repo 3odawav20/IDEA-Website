@@ -15,6 +15,10 @@ interface RawArtCeramicProduct {
   tiles: string[];
 }
 
+function originalArtAsset(url: string) {
+  return url.replace(/\/uploads\/(?:medium_|small_|thumbnail_)/i, "/uploads/");
+}
+
 function finishFromSource(value: string) {
   return value.split("/").map((part) => part.trim()).find((part) => /^(matt|glossy)$/i.test(part));
 }
@@ -35,7 +39,7 @@ function applicationFromSource(types: string[]) {
  */
 function mapProduct(source: RawArtCeramicProduct): Product {
   const colors = [...new Set([source.color, source.colorCategory].filter(Boolean) as string[])];
-  const gallery = [source.image, ...source.tiles].filter(Boolean);
+  const gallery = [...new Set([source.image, ...source.tiles].filter(Boolean).map(originalArtAsset))];
 
   return {
     id: source.id,
@@ -44,20 +48,22 @@ function mapProduct(source: RawArtCeramicProduct): Product {
     collection: "ceramics",
     brand: "Ceramica Art",
     model: source.name,
+    type: "Ceramic",
     finish: finishFromSource(source.texture),
     variant: source.color ?? undefined,
     usage: source.types,
     application: applicationFromSource(source.types),
     colors,
     sizes: [{ id: `${source.id}-size-1`, label: source.size }],
-    image: source.image,
+    image: originalArtAsset(source.image),
     gallery,
     family: source.slug,
     source: {
-      provider: "Art Ceramic source export",
+      provider: "Art Ceramic official catalog",
       recordId: source.id,
-      reviewStatus: "needs-human-review",
+      reviewStatus: "source-imported",
       originalSurface: source.texture,
+      sourceUrl: `https://www.artceramic-egypt.com/products/${source.id}`,
     },
     approved: true,
     status: "imported",
